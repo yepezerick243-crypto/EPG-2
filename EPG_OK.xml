@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="EPG combinado Disney Channel + Nickelodeon">
-  <channel id="DisneyChannelLatinAmerica.ar@Panregional"><display-name>Disney Channel Latin America (1080p)</display-name></channel>
-  <channel id="NickelodeonLatinAmerica.us@Panregional"><display-name>Nickelodeon Latin America (1080p)</display-name></channel>
+  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+    <display-name>Disney Channel Latin America (1080p)</display-name>
+  </channel>
+  <channel id="NickelodeonLatinAmerica.us@Panregional">
+    <display-name>Nickelodeon Latin America (1080p)</display-name>
+  </channel>
   <programme start="20260902000000-0500" stop="20260902002000-0500" channel="NickelodeonLatinAmerica.us@Panregional">
     <title lang="es">Tortugas Ninja: historias mutantes - Temporada 1 Episodio 4 - Donnie resiste</title>
     <desc lang="es">Se arma una batalla de ingenio entre Donnie y Bishop, mientras la tortuga se abre camino a través del sistema de metro de Nueva York, para mantener alejados a los Mechazoides.</desc>
