@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="XMLTV EPG" source-info-name="Programaciones PDF">
+  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+    <display-name lang="es">Disney Channel Latin America (1080p) - DisneyChannelLatinAmerica.ar@Panregional</display-name>
+  </channel>
+  <channel id="NickelodeonLatinAmerica.us@Panregional">
+    <display-name lang="es">Nickelodeon Latin America (1080p) - NickelodeonLatinAmerica.us@Panregional</display-name>
+  </channel>
+  <programme start="20260902235800 -0500" stop="20260903002100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 3 Episodio 26 - Cazacorazones: La batalla de los Miraculous - Parte 2</sub-title>
+    <desc lang="es">Hawk Moth akumatiza a Chloé en Miracle Queen para hacerla tomar el control de todos los titulares Milagrosos. ¿Podrán Ladybug y Cat Noir escapar de este plan fatal?</desc>
+  </programme>
+  <programme start="20260903002100 -0500" stop="20260903004400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">The Owl House - La casa búho</title>
+    <sub-title lang="es">Temporada 2 Episodio 4 - Manteniendo los miedos</sub-title>
+    <desc lang="es">Eda recibe una visita no deseada de un miembro de la familia que ejerce presión sobre todos en la Casa del Búho.</desc>
+  </programme>
+  <programme start="20260903004400 -0500" stop="20260903010700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 26 - Mucha gimnasia / En la noche</sub-title>
+    <desc lang="es">Los Green se divierten en el nuevo gimnasio de Big City. / Cricket encuentra una escapatoria a su toque de queda que le permite asistir a un espectáculo nocturno de drones.</desc>
+  </programme>
+  <programme start="20260903010700 -0500" stop="20260903013900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros más allá de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Nada es lo que parece</sub-title>
+    <desc lang="es">Billie, una joven y poderosa maga, es enviada a vivir en el mundo mortal con el único maestro mago que puede ayudarla a controlar sus poderes: Justin Russo.</desc>
+  </programme>
+  <programme start="20260903013900 -0500" stop="20260903021100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Nueva York, nueva niñera</sub-title>
+    <desc lang="es">Jessie acepta un trabajo como niñera y se muda con la familia Ross: la exitosa pareja compuesta por Christina, una ex- supermodelo devenida en una magnate de negocios; Morgan, un famoso director de películas; sus cuatro hijos Emma, Ravi, Luke y Zuri, y su querido lagarto varano acuático de 30 centímetros. Las responsabilidades como niñera son más difíciles de lo que Jessie anticipó cuando la ayuda a Emma, que está al borde de un colapso por una feria de ciencias.</desc>
+  </programme>
+  <programme start="20260903021100 -0500" stop="20260903023400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 4 Episodio 10 - La vuelta de Max</sub-title>
+    <desc lang="es">Harper actúa en la obra Spirit of America mientras Alex y Justin trabajan para transformar a Maxine otra vez en Max.</desc>
+  </programme>
+  <programme start="20260903023400 -0500" stop="20260903025600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 4 Episodio 10 - Maizbol / La lección de Meteora</sub-title>
+    <desc lang="es">Star intenta convencer a Buff Frog de que regrese con Mewni. / Glossaryck necesita que Meteora lo ayude con un recado.</desc>
+  </programme>
+  <programme start="20260903025600 -0500" stop="20260903032400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 26 - Censurado / Éxito</sub-title>
+    <desc lang="es">Cricket se interesa en una palabrota y la repite en contra de los deseos de Bill. Los Greens prueban varios métodos para aumentar las ventas en su puesto de verduras.</desc>
+  </programme>
+  <programme start="20260903032400 -0500" stop="20260903034700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Lady Wifi</sub-title>
+    <desc lang="es">Alya, la mejor amiga de Marinette, está influenciada por Hawk Moth y se convierte en Lady Wifi. Está convencida de que Chloé es Ladybug y quiere mostrárselo al mundo. Ladybug tiene que proteger su identidad además de salvar a Alya.</desc>
+  </programme>
+  <programme start="20260903034700 -0500" stop="20260903041000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras enredadas de Rapunzel</title>
+    <sub-title lang="es">Temporada 3 Episodio 15 - Flynnpostor</sub-title>
+    <desc lang="es">Eugene no está seguro de ser elegido como el nuevo capitán, pero se distrae con la noticia de que hay un nuevo ladrón que se parece mucho a Eugene, también llamado Flynn Rider, que ha vuelto a robar la corona.</desc>
+  </programme>
+  <programme start="20260903041000 -0500" stop="20260903042200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 36 - Hienus</sub-title>
+    <desc lang="es">La familia Díaz recibe la visita de Miss Heinous junto con su mayordomo y el brazo aún vivo y en proceso de regeneración de su cazarrecompensas mascota, Rastacore. Heinous quiere que la "princesa Marco" pague por hacer que los estudiantes de St. Olga se rebelen y echen a Heinous, dejándola viviendo en un automóvil. Los padres de Díaz esperan que esto se resuelva para poder cenar con los Morrison. Marco intenta convencer a un policía que se detuvo de que Heinous es malvado, pero falla. Después de que Heinous negocia con los padres de Marco sobre el tipo de castigo, Marco acepta hacer una declaración en video disculpándose por sus expresiones de individualidad y para que las princesas vuelvan a conformarse.</desc>
+  </programme>
+  <programme start="20260903042200 -0500" stop="20260903043400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 4 Episodio 20 - La taverna del fin del multiverso</sub-title>
+    <desc lang="es">Star busca una manera de derrotar a Mina y sus guerreros solarianos.</desc>
+  </programme>
+  <programme start="20260903043400 -0500" stop="20260903050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 9 - Gabriel Agreste</sub-title>
+    <desc lang="es">Durante una lujosa fiesta, Gabriel intenta robarle un importante anillo a su sobrino. Marinette se infiltra en el evento para proteger su relación con Adrien.</desc>
+  </programme>
+  <programme start="20260903050000 -0500" stop="20260903051100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Yeh Shin</sub-title>
+    <desc lang="es">Pilar y Breno deciden viajar a China para conocer la historia de Yeh Shen, la Cenicienta China, quien se transformó mágicamente gracias a la espina de un pez para ir a la fiesta de primavera donde perdió su zapato de oro. ¿Podrán ayudarla?</desc>
+  </programme>
+  <programme start="20260903051100 -0500" stop="20260903052200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">Temporada 3 Episodio 19 - Cambiando velocidades / El tesoro de la pirámide / El ladrón de calcetines</sub-title>
+    <desc lang="es">Mickey está emocionado y listo para pasar un gran día en la playa. Desafortunadamente, su auto no está listo y se desata una divertida batalla entre los dos./ Mickey guía a Minnie en una búsqueda del tesoro en el Valle de las Tumbas, pero cuando ambos se separan, la aventura podría resultar demasiado estresante para Mickey./ Cuando un ladrón comienza a robar todos los calcetines de la ciudad, Minnie asume como misión personal atrapar al criminal que está detrás de esto.</desc>
+  </programme>
+  <programme start="20260903052200 -0500" stop="20260903055100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 5 Episodio 4 - El rostro de Tropey McTrope; ¡Bombardeo de libros!</sub-title>
+    <desc lang="es">Los chicos construyen un zootropo gigante que emprende una aventura propia. / Construyen una estantería enorme que es atacada por un ejército de plantas Doof.</desc>
+  </programme>
+  <programme start="20260903055100 -0500" stop="20260903060300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 21 - Monster From the ID</sub-title>
+    <desc lang="es">Después de perder un regalo que Jeremy le hizo, Candace está decidida a recrearlo antes de que Jeremy se dé cuenta de que está perdido.</desc>
+  </programme>
+  <programme start="20260903060300 -0500" stop="20260903063200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - Dipper vs. Hombría</sub-title>
+    <desc lang="es">En una búsqueda por adquirir masculinidad, Dipper se aventura en el bosque para luchar contra el infame Multi-oso. Mientras, Mabel intenta enseñarle al Tío Stan cómo ser atractivo para las mujeres.</desc>
+  </programme>
+  <programme start="20260903063200 -0500" stop="20260903070100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 23 - Buenos propósitos / Invierno con los Green</sub-title>
+    <desc lang="es">En la víspera de Año Nuevo, Cricket insiste en ayudar a Gloria a completar su resolución de acercarse a su enamorado de toda la vida, Kevin./ Cricket y Remy desafían a Vásquez a una pelea de bolas de nieve; Tilly crea una persona de nieve.</desc>
+  </programme>
+  <programme start="20260903070100 -0500" stop="20260903073000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Día de medio año / Ya no suenes arpa</sub-title>
+    <desc lang="es">Kiff está a cargo de la importante comida navideña y nada puede salir mal. / Barry se queda atrapado en un arpa que hace que cualquiera que la escuche quede atrapado en sus recuerdos.</desc>
+  </programme>
+  <programme start="20260903073000 -0500" stop="20260903080000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 2 Episodio 15 - El nuevo bosque Verruga / Mi amigo Ranabot</sub-title>
+    <desc lang="es">Marcy se siente decepcionada al saber que a la gente de Wartwood no le agrada. Por otro lado, Polly se aburre mucho cuando todos están haciendo otra cosa y se encuentra con el robot que los estuvo siguiendo todo el tiempo.</desc>
+  </programme>
+  <programme start="20260903080000 -0500" stop="20260903083000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hamster &amp; Gretel</title>
+    <sub-title lang="es">Temporada 2 Episodio 49 - Interferencia directa / Cambio de rostros</sub-title>
+    <desc lang="es">Hiromi crea un personaje de villano falso para engañar a Hamster y Gretel para que consigan una entrevista; un villano captura a Hiromi y amenaza con exponer las identidades de Hamster y Gretel en las noticias.</desc>
+  </programme>
+  <programme start="20260903083000 -0500" stop="20260903090000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">El fantasma y Molly McGee</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Restaurando el anfiteatro / El mejor concierto de todos</sub-title>
+    <desc lang="es">Molly recauda dinero para reconstruir el antiguo Brighton Bandshell y unir a la ciudad. Molly y Scratch intentan encontrar una banda para encabezar el primer concierto de instrumentos musicales de Brighton.</desc>
+  </programme>
+  <programme start="20260903090000 -0500" stop="20260903092900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 16 - PANTelevisión / Trenza infinita</sub-title>
+    <desc lang="es">Los niños quedan atrapados en una candente telenovela de mutantes. / Sara intenta conseguir el peinado perfecto para poder ser la estrella del cuadro de Francis.</desc>
+  </programme>
+  <programme start="20260903092900 -0500" stop="20260903100200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Algo de qué hablar / El último fan de pie</sub-title>
+    <desc lang="es">Zed ve videos divertidos en ShrimpTok y termina teniendo que salvar a la humanidad. / Dae y Bree usan magia oscura para demostrar que son los fanáticos número uno de su banda favorita.</desc>
+  </programme>
+  <programme start="20260903100200 -0500" stop="20260903103200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 13 - Adiós, conejito / Un día ven el spa</sub-title>
+    <desc lang="es">Candace encuentra un conejito y quiere quedárselo pero primero debe demostrarle a su mamá que sería mejor mascota que Perry. Lo que nadie sabe es que el conejito es en realidad un malvado agente secreto.</desc>
+  </programme>
+  <programme start="20260903103200 -0500" stop="20260903110100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 1 - Evolución</sub-title>
+    <desc lang="es">Ladybug y Cat Noir se enfrentan a un oponente que ahora tiene el Miraculous del Conejo, en una carrera contrarreloj... y por sus aventuras anteriores.</desc>
+  </programme>
+  <programme start="20260903110100 -0500" stop="20260903113000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">¡Buena suerte, Charlie!</title>
+    <sub-title lang="es">Temporada 3 Episodio 20 - Compañero de Estudio</sub-title>
+    <desc lang="es">Amy vuelve al trabajo por primera vez desde que nació Charlie, dejando a Bob en casa con los niños. Teddy invita a Spencer a estudiar, cuandos los niños están en casa ayudando a Bob con Charlie mientras PJ y Emmett intentan ensayar.</desc>
+  </programme>
+  <programme start="20260903113000 -0500" stop="20260903115800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">¡Buena suerte, Charlie!</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Regresa, bebé</sub-title>
+    <desc lang="es">Un caso de identidad equivocada en un nuevo episodio de Good Luck Charlie.</desc>
+  </programme>
+  <programme start="20260903115800 -0500" stop="20260903122600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">¡Buena suerte, Charlie!</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Lleva a Mel al juego de pelota</sub-title>
+    <desc lang="es">Teddy lleva a su tío a un juego de pelota.</desc>
+  </programme>
+  <programme start="20260903122600 -0500" stop="20260903125900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Solo vibras mortales</sub-title>
+    <desc lang="es">El uso de magia por parte de Billie fuera de la guarida la mete en problemas con Justin, y su miedo a que la echen de otra casa sale a la superficie.</desc>
+  </programme>
+  <programme start="20260903125900 -0500" stop="20260903133000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - El traje</sub-title>
+    <desc lang="es">Cuando Lunella intenta mejorar su nuevo súper traje, se pasa de la raya y accidentalmente "le da jugo" a un peligroso escorpión del desierto.</desc>
+  </programme>
+  <programme start="20260903133000 -0500" stop="20260903140100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 2 Episodio 21 - Roncas cuentos / ¿Patty la mala?</sub-title>
+    <desc lang="es">Kiff le exige a Martin que le lea un cuento antes de dormir. / Kiff y Barry se preguntan si Patty es una mala después de que les roba la idea de su proyecto científico.</desc>
+  </programme>
+  <programme start="20260903140100 -0500" stop="20260903143100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Terrorbrook</sub-title>
+    <desc lang="es">Visita un universo alternativo donde humanos, zombis y hombres lobo se enfrentan en una batalla de baile en la noche de Halloween.</desc>
+  </programme>
+  <programme start="20260903143100 -0500" stop="20260903145900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Cupido / Espíritu escolar</sub-title>
+    <desc lang="es">Luego de reprobar un examen de matemáticas, Star intenta convencer a la Maestra Calavera de que le modifique la calificación a cambio de ayudarla con su vida amorosa.</desc>
+  </programme>
+  <programme start="20260903145900 -0500" stop="20260903152700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Los cazadores de cabezas</sub-title>
+    <desc lang="es">Cuando alguien altera la estatua de cera tamaño real de Mabel, ella y Dipper se encargan de encontrar al responsable. Mientras, el Tío Stan lamenta la pérdida de su doble de cera.</desc>
+  </programme>
+  <programme start="20260903152700 -0500" stop="20260903160000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 6 Episodio 16 - Noe</sub-title>
+    <desc lang="es">Marinette está feliz; la vida en París parece finalmente tranquila. Pero cuando Mylène revela una película que difama a Ladybug y Cat Noir, Marinette se da cuenta de que todo podría cambiar si los parisinos se creen las mentiras.</desc>
+  </programme>
+  <programme start="20260903160000 -0500" stop="20260903162800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 2 - Bill y su stand-up / Juicio Green</sub-title>
+    <desc lang="es">Bill descubre que su comediante favorito, Fred el granjero, podría no ser quien dice ser. Tilly defiende a Grillo en un juicio familiar después de que se lo acuse de robar un pastel.</desc>
+  </programme>
+  <programme start="20260903162800 -0500" stop="20260903170100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Dragon Striker</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - En otro nivel</sub-title>
+    <desc lang="es">Jugar en el torneo será mucho más difícil de lo que los caballeros imaginaban. Comienza el torneo y los contrincantes despliegan sus estrategias sobre la cancha.</desc>
+  </programme>
+  <programme start="20260903170100 -0500" stop="20260903173100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 15 - El área prehistórica / La dinastía Doof</sub-title>
+    <desc lang="es">Es la edad de piedra y Phinabunk y Gerb deciden inventar la rueda. / Es la China del siglo XVI y Phineas y Ferb se propusieron rescatar a la princesa Isabella secuestrada de Doofus Khan.</desc>
+  </programme>
+  <programme start="20260903173100 -0500" stop="20260903180200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - No hay fiesta de duendes como la de los hechiceros</sub-title>
+    <desc lang="es">Cuando la amiga problemática de Billie del mundo mágico la visita, Billie se excede para impresionarla y accidentalmente pone a Winter en peligro.</desc>
+  </programme>
+  <programme start="20260903180200 -0500" stop="20260903190500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Popstars</title>
+    <sub-title lang="es">Temporada 1 Episodio 5</sub-title>
+    <desc lang="es">Las participantes se enfrentarán a exigentes etapas de entrenamiento, talento y desafíos artísticos bajo la atenta mirada de un jurado de lujo. Empieza el apasionante camino hacia la formación de la próxima gran banda pop argentina.</desc>
+  </programme>
+  <programme start="20260903190500 -0500" stop="20260903194500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Lucha! Despierta tu Naturaleza</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Lucha somos todos</sub-title>
+    <desc lang="es">La música ya está a punto de comenzar a sonar en todas partes, por un lado, Lucía y sus amigos organizan su pequeño pero intenso concierto en la construcción de El Manto, con todo el pueblo, incluidos Aureliano y los padres de Lucía.</desc>
+  </programme>
+  <programme start="20260903194500 -0500" stop="20260903195700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - El cumpleaños de mamá</sub-title>
+    <desc lang="es">El día está lleno de sorpresas para Mamá cuando Candace y los chicos intentan darle el mejor cumpleaños de su vida.</desc>
+  </programme>
+  <programme start="20260903195700 -0500" stop="20260903202800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 3 Episodio 28 - La rueda sigue girando (al lado de mi cama)</sub-title>
+    <desc lang="es">Miley ofrece compartir su habitación con Lilly, pero al ser compañeras de habitación rápidamente causa problemas en la amistad de las chicas.</desc>
+  </programme>
+  <programme start="20260903202800 -0500" stop="20260903210200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Electric Bloom La mejor banda del mundo</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Cómo (más o menos) conseguimos nuestra primera gran oportunidad - Segunda parte</sub-title>
+    <desc lang="es">Electric Bloom tiene la oportunidad de su vida: conocer a un famoso productor musical. Sin embargo, la experiencia no es para nada la que esperaban.</desc>
+  </programme>
+  <programme start="20260903210200 -0500" stop="20260903213400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 4 Episodio 23 - Un secreto a voces</sub-title>
+    <desc lang="es">Gwen se entera de que sus padres quieren enviarla a una escuela real al final del verano, lo que la pone muy nerviosa y la lleva a confiarle a Lou que no es una buena lectora.</desc>
+  </programme>
+  <programme start="20260903213400 -0500" stop="20260903220400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina Teenage Vampire</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - El primer día de escuela</sub-title>
+    <desc lang="es">Vee desea tener un gran primer día de clases pero el Consejo de Vampiros le envía una amenazante advertencia. Por otro lado, Demi continúa su búsqueda de los Van Helsing.</desc>
+  </programme>
+  <programme start="20260903220400 -0500" stop="20260903223400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Un bastón especial / Inundación, sudor y lágrimas</sub-title>
+    <desc lang="es">Cuando Anne rompe el bastón favorito de Hop Pop, ella y sus amigos se disponen a reemplazarlo./ Cuando la habitación de Anne se inunda, ella y Sprig deben dormir juntas.</desc>
+  </programme>
+  <programme start="20260903223400 -0500" stop="20260903230000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Rápido y Phineas; Terror y gnomos en una fiesta en la playa</sub-title>
+    <desc lang="es">Los chicos convierten el auto de Mamá en un automóvil gigante a control remoto con el que compiten en una supercarrera. / Es el día más caluroso del verano y los chicos deciden hacer una playa tropical paradisíaca en su propio jardín.</desc>
+  </programme>
+  <programme start="20260903230200 -0500" stop="20260903233200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 1000 - Un campamento de verano de verdad / Perro come perro</sub-title>
+    <desc lang="es">Los niños llegan al misterioso campamento de verano de Lullah e intentan reparar su láser. / Los niños deben enfrentarse a los ladrones mutantes que les robaron la comida.</desc>
+  </programme>
+  <programme start="20260903233200 -0500" stop="20260903234500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Agitado y confundido</sub-title>
+    <desc lang="es">Zed recibe tutoría de un robot de debate. Addison y Willa debaten sobre la importancia de saludar con la mano.</desc>
+  </programme>
+  <programme start="20260903234500 -0500" stop="20260903235900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Tara Duncan</title>
+    <sub-title lang="es">Temporada 1 Episodio 46 - Blaliban dal salan</sub-title>
+    <desc lang="es">El tío de Cal es uno de los agentes secretos más famosos del Otro Mundo. Desafortunadamente, su última misión no salió según lo planeado. Descubre que incluso los mejores necesitan ayuda.</desc>
+  </programme>
+  <programme start="20260903235900 -0500" stop="20260904002400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 1 - La verdad</sub-title>
+    <desc lang="es">Un amigo de Marinette es akumatizado y se convierte en Verdad. Utilizando su poder para obligar a la gente a decir la verdad, quiere conocer el secreto de Marinette... ¡y también el de Ladybug y Cat Noir!</desc>
+  </programme>
+  <programme start="20260904002400 -0500" stop="20260904004800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">The Owl House - La casa búho</title>
+    <sub-title lang="es">Temporada 2 Episodio 5 - A través de las ruinas del espejo</sub-title>
+    <desc lang="es">Gus intenta impresionar a un grupo de chicos geniales de Glandus High, mientras que Luz y Amity viajan a la sección más peligrosa de la biblioteca.</desc>
+  </programme>
+  <programme start="20260904004800 -0500" stop="20260904011200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 27 - Spin Offs / Autito roto</sub-title>
+    <desc lang="es">Las grandes tecnológicas presentan su catálogo de programas de televisión generados por IA, inspirados en la gente de la Gran Ciudad. / La fe de Tilly en el pensamiento positivo se pone a prueba cuando conduce el kart defectuoso de Lupita.</desc>
+  </programme>
+  <programme start="20260904011200 -0500" stop="20260904014000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Solo vibras mortales</sub-title>
+    <desc lang="es">El uso de magia por parte de Billie fuera de la guarida la mete en problemas con Justin, y su miedo a que la echen de otra casa sale a la superficie.</desc>
+  </programme>
+  <programme start="20260904014000 -0500" stop="20260904021000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Falso karma</sub-title>
+    <desc lang="es">Después de que Jessie acepta una cita para ir a almorzar con Tony, Emma le da consejos sobre citas de revistas para adolescentes. Ravi se convierte en el blanco de las bromas pesadas de Luke.</desc>
+  </programme>
+  <programme start="20260904021000 -0500" stop="20260904023600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 4 Episodio 11 - Zeke se entera</sub-title>
+    <desc lang="es">Alex usa sus poderes para ayudar a Zeke con un truco de magia, él se convence de que es un mago.</desc>
+  </programme>
+  <programme start="20260904023600 -0500" stop="20260904025900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 4 Episodio 11 - El turno del caballero / Reina secuestrada</sub-title>
+    <desc lang="es">Star y Marco tienen que tomar algunas decisiones sobre el futuro. / Star y Marco tienen que rescatar a Eclipsa, quien fue secuestrada.</desc>
+  </programme>
+  <programme start="20260904025900 -0500" stop="20260904032100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 27 - El amante de la comida rápida / La teoría del espagueti</sub-title>
+    <desc lang="es">Un nuevo Burger Clown se abre al lado de los Greens lo que emociona a Cricket. Cuando Bill le dice que se aburrirá de comer allí en una semana, Cricket lo toma como un desafío y trata de comer allí todos los días.</desc>
+  </programme>
+  <programme start="20260904032100 -0500" stop="20260904034700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - Demoilustrador</sub-title>
+    <desc lang="es">Un estudiante enamorado de Marinette es akumatizado por Hawk Moth. Transformado en el Demoilustrador, busca vengarse de Chloe, la abusona que se burló de él.</desc>
+  </programme>
+  <programme start="20260904034700 -0500" stop="20260904041000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras enredadas de Rapunzel</title>
+    <sub-title lang="es">Temporada 3 Episodio 16 - Una vez a mano...</sub-title>
+    <desc lang="es">Eugene y Varian crean una nueva arma que llaman "Proyecto Obsidiana", una bazuca que dispara cristales de ámbar armados para combatir un ataque inminente de Cassandra.</desc>
+  </programme>
+  <programme start="20260904041000 -0500" stop="20260904043200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 10 - Mega Sanguijuela</sub-title>
+    <desc lang="es">Cuando Marinette y sus amigos van a protestar contra la deforestación de una plaza en París, el alcalde André Bourgeois se enfurece y es akumatizado. Ahora Ladybug tendrá que defender no solo la plaza, sino todo París.</desc>
+  </programme>
+  <programme start="20260904043200 -0500" stop="20260904050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 22 - Atravesando muros / El gran día de Candace</sub-title>
+    <desc lang="es">Los chicos inventan un dispositivo que les permite atravesar objetos. / Las escandalosas decoraciones de los chicos amenazan con arruinar el gran día de Candace como dama de honor.</desc>
+  </programme>
+  <programme start="20260904050000 -0500" stop="20260904051500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Temporada 1 Episodio 21 - Dragón de la lluvia</sub-title>
+    <desc lang="es">Breno, Pilar y Samba van a China para perfeccionar una de las invenciones de Breno. Allí, ¡Fang Fang debe atraer al dragón Ying Long!</desc>
+  </programme>
+  <programme start="20260904051500 -0500" stop="20260904053000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">Temporada 3 Episodio 7 - No; Split Decision</sub-title>
+    <desc lang="es">Mickey Mouse se da cuenta de que no es capaz de decirle que no a nadie cuando quiere pedirle prestado algo. / Mickey lleva a Donald a la máquina del profesor Von Drake en otro esfuerzo por curar su temperamento, con resultados caóticos.</desc>
+  </programme>
+  <programme start="20260904053000 -0500" stop="20260904055900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 5 Episodio 5 - Visita al veterinario; Más que un pasante</sub-title>
+    <desc lang="es">Los niños llevan a Perry al veterinario para una revisión y construyen un lavadero de mascotas mientras esperan. / Carl intenta ayudar a Perry a detener a Doof mientras tiene otros tres trabajos a tiempo parcial.</desc>
+  </programme>
+  <programme start="20260904055900 -0500" stop="20260904062900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - El cerdito del viajero del tiempo</sub-title>
+    <desc lang="es">Cuando Dipper desea volver el tiempo atrás y deshacer un error que cometió, descubre que hay una máquina del tiempo que puede ayudarlo a hacer justamente eso. Mientras, Mabel siente amor a primera vista cuando gana una mascota cerdo en la feria.</desc>
+  </programme>
+  <programme start="20260904062900 -0500" stop="20260904065900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 24 - Magos y laberintos / El gran karaoke</sub-title>
+    <desc lang="es">Remy invita a Cricket, Tilly y Kiki a jugar un juego de rol de fantasía. / Cuando los Greens y Remy salen de karaoke, Tilly se esfuerza por decidir qué tipo de música se adapta mejor a ella.</desc>
+  </programme>
+  <programme start="20260904065900 -0500" stop="20260904072700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - Amigoversario / Totalmente Table Town</sub-title>
+    <desc lang="es">Kiff y Barry son idénticos en todo. Sin embargo, un regalo extra puede inclinar la balanza. / Kiff y la pandilla se pierden en el bosque durante un encuentro aterrador.</desc>
+  </programme>
+  <programme start="20260904072700 -0500" stop="20260904080000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 2 Episodio 36 - La senda de la sapo-salvación / Maddie y Marcie</sub-title>
+    <desc lang="es">Al alcalde Toadstool se le ofrece un trabajo de ensueño, pero se da cuenta de que no quiere dejar Wartwood. Maddie está trabajando en un hechizo importante, pero sus tres hermanas se interponen en el camino.</desc>
+  </programme>
+  <programme start="20260904080000 -0500" stop="20260904083000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hamster &amp; Gretel</title>
+    <sub-title lang="es">Temporada 2 Episodio 20 - ¿Quién teme a Mordros el Aniquilador?</sub-title>
+    <desc lang="es">Mordros llega y revela su malvado plan para destruir a la humanidad. Gretel está más sola que nunca, y ella e Hiromi deben trabajar juntos para derrotar a Mordros.</desc>
+  </programme>
+  <programme start="20260904083000 -0500" stop="20260904090000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">El fantasma y Molly McGee</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Mamá y su ajetreo / ¡Viva Mollywood!</sub-title>
+    <desc lang="es">Cuando la camioneta de los McGees se avería, la mamá de Molly decide aceptar trabajos ocasionales para costear la reparación. / Molly aprende que más dinero significa más problemas cuando decide hacer su propia película de terror.</desc>
+  </programme>
+  <programme start="20260904090000 -0500" stop="20260904092900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de Verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Miedo primate / La última gota de Francis</sub-title>
+    <desc lang="es">Merian se hace cargo del caso de un chimpancé espacial destructivo. / Plinio quiere jugar a "Geoplomacia" cuando los niños descubren seis bancos de arena.</desc>
+  </programme>
+  <programme start="20260904092900 -0500" stop="20260904100100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">ZOMBIES: La serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - No cancelen en reality, por favor / El culpable es Sasquatch</sub-title>
+    <desc lang="es">Mothership produce un reality show protagonizado por todos los amigos de A-Spen; Eliza se involucra en una disputa entre hombres lobo y sasquatches.</desc>
+  </programme>
+  <programme start="20260904100100 -0500" stop="20260904103200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 16 - Viaje en burbuja / Isabella y el templo de la savia</sub-title>
+    <desc lang="es">Phineas y Ferb inventan una máquina de burbujas y vuelan a través de Danville. / Después de aceptar inadvertidamente ayudar a Phineas en un experimento, Isabella y el resto de la tropa se embarcan en una misión.</desc>
+  </programme>
+  <programme start="20260904103200 -0500" stop="20260904110100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 2 - Multiplicación</sub-title>
+    <desc lang="es">Pasan los días, y no aparece ningún villano akumatizado que aterrorice París. ¿Acaso Monarch se ha rendido?</desc>
+  </programme>
+  <programme start="20260904110100 -0500" stop="20260904113100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Nueva York, nueva niñera</sub-title>
+    <desc lang="es">Jessie acepta un trabajo como niñera y se muda con la familia Ross.</desc>
+  </programme>
+  <programme start="20260904113100 -0500" stop="20260904120000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Falso karma</sub-title>
+    <desc lang="es">Después de que Jessie acepta una cita para ir a almorzar con Tony, Emma le da consejos sobre citas de revistas para adolescentes. Ravi se convierte en el blanco de las bromas pesadas de Luke.</desc>
+  </programme>
+  <programme start="20260904120000 -0500" stop="20260904122900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - El talentoso Sr. Kipling</sub-title>
+    <desc lang="es">Jessie viene al rescate cuando el dueño del condominio quiere que el lagarto mascota de Ravi, el Sr. Kipling, salga del edificio.</desc>
+  </programme>
+  <programme start="20260904122900 -0500" stop="20260904125900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros más allá de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Salvados por un hechizo</sub-title>
+    <desc lang="es">En su primer día de escuela, Billie usa magia para impresionar al mejor amigo de Roman. Pero cuando Roman, celoso, le roba la varita a Billie, cae en las garras de un fantasma cazador de magos.</desc>
+  </programme>
+  <programme start="20260904125900 -0500" stop="20260904132900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Temporada 2 Episodio 3 - En la barriga de la bestia</sub-title>
+    <desc lang="es">Cuando Devil Dinosaur se come un peligroso aparato de Moon Girl, Lunella y Casey deben encogerse para recuperarlo.</desc>
+  </programme>
+  <programme start="20260904132900 -0500" stop="20260904140200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 2 Episodio 22 - Las pendientes / Mini Minis y su pianista</sub-title>
+    <desc lang="es">Kiff se va de viaje de esquí con la familia de Reggie. / Trevor no puede tocar el piano y necesita la ayuda de Kiff y Barry.</desc>
+  </programme>
+  <programme start="20260904140200 -0500" stop="20260904143100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">ZOMBIES: La serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - El reegreso del Zed viviente / Que mal pintas</sub-title>
+    <desc lang="es">Zed es perseguido por un fantasma digital de su yo más joven; Addison debe encontrar una forma de silenciar a su crítico interno antes de renunciar al arte por completo.</desc>
+  </programme>
+  <programme start="20260904143100 -0500" stop="20260904150200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Ánimo, Star / Misión compras</sub-title>
+    <desc lang="es">Star está triste porque no recibe la llamada de su amor platónico, Oskar. Marco intenta animarla, pero accidentalmente convoca a Ludo y a su ejército de monstruos. Star y Marco deben encontrar un nuevo cargador antes para la Varita Mágica.</desc>
+  </programme>
+  <programme start="20260904150200 -0500" stop="20260904153000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <sub-title lang="es">Temporada 2 Episodio 6 -La tienda embrujada</sub-title>
+    <desc lang="es">Cuando Dipper trata de impresionar a Wendy actuando mayor de lo que verdaderamente es, lo invitan a unirse a un grupo de adolescentes que se dirigen a una vieja y abandonada tienda de abarrotes que podría estar embrujada...</desc>
+  </programme>
+  <programme start="20260904153000 -0500" stop="20260904160300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 6 Episodio 14 - Grendiaper</sub-title>
+    <desc lang="es">el equipo de Ladybug enfrenta a un niño transformado en un bebé gigante debido a los celos por su nuevo hermano, desatando un debate moral entre Ladybug y Vesperia sobre si la justicia debe basarse en el castigo o en la empatía.</desc>
+  </programme>
+  <programme start="20260904160300 -0500" stop="20260904163100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 3 - Mal padre / Adicto a las porquerías</sub-title>
+    <desc lang="es">Grillo y Tilly conocen más a su abuelo, mientras Nancy intenta conseguirle un trabajo. Desesperado por asegurar el futuro de su familia, Bill se vuelve un acumulador.</desc>
+  </programme>
+  <programme start="20260904163100 -0500" stop="20260904170300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Dragon Striker</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - La suma de todas las partes</sub-title>
+    <desc lang="es">La unidad del equipo peligra justo antes de su primer partido oficial contra Los Sombras.</desc>
+  </programme>
+  <programme start="20260904170300 -0500" stop="20260904173500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 8 - Ingenio interrumpido / Un chico de verdad</sub-title>
+    <desc lang="es">Candace pasa todo el día con ella en el jardín para poder atrapar a sus hermanos. / El doctor Doofenshmirtz se siente tan mal que la alcanza con su olvídalo-todo-inador.</desc>
+  </programme>
+  <programme start="20260904173500 -0500" stop="20260904180700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros más allá de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Tienda de pociones</sub-title>
+    <desc lang="es">Cuando Billie usa una poción para entrar en la mente de Justin, descubre lo que realmente sucedió durante el infame "Incidente del Unicornio" que lo llevó a ser despedido de WizTech.</desc>
+  </programme>
+  <programme start="20260904180700 -0500" stop="20260904190900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Popstars</title>
+    <sub-title lang="es">Temporada 1 Episodio 6</sub-title>
+    <desc lang="es">Las participantes se enfrentarán a exigentes etapas de entrenamiento, talento y desafíos artísticos bajo la atenta mirada de un jurado de lujo. Empieza el apasionante camino hacia la formación de la próxima gran banda pop argentina.</desc>
+  </programme>
+  <programme start="20260904190900 -0500" stop="20260904195100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los MacAnimals</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - ¿Humanos o animales?</sub-title>
+    <desc lang="es">Mel y Melquiades secuestran a Ramoon y lo usan como moneda de cambio para la máquina. Clari, junto con Benja y los MacAnimals, idean un plan para rescatar a su abuelo. Bo insiste en ser transformado de nuevo en serpiente.</desc>
+  </programme>
+  <programme start="20260904195100 -0500" stop="20260904203000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los MacAnimals</title>
+    <sub-title lang="es">Temporada 2 Episodio 11 - Contrarreloj</sub-title>
+    <desc lang="es">Una niña activa el invento legado por su padre, transformando los animales que acompañaron su duelo en seres humanos. Mientras intenta reparar la máquina, los presenta como Los MacAnimals: una familia de costumbres atípicas y desopilantes.</desc>
+  </programme>
+  <programme start="20260904203000 -0500" stop="20260904210100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 3 Episodio 30 - ¿Me quedo o me voy? - Primera parte</sub-title>
+    <desc lang="es">Miley comienza a extrañar su antigua vida en Tennessee. Oliver recibe una oferta para ir a una gira de conciertos, pero su alegría se desvanece cuando se da cuenta de que no podrá ver a Lilly durante seis meses.</desc>
+  </programme>
+  <programme start="20260904210100 -0500" stop="20260904213700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Electric Bloom: La mejor banda del mundo</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Cómo comenzó</sub-title>
+    <desc lang="es">Tras verse obligados a actuar juntos en la Batalla de las Bandas, Posey, Jade y Tulip se unen a pesar de sus diferencias y consiguen una actuación realmente eléctrica.</desc>
+  </programme>
+  <programme start="20260904213700 -0500" stop="20260904220800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 4 Episodio 24 - Mi querida hada</sub-title>
+    <desc lang="es">Los hermanos Emma, Ravi y Zuri Ross deben dejar su extravagante penthouse en Nueva York para asistir al rústico Campamento Kikiwaka, donde sus padres se conocieron de adolescentes.</desc>
+  </programme>
+  <programme start="20260904220800 -0500" stop="20260904223500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina: una vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - El primer baile</sub-title>
+    <desc lang="es">Falta poco para el baile de bienvenida de Wilson Hall, y Vee y Elijah tienen problemas con los desequilibrios de poder. Mientras tanto, Sophie busca su propia identidad como DJ.</desc>
+  </programme>
+  <programme start="20260904223500 -0500" stop="20260904230400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Plato fuerte / Enfrentados</sub-title>
+    <desc lang="es">Para ganar un concurso de cocina de la aldea, Anne lidera a la familia en una búsqueda para hacer una comida nunca antes vista en Bosque Verruga. Por otro lado, Sprig engaña a Abu Hop/Papa Hop y Anne para que se lleven mejor.</desc>
+  </programme>
+  <programme start="20260904230400 -0500" stop="20260904233200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Los pocos magníficos / Invierano</sub-title>
+    <desc lang="es">Phineas y Ferb se convierten en vaqueros cuando arrean una estampida de ganado por las calles de Danville. / Es invierno en pleno verano cuando los chicos crean una montaña de nieve y tienen toneladas de fría diversión en el jardín.</desc>
+  </programme>
+  <programme start="20260904233200 -0500" stop="20260905000000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de Verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Drama en el diorama / Alboroto de cabras</sub-title>
+    <desc lang="es">Plinio intenta cumplir una promesa cuando los niños juegan con un diorama extraño. / Sara se siente culpable después de estafar a Larry para que le dé sus frijoles coleccionables.</desc>
+  </programme>
+  <programme start="20260904000000 -0500" stop="20260904001200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">ZOMBIES: La serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Abandonen a Zip</sub-title>
+    <desc lang="es">Cuando se forma un peligroso sumidero en el pasillo, Zed y Addison construyen una tirolesa para saltar sobre él.</desc>
+  </programme>
+  <programme start="20260904001200 -0500" stop="20260904002500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Tara Duncan</title>
+    <sub-title lang="es">Temporada 1 Episodio 47 - Buenas noches</sub-title>
+    <desc lang="es">Cuando comienza un partido, el equipo de Meme, Pegasus, queda extrañamente agotado y no puede jugar. Para evitar que su equipo sea descalificado, Tara y sus amigos investigan.</desc>
+  </programme>
+  <programme start="20260904002500 -0500" stop="20260904004800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 2 - Mentiras</sub-title>
+    <desc lang="es">Kagami piensa que Adrien no la ama y, como él también es Cat Noir, siempre tiene que mentir para dejarla y poder salvar París. Entonces Kagami encuentra el amuleto de la suerte que Marinette le dio a Adrien.</desc>
+  </programme>
+  <programme start="20260904004800 -0500" stop="20260904011000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">The Owl House - La Casa Búho</title>
+    <sub-title lang="es">Temporada 2 Episodio 6 - Cacería de taliamigos</sub-title>
+    <desc lang="es">Es el día de emparejamiento de Palisman en Hexside, pero Luz no coincide con un Palisman propio y pronto se encuentra en un viaje inesperado con un enemigo.</desc>
+  </programme>
+  <programme start="20260904011000 -0500" stop="20260904013300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecionos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 28 - No quiero esperar / Reglas raras</sub-title>
+    <desc lang="es">Un Cricket hambriento encuentra una forma de acelerar la corta espera en un restaurante. / Nancy intenta evitar que Cricket rompa todas las extrañas leyes de Smalton.</desc>
+  </programme>
+  <programme start="20260904013300 -0500" stop="20260904020300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros más allá de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Salvados por un hechizo</sub-title>
+    <desc lang="es">En su primer día de escuela, Billie usa magia para impresionar al mejor amigo de Roman. Pero cuando Roman, celoso, le roba la varita a Billie, cae en las garras de un fantasma cazador de magos.La vuelta de Max</desc>
+  </programme>
+  <programme start="20260904020300 -0500" stop="20260904023100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - El talentoso Sr. Kipling</sub-title>
+    <desc lang="es">Jessie viene al rescate cuando el dueño del condominio quiere que el lagarto mascota de Ravi, el Sr. Kipling, salga del edificio.</desc>
+  </programme>
+  <programme start="20260904023100 -0500" stop="20260904025400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 4 Episodio 12 - Magia desenmascarada</sub-title>
+    <desc lang="es">Alex descubre que ella es la razón por la cual su luchador favorito se ha retirado.</desc>
+  </programme>
+  <programme start="20260904025400 -0500" stop="20260904031700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 4 Episodio 12 - Janna en el basurero / Un hechizo sin nombre</sub-title>
+    <desc lang="es">Tom llega a descubrir cuánto puede divertirse sin que Star esté allí también. Los hechizos de Star y Eclipsa se enfrentan cara a cara, y deben formar un equipo para detener un hechizo letal que se vuelve pícaro.</desc>
+  </programme>
+  <programme start="20260904031700 -0500" stop="20260904034100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Green en la gran ciudad</title>
+    <sub-title lang="es">Temporada 2 Episodio 28 - Batalla campal / Animación abominable</sub-title>
+    <desc lang="es">Remy descubre que Cricket es la clave de la popularidad en una nueva aplicación para compartir videos y lo sigue presionando para que haga acrobacias peligrosas para obtener vistas.</desc>
+  </programme>
+  <programme start="20260904034100 -0500" stop="20260904040600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Rogercop</sub-title>
+    <desc lang="es">Un estudiante enamorado de Marinette es akumatizado por Hawk Moth y transformado en el Demoilustrador, busca vengarse de Chloe, la abusona que se burló de él.</desc>
+  </programme>
+  <programme start="20260904040600 -0500" stop="20260904043000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras enredadas de Rapunzel</title>
+    <sub-title lang="es">Temporada 3 Episodio 68 - Hay más en ti - Parte I</sub-title>
+    <desc lang="es">Rapunzel y la pandilla traman un plan para detener a Zhan Tiri.</desc>
+  </programme>
+  <programme start="20260904043000 -0500" stop="20260904044300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 38 - Daño colateral</sub-title>
+    <desc lang="es">Star debe subir la moral de la Academia Eco Arroyo luego de destruir la estatua de la zarigüeya.</desc>
+  </programme>
+  <programme start="20260904044300 -0500" stop="20260904050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 1b - De paseo con un pony</sub-title>
+    <desc lang="es">La mejor amiga de Star viene desde su dimensión a visitarla y se siente amenazada por la nueva amistad de Star con Marco.</desc>
+  </programme>
+  <programme start="20260904050000 -0500" stop="20260904051500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Temporada 1 Episodio 22 - El intercambio</sub-title>
+    <desc lang="es">Dispuestos a encontrar alimentos originales para la competencia de golosinas internacionales del grupo del Guayabero, Pilar, Breno y Samba van a los Andes, al Lago Titicaca, ¡donde alguien le está robando patatas al guardián Tunki!</desc>
+  </programme>
+  <programme start="20260904051500 -0500" stop="20260904053000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">Temporada 4 Episodio 21 - The Perfect Dream / Locked in Love / Dumb Luck</sub-title>
+    <desc lang="es">Con los aires de payasadas del clásico Mickey, la serie de cortos animados presenta a Mickey en una variedad de situaciones cómicas, que muestran su valor y su picardía, junto con su consabido encanto y buen corazón.</desc>
+  </programme>
+  <programme start="20260904053000 -0500" stop="20260904060000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 5 Episodio 6 - La aurora Perry-al / Señor de la fogata</sub-title>
+    <desc lang="es">Los Flynn-Fletcher se van de crucero mientras Doof roba productos encogidos. / Isabella lucha por liderar sola a las Fireside Girls mientras Doof renueva su malvada licencia comercial.</desc>
+  </programme>
+  <programme start="20260904060000 -0500" stop="20260904063000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Tesoro irracional</sub-title>
+    <desc lang="es">Cuando Dipper y Mabel encuentran evidencia que indica que el alegado fundador del pueblo es un fraude, ellos se disponen a revelar este histórico encubrimiento y probar que las tonteras de Mabel no son algo malo.</desc>
+  </programme>
+  <programme start="20260904063000 -0500" stop="20260904070000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 25 - Noche de cita / La habitación</sub-title>
+    <desc lang="es">Cuando Bill acompaña a Cricket y Gabriella en su primera cita, las cosas no salen como esperaban./ Tilly y Cricket se involucran en un gran conflicto, siendo vistos como un entretenimiento similar a un reality show para Gloria y Gramma.</desc>
+  </programme>
+  <programme start="20260904070000 -0500" stop="20260904072500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Calcetines bailarines</sub-title>
+    <desc lang="es">Helen teje un par de calcetines mágicos para el secretario principal, los cuales le ayudan a vencer al director de escuela rival, en una batalla de baile. Pero lamentablemente este nuevo talento rápidamente se le sube a la cabeza.</desc>
+  </programme>
+  <programme start="20260904072500 -0500" stop="20260904073000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 25 - El agente Doof</sub-title>
+    <desc lang="es">Una explosión errante del Babe-inator de Doofenshmirtz convierte a Phineas y Ferb en niños pequeños con Candace a cargo de ellos.</desc>
+  </programme>
+  <programme start="20260904073000 -0500" stop="20260904080000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 2 Episodio 17 - El segundo templo / El mazo de guerra de Bruno</sub-title>
+    <desc lang="es">La búsqueda de Anne y Marcy para llegar a casa las lleva a un templo en una montaña helada, pero necesitarán ayuda para encontrarlo.</desc>
+  </programme>
+  <programme start="20260904080000 -0500" stop="20260904083000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hamster &amp; Gretel</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Empoderamiento fallido / Viva arbolón</sub-title>
+    <desc lang="es">Hamster y Gretel obtienen superpoderes de extraterrestres mientras Kevin lucha por ser un superhéroe. Por otro lado, Kevin y Gretel no están de acuerdo sobre cómo detener un meteorito.</desc>
+  </programme>
+  <programme start="20260904083000 -0500" stop="20260904090000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">El fantasma y Molly McGee</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Un Abe poco honesto / Tensiones con Nin</sub-title>
+    <desc lang="es">Cuando Scratch le dice a Molly que puede conseguir que Abe Lincoln la ayude con su proyecto, se apresura a cubrir su mentira. / Cuando mamá y la abuela Nin no se llevan bien, Molly hace que se reconcilien.</desc>
+  </programme>
+  <programme start="20260904090000 -0500" stop="20260904093000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Chip en busca de peces / ¡Conmoción en el caparazón!</sub-title>
+    <desc lang="es">Chip se convierte en espía para demostrar que no es un idiota. / Tras un susto, el temerario Larry adopta una vida de extrema precaución.</desc>
+  </programme>
+  <programme start="20260904093000 -0500" stop="20260904100000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Terrorbrook</sub-title>
+    <desc lang="es">Visita un universo alternativo donde humanos, zombis y hombres lobo se enfrentan en una batalla de baile en la noche de Halloween.</desc>
+  </programme>
+  <programme start="20260904100000 -0500" stop="20260904103000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 17 - Animando a Candace / La fiesta de las exploradoras</sub-title>
+    <desc lang="es">Candace saca conclusiones precipitadas cuando Jeremy cancela una cita con ella. Y luego Candace intenta convertirse en una Fireside Girl para entrar en un concierto con entradas agotadas.</desc>
+  </programme>
+  <programme start="20260904103000 -0500" stop="20260904110000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 3 - Destrucción</sub-title>
+    <desc lang="es">¿Y si la peor pesadilla de Ladybug se hiciera realidad? ¿Y si Monarch se presentara en casa de Marinette Dupain-Cheng?... ¿Sería capaz de escapar de él?</desc>
+  </programme>
+  <programme start="20260904110000 -0500" stop="20260904113000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Lilly, ¿quieres saber un secreto?</sub-title>
+    <desc lang="es">Miley Stewart es una chica normal de día y la famosa cantante de pop adolescente, Hannah Montana, por la noche. Su amiga Lilly invita Miley al concierto de Hannah Montana. Jackson necesita dinero para una cita.</desc>
+  </programme>
+  <programme start="20260904113000 -0500" stop="20260904120000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - Ella es una súper soplona</sub-title>
+    <desc lang="es">Miley y Jackson salen a hurtadillas de la casa para el teatro y ver a Robby con su cita.</desc>
+  </programme>
+  <programme start="20260904120000 -0500" stop="20260904123000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Miley, toma tu goma de mascar</sub-title>
+    <desc lang="es">Cuando el amor de Oliver por Hannah Montana llega al extremo, Miley y Lilly deciden actuar. Mientras tanto, Jackson compra un "coche de niña" sin darse cuenta, hasta que llega a casa.</desc>
+  </programme>
+  <programme start="20260904123000 -0500" stop="20260904130000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Algo mágico está llegando</sub-title>
+    <desc lang="es">En Halloween, Billie le cuenta a Roman sobre Pumpkin Belly, un demonio que se come a cualquiera cuya casa no esté decorada de forma espeluznante. Mientras tanto, Justin, Milo y Giada defienden la casa de los bromistas.</desc>
+  </programme>
+  <programme start="20260904130000 -0500" stop="20260904133000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Temporada 2 Episodio 4 - Viajar o morir</sub-title>
+    <desc lang="es">Cuando Moon Girl debe transportar a Quickwhip a S.H.I.E.L.D., mantener al criminal bajo custodia se vuelve más difícil de lo que imaginaba.</desc>
+  </programme>
+  <programme start="20260904133000 -0500" stop="20260904140000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 2 Episodio 24 - Tío Pat a Cargo / Súper Catorce</sub-title>
+    <desc lang="es">El tío Pat se toma muy en serio el cuidado de Kiff. Barry se encarga de organizar una fiesta de 14 años para su primo.</desc>
+  </programme>
+  <programme start="20260904140000 -0500" stop="20260904143000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 14 - El lado oscuro de las Lunis / Una mente misteriosa y magnífica</sub-title>
+    <desc lang="es">Bucky experimenta lo que es ser un hombre lobo. / Decidida a ganar el concurso de preguntas y respuestas de Seabrook, Eliza construye una banda W para ayudar a su compañero Wynter a concentrarse.</desc>
+  </programme>
+  <programme start="20260904143000 -0500" stop="20260904150000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Las vacaciones de la familia Díaz / La fiesta de Brittney</sub-title>
+    <desc lang="es">Luego de invitar a los Díaz a un viaje a Mewni, Star y Marco deben salvarlos de una serpiente de muchas cabezas./ Star debe luchar contra Ludo y su ejército de monstruos cuando éstos aparecen en la fiesta de cumpleaños de Brittney Wong.</desc>
+  </programme>
+  <programme start="20260904150000 -0500" stop="20260904153000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - La mano que mece a Mabel</sub-title>
+    <desc lang="es">Dipper y Mabel descubren que su nuevo y aparentemente angelical vecino Gideon, resulta ser el psíquico adorado por el pueblo.</desc>
+  </programme>
+  <programme start="20260904153000 -0500" stop="20260904160000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 6 Episodio 8 - Vampigami</sub-title>
+    <desc lang="es">Un apreciado musical de terror celebra su cincuenta aniversario. A pesar de su miedo a los espectáculos de terror, Marinette asiste con Adrien, pero Nelson usa a Prem para crear tensión entre Rose y Juleka.</desc>
+  </programme>
+  <programme start="20260904160000 -0500" stop="20260904180000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Up: una aventura de altura</title>
+    <desc lang="es">Up Familiar / 2009 Un señor viudo de setenta y ocho años cumple con un sueño de toda la vida cuando amarra miles de globos a su casa y vuela rumbo a Sudamérica. Pronto descubre que un niño optimista de ocho años llamado Russell se ha colado en el viaje.</desc>
+  </programme>
+  <programme start="20260904180000 -0500" stop="20260904190000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Popstars</title>
+    <sub-title lang="es">Temporada 1 Episodio 7</sub-title>
+    <desc lang="es">Las participantes se enfrentarán a exigentes etapas de entrenamiento, talento y desafíos artísticos bajo la atenta mirada de un jurado de lujo. Empieza el apasionante camino hacia la formación de la próxima gran banda pop argentina.</desc>
+  </programme>
+  <programme start="20260904190000 -0500" stop="20260904193000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina: una vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - El primer villano</sub-title>
+    <desc lang="es">Cuando Sophie dirige a Vee y Elijah en una escena romántica, un nuevo estudiante de Transilvania, Lucien, interrumpe la química entre ellos. Mientras tanto, Demi y Britney tienen que hacer las tareas de la cocina.</desc>
+  </programme>
+  <programme start="20260904193000 -0500" stop="20260904200000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 26 - La vida secreta del Sr. Kipling</sub-title>
+    <desc lang="es">El Sr. Kipling ha estado actuando de forma extraña durante algún tiempo. Es malo con Ravi y ha tenido extraños antojos de comida. Se revela que el Sr. Kipling es una lagartija que cuida a sus doce bebés y esto asusta a toda la familia Ross.</desc>
+  </programme>
+  <programme start="20260904200000 -0500" stop="20260904203000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 3 Episodio 31 - ¿Miley dice adiós? - Parte 2</sub-title>
+    <desc lang="es">Jackson descubre que su nuevo piso de soltero está hecho un desastre. Miley duda de su nueva vida y extraña Tennessee, mientras Oliver considera dejar la gira por Lilly, que teme quedarse sin él ni Miley.</desc>
+  </programme>
+  <programme start="20260904203000 -0500" stop="20260904210000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Electric Bloom: La mejor banda del mundo</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Cómo casi terminó</sub-title>
+    <desc lang="es">Preocupada por la posibilidad de que la banda se desintegrara debido a sus diferencias, Tulip contrata a Electric Bloom para su primer concierto. Las chicas finalmente descubren que sus diferencias las fortalecen.</desc>
+  </programme>
+  <programme start="20260904210000 -0500" stop="20260904213000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 4 Episodio 25 - Aguafiestas</sub-title>
+    <desc lang="es">Lou es invitada a una conferencia para directores, donde se le ha pedido que dé un discurso. Ella permite que Destiny la acompañe, pero pronto lamenta la decisión.</desc>
+  </programme>
+  <programme start="20260904213000 -0500" stop="20260904220000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina: una vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - El primer Día de los Padres</sub-title>
+    <desc lang="es">Vee y Elijah son sorprendidos con el primer Día de los Padres. Deben luchar por evitar que sus padres se reúnan. Mientras tanto, Demi aprende a disfrazarse de fantasma.</desc>
+  </programme>
+  <programme start="20260904220000 -0500" stop="20260904223000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - El efecto dominó / La pura verdad</sub-title>
+    <desc lang="es">La familia se embarca en una misión para intentar recargar el teléfono de Anne./ Anne quiere tener una oruga como mascota, pero tendrá que mantenerlo en secreto para Hop Pop.</desc>
+  </programme>
+  <programme start="20260904223000 -0500" stop="20260904230000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Bravucón salvaje / Luces, Candace, acción</sub-title>
+    <desc lang="es">Lo que comenzó como un día tranquilo en el centro comercial se transforma en la batalla del verano cuando Phineas es desafiado a una guerra de pulgares. / Esta es la oportunidad de Candace de convertirse en una glamorosa estrella de cine.</desc>
+  </programme>
+  <programme start="20260904230000 -0500" stop="20260904233000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de Verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Desayuno en Chippany's / El guardián de los pájaros</sub-title>
+    <desc lang="es">Chip quiere preparar un desayuno que dejará atónitos a sus amigos. / Larry salva a un lagarto bebé y jura protegerlo de todo daño.</desc>
+  </programme>
+  <programme start="20260904233000 -0500" stop="20260904234500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">ZOMBIES: La serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Quiero bailar con Lizombie</sub-title>
+    <desc lang="es">Addison usa poderes alienígenas avanzados para los que aún no está preparada y sin darse cuenta causa destrucción en el gran baile de la escuela.</desc>
+  </programme>
+  <programme start="20260904234500 -0500" stop="20260905000000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Tara Duncan</title>
+    <sub-title lang="es">Temporada 1 Episodio 48 - Casa de la emperatriz</sub-title>
+    <desc lang="es">¡Robaron el banco de Tingal! Tara y sus amigos siguen su instinto y se unen a la investigación. Ayudan a su maestro y enfrentan lo que amenazaba la reserva de oro.</desc>
+  </programme>
+  <programme start="20260902000000 -0500" stop="20260902002000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Donnie resiste</sub-title>
+    <desc lang="es">Se arma una batalla de ingenio entre Donnie y Bishop, mientras la tortuga se abre camino a través del sistema de metro de Nueva York, para mantener alejados a los Mechazoides.</desc>
+  </programme>
+  <programme start="20260902002000 -0500" stop="20260902004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 14 Episodio 1 - Defensa Unicelular / Músculos para ti</sub-title>
+    <desc lang="es">Harto de que lo pisoteen, Plankton aprende defensa personal en las clases de Arenita. / Don Cangrejo sale de su caparazón y comienza a ir al gimnasio para impresionar a la Sra. Puff, pero luego es exhibido por Larry en la playa.</desc>
+  </programme>
+  <programme start="20260902004500 -0500" stop="20260902011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 14 Episodio 2 - Amamos a Hoops / Anchoa Esponja</sub-title>
+    <desc lang="es">Bob Esponja y Patricio se hacen amigos de un Niño Kelpbed./ Las anchoas falsas se apoderan de la ciudad.</desc>
+  </programme>
+  <programme start="20260902011000 -0500" stop="20260902013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Misión Cazacriaturas / El extraño mejor amigo de Mica</sub-title>
+    <desc lang="es">¡Todos están jugando Cazacriaturas! Twister, desesperado por ganar el gran premio, toma el teléfono de Gran Gran antes de que alguien despierte. Sin embargo, su cacería lo lleva al bote de Stan, ¡y es atrapado!</desc>
+  </programme>
+  <programme start="20260902013500 -0500" stop="20260902015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Es tan Cupido / Olor amigo</sub-title>
+    <desc lang="es">Inspirados por la última comedia romántica que vieron en el cine, Best y Bester deciden tomar la misión religiosa de los celestinos. / Toot se muda a un submarino con Best y Bester.</desc>
+  </programme>
+  <programme start="20260902015500 -0500" stop="20260902022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Vuelo y pelea / Empleado del mes</sub-title>
+    <desc lang="es">Best y Bester tienen que encontrar una manera inteligente de tomar su vuelo, a pesar de tener pasaportes falsos, cuyas fotos de identificación, no se parecen en nada a ellos.</desc>
+  </programme>
+  <programme start="20260902022000 -0500" stop="20260902024000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Nate, el grande</title>
+    <sub-title lang="es">Temporada 2 Episodio 11 - As crianças de verdade da P.S</sub-title>
+    <desc lang="es">Con la esperanza de poner a Rackleff en el mapa, Nate decide crear un reality ambientado en P.S. 38, pero para mantenerse en antena tendrá que exponer a sus amigos a un montón de drama.</desc>
+  </programme>
+  <programme start="20260902024000 -0500" stop="20260902030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 3 Episodio 9 - Cuando ya no quedan ideas / Una buena lección</sub-title>
+    <desc lang="es">Patricio y Calamarina siguen una idea desbocada, que los conduce a Randomland. / Después de descubrir que Patricio nunca terminó el entrenamiento conductual, la familia comienza a educarlo dentro de la casa.</desc>
+  </programme>
+  <programme start="20260902030500 -0500" stop="20260902032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - Super Estrellas</sub-title>
+    <desc lang="es">En un universo alternativo, la familia Estrella es un equipo de superhéroes, o al menos eso creen.</desc>
+  </programme>
+  <programme start="20260902032000 -0500" stop="20260902034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 22 - The Devil Is In the Tails</sub-title>
+    <desc lang="es">Sonic descubre una nueva habilidad que podría ser la clave para derrotar a Nine. Sin embargo, el ejército interminable de Nine tiene un único propósito: capturar la energía de Sonic.</desc>
+  </programme>
+  <programme start="20260902034500 -0500" stop="20260902040500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 24 - Desenmascarando a la mente maestra - Parte 1</sub-title>
+    <desc lang="es">Max y Phoebe descubren que Lazlo Chance podría ser el malvado Mente Maestra y piden la ayuda de Chloe. Pero cuando Chloe se debate entre la razón y el corazón, la misión se ve amenazada.</desc>
+  </programme>
+  <programme start="20260902040500 -0500" stop="20260902043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 3 Episodio 11 - Ray perdona</sub-title>
+    <desc lang="es">Ray termina con Credenza, dejándole a Fuerza Danger sólo 48 horas para enseñar a Ray a perdonar antes de que su relación termine para siempre.</desc>
+  </programme>
+  <programme start="20260902043000 -0500" stop="20260902045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Henry Danger</title>
+    <sub-title lang="es">Temporada 4 Episodio 9 - Corte de presupuesto</sub-title>
+    <desc lang="es">Cuando el Vicealcalde recorta el presupuesto del Capitán Man y Kid Danger para construir un ferrocarril de alta velocidad en Swellview, el Capitán Man y Kid Danger deben encontrar maneras creativas de ahorrar dinero.</desc>
+  </programme>
+  <programme start="20260902045500 -0500" stop="20260902052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 22 - Resolución de baile / Una feria para recordar</sub-title>
+    <desc lang="es">Es el baile Sadie Hawkins en la escuela de Lincoln y sus hermanas accidentalmente le consiguen cuatro citas./ Lincoln y Bobby se vuelven unidos como hermanos, lo que despierta los celos de Lori.</desc>
+  </programme>
+  <programme start="20260902052000 -0500" stop="20260902054000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Uno de los chicos / Historia de una chismosa</sub-title>
+    <desc lang="es">Lincoln desea tener diez hermanos en lugar de diez hermanas y Lisa le da un vistazo de esa realidad. / Lola quiere ser parte del club de secretos de sus hermanos, pero ellos no la dejan porque es una chismosa.</desc>
+  </programme>
+  <programme start="20260902054000 -0500" stop="20260902060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - Es una casa Loud, Loud, Loud, Loud</sub-title>
+    <desc lang="es">Lincoln encuentra una carta en el ático, que le lleva a creer que hay dinero escondido dentro de la casa Loud.</desc>
+  </programme>
+  <programme start="20260902060000 -0500" stop="20260902062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 16 Episodio 6 - Bob Esponja TrashPants / Cafetería Krusty</sub-title>
+    <desc lang="es">Bob Esponja decide limpiar Fondo de Bikini. / El equipo del Crustáceo Cascarudo se encarga del servicio de cafetería en la escuela de Perlita.</desc>
+  </programme>
+  <programme start="20260902062500 -0500" stop="20260902064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 16 Episodio 7 - El balde embrujado / ¡Atrapala!</sub-title>
+    <desc lang="es">Los espíritus vagan por Fondo de Bikini en Halloween tras la apertura de un portal fantasma en el Cubo de Carnada. / Cuando Gary pierde su pelota favorita en una fosa profunda, Bob Esponja debe perseguir a un decidido rape para recuperarla.</desc>
+  </programme>
+  <programme start="20260902064500 -0500" stop="20260902070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 253 - Los niñeros</sub-title>
+    <desc lang="es">Bob Esponja y Patricio son engañados para que cuiden a una anciana gruñona, pero ella hace todo lo posible por escapar.</desc>
+  </programme>
+  <programme start="20260902070000 -0500" stop="20260902072000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Hope se escapa / López pierde la cabeza</sub-title>
+    <desc lang="es">Jugando en el parque, Hope no comparte un balón rebotador de musgo que encuentra. Es tan cómodo que se duerme en él, mientras rueda por la ciudad causando caos.</desc>
+  </programme>
+  <programme start="20260902072000 -0500" stop="20260902074500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 1 Episodio 16 - Revancha retroactiva / Caza casas</sub-title>
+    <desc lang="es">La abuela Tentáculos ayuda a Calamardo a cobrarle a Cecil el dinero de la entrega del periódico. / La casa de la familia Estrella se escapa de casa.</desc>
+  </programme>
+  <programme start="20260902074500 -0500" stop="20260902080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 1 - Los juegos estrella</sub-title>
+    <desc lang="es">Patricio obliga a toda su familia a participar en un programa que consiste en superar retos.</desc>
+  </programme>
+  <programme start="20260902080000 -0500" stop="20260902082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Mascota / Bocadillo</sub-title>
+    <desc lang="es">Pinky está muy entusiasmado con su nuevo trabajo en un refugio de mascotas. La pequeña salchicha se encariña con uno de los gatos que se alojan en el lugar. Ambos han formado un "miau-ravilloso" equipo.</desc>
+  </programme>
+  <programme start="20260902082000 -0500" stop="20260902084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 13 - De vuelta allá / Hechízalo</sub-title>
+    <desc lang="es">Después de la ruptura amorosa, Clyde piensa que Lincoln no logra olvidarse de Ronnie Anne e intenta curar su tristeza. / Cansada de sufrir en manos de sus hermanos, Lucy recurre a un libro de hechizos para enseñarles una lección a todos.</desc>
+  </programme>
+  <programme start="20260902084500 -0500" stop="20260902091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 16 - Paraíso de tontos / Inseguridad en el trabajo</sub-title>
+    <desc lang="es">Con el bromista Luan en el campamento para el Día de los Inocentes, los Loud piensan que deberían estar a salvo. / Los niños descubren que papá ya no está en su antiguo trabajo y les preocupa que sea su culpa.</desc>
+  </programme>
+  <programme start="20260902091000 -0500" stop="20260902093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 19 - Tiempo futuro / Lynn se queda con todo</sub-title>
+    <desc lang="es">Cuando Mamá y Papá conocen a una familia exitosa se preocupan de que sus hijos no están haciendo suficientes actividades./Cansados de la mala actitud de Lynn cuando juegan juegos de mesa en familia, los hermanos deciden unirse para vencerla</desc>
+  </programme>
+  <programme start="20260902093000 -0500" stop="20260902095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Donde está Will, hay esperanza / Perdidos en la salsa</sub-title>
+    <desc lang="es">Cuando el aire acondicionado se daña durante una ola de calor, Will se encarga de proteger a su familia. Ellie insiste en dirigir el Club Cuervo como una dictadura, por lo que Jack y Lil renuncian.</desc>
+  </programme>
+  <programme start="20260902095000 -0500" stop="20260902100500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 243 - La balada del mugroso</sub-title>
+    <desc lang="es">Patricio lleva su suciedad a un nuevo extremo, jugando con tanta basura que se vuelve irreconocible.</desc>
+  </programme>
+  <programme start="20260902100500 -0500" stop="20260902103000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 2 - Abuelo hipnótico / El carrito de la oscuridad</sub-title>
+    <desc lang="es">Patricio comete un error e hipnotiza a todo Fondo de Bikini, para que se conviertan en el Abuelo. Entonces, junto al Abuelo Pat, debe revertir el hechizo, para regresar todo a la normalidad.</desc>
+  </programme>
+  <programme start="20260902103000 -0500" stop="20260902104500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 3 Episodio 1 - Balde de diversión / El show de Patricio en la noche</sub-title>
+    <desc lang="es">La familia Estrella tiene una celebración en el Chum Bucket, el restaurante de Plankton. / Patricio presenta su nuevo programa de televisión que es tarde al anochecer, en el cual explora cómo es Fondo de Bikini tras la medianoche.</desc>
+  </programme>
+  <programme start="20260902104500 -0500" stop="20260902110500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - El robo Houbi Houba / La casa del árbol de Twister</sub-title>
+    <desc lang="es">El diario de Mica termina en la mochila de Acu y tendrá que recuperarlo antes de que se dé cuenta alguien. / Twister está harto de las bromas de Hope y Punch, así que decide construir su propia casa del árbol y, ¡Stan la encuentra!</desc>
+  </programme>
+  <programme start="20260902110500 -0500" stop="20260902113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 8 Episodio 12 - Guerra de poderes / Hermana pegajosa</sub-title>
+    <desc lang="es">Para ayudar a la pobre de Lori, Luan le consigue un trabajo en el "Grano Quemado", donde Luan es la jefa. Lana lucha por librarse de Lily cuando ésta empieza a seguir a Lana a todas partes como una sombra.</desc>
+  </programme>
+  <programme start="20260902113000 -0500" stop="20260902115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 9 Episodio 3 - Los padres de la mascota / Departamento complejo</sub-title>
+    <desc lang="es">Lori y Bobby encuentran un gatito, entonces deciden que deben adoptarlo y comparten su paternidad. / Lori le dice a su familia lo maravilloso que es su departamento y sus hermanas deciden vivir en secretamente allí.</desc>
+  </programme>
+  <programme start="20260902115000 -0500" stop="20260902120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 24 - Un plan granoso</sub-title>
+    <desc lang="es">Luan despierta con un grano el día de su primera cita con Benny y recurre a sus hermanos para que la ayuden.</desc>
+  </programme>
+  <programme start="20260902120000 -0500" stop="20260902123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Volver a empezar</sub-title>
+    <desc lang="es">Nine se da cuenta de su error, pero es demasiado tarde para una salida fácil. Para salvar el Shatterverse, se requiere un sacrificio impensable. Pero Sonic está decidido a salvar a todos sus amigos, incluso a Nine, sin importar el costo.</desc>
+  </programme>
+  <programme start="20260902123000 -0500" stop="20260902133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Thundermans Return</title>
+    <desc lang="es">Acción / 2024 Una familia que inicia una nueva era en la lucha contra el crimen. Cuando un rescate sale mal, los Thunderman son enviados de vuelta a Hiddenville. Hank y Barb disfrutan de su regreso pero Billy y Nora buscan una vida normal en la escuela.</desc>
+  </programme>
+  <programme start="20260902133500 -0500" stop="20260902140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 2 Episodio 5 - Conspiración de una noche de verano</sub-title>
+    <desc lang="es">Max acepta tutelar a la hermana menor del Capitán Perfecto, la cual se está convirtiendo en supervillana, pero se lo pondrá difícil cuando intente aliarse con Cerebro.</desc>
+  </programme>
+  <programme start="20260902140000 -0500" stop="20260902142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 33 - Tecnología / Espíritu</sub-title>
+    <desc lang="es">El plan de Pinky de ayudar a su mamá a aceptar la tecnología fracasa cuando ella se obsesiona con juegos, aplicaciones y redes. / El plan de Pinky de llenar a Tina de espíritu escolar falla cuando ella ve su atención como interés romántico.</desc>
+  </programme>
+  <programme start="20260902142000 -0500" stop="20260902144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 21 - No es cosa de risa / Sin aguafiestas</sub-title>
+    <desc lang="es">Cuando Luan escucha por casualidad a sus hermanos quejándose de su comedia, ella decide abandonarla. / Como Leni suele estropear las sorpresas, sus hermanos deciden no contarle sobre la próxima fiesta de su madre.</desc>
+  </programme>
+  <programme start="20260902144500 -0500" stop="20260902151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 24 - Leyendas / Centro comercial del deber</sub-title>
+    <desc lang="es">Papá y Lincoln entran a "Leyendas del Templo Perdido" y están emocionados por un día de unión padre e hijo. / Lincoln quiere ir al centro comercial pero debe cuidar a sus hermanas menores así que decide llevarlas con él.</desc>
+  </programme>
+  <programme start="20260902151000 -0500" stop="20260902153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Donde está Will, hay esperanza / Perdidos en la salsa</sub-title>
+    <desc lang="es">Cuando el aire acondicionado se daña durante una ola de calor, Will se encarga de proteger a su familia. Ellie insiste en dirigir el Club Cuervo como una dictadura, por lo que Jack y Lil renuncian.</desc>
+  </programme>
+  <programme start="20260902153000 -0500" stop="20260902155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 2 - Abuelo hipnótico / El carrito de la oscuridad</sub-title>
+    <desc lang="es">Patricio comete un error e hipnotiza a todo Fondo de Bikini, para que se conviertan en el Abuelo. Entonces, junto al Abuelo Pat, debe revertir el hechizo, para regresar todo a la normalidad.</desc>
+  </programme>
+  <programme start="20260902155500 -0500" stop="20260902161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 10 Episodio 4 - La siesta profunda / Servicio de comidas</sub-title>
+    <desc lang="es">Calamardo está tan cansado que Bob Esponja y Patricio son incapaces de despertarlo, pero no quieren que se pierda su audición. / Don Cangrejo y su equipo organizan una fiesta de lujo, pero podrían no estar al nivel de sus clientes ricos.</desc>
+  </programme>
+  <programme start="20260902161500 -0500" stop="20260902164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 33 - Tecnología / Espíritu</sub-title>
+    <desc lang="es">El plan de Pinky de ayudar a su mamá a aceptar la tecnología fracasa cuando ella se obsesiona con juegos, aplicaciones y redes. / El plan de Pinky de llenar a Tina de espíritu escolar falla cuando ella ve su atención como interés romántico.</desc>
+  </programme>
+  <programme start="20260902164000 -0500" stop="20260902165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 17 - Soltera fuera / Valor para el último baile</sub-title>
+    <desc lang="es">Al sentirse como una tercera rueda, al ver que sus amigas encuentran pareja, Lynn busca un novio sólo para integrarse. / Clyde recluta a Lincoln y a los chicos, para averiguar si una chica que le gusta siente lo mismo por él.</desc>
+  </programme>
+  <programme start="20260902165500 -0500" stop="20260902171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 21 - Hay que gritar</sub-title>
+    <desc lang="es">Esperando ganar un concurso musical, Luna se debate entre hacer una canción que es fiel a su sonido o intentar hacer algo más comercial.</desc>
+  </programme>
+  <programme start="20260902171500 -0500" stop="20260902174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Volver a empezar</sub-title>
+    <desc lang="es">Nine se da cuenta de su error, pero es demasiado tarde para una salida fácil. Para salvar el Shatterverse, se requiere un sacrificio impensable. Pero Sonic está decidido a salvar a todos sus amigos, incluso a Nine, sin importar el costo.</desc>
+  </programme>
+  <programme start="20260902174000 -0500" stop="20260902180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 11 Episodio 4 - Manta Raya regresa / Larry, el gerente de sección</sub-title>
+    <desc lang="es">Manta Raya alquila la casa de Calamardo por el fin de semana y Bob Esponja y Patricio tendrán que detener sus malvadas vacaciones. / Don Cangrejo se va de vacaciones y deja a Larry La Langosta como gerente temporal del Crustáceo Cascarudo.</desc>
+  </programme>
+  <programme start="20260902180000 -0500" stop="20260902183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 4 Episodio 3 - El inodoro del tiempo / Con o sin televisión</sub-title>
+    <desc lang="es">Tinkle queda atrapado en un viaje en el tiempo, viajando de una época historica a la otra. / Bunny y Cecil intentan disfrutar de juntarse para el día de pasar tiempo con sus hijos, pero Patrick y Squidina solo quieren ver televisión.</desc>
+  </programme>
+  <programme start="20260902183000 -0500" stop="20260902185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - Mar-Sonámbulo</sub-title>
+    <desc lang="es">Callie y los Gemelos tienen una pijamada, hasta que Callie camina dormida y se encuentra con los Marsupis. La llevan de vuelta a la cama, pero la cola de Punch le hace cosquillas en la nariz y la despierta, causando mucha confusión.</desc>
+  </programme>
+  <programme start="20260902185000 -0500" stop="20260902190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Punch el gato</sub-title>
+    <desc lang="es">En el día de adopción, los gemelos ayudan a Lalou y reciben entradas VIP y cartas coleccionables. Dos niños adoptan a Punch al confundirlo con un gato. Stan descubre que es un marsupilami y queda atrapado con él.</desc>
+  </programme>
+  <programme start="20260902190000 -0500" stop="20260902192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 7 - Un presente tenso / Un helado cualquiera</sub-title>
+    <desc lang="es">Convencidos de que su album de recuerdos no es lo bastante bueno para el cumpleaños de papá, los chicos Loud buscan un regalo perfecto. / Lily usa su inteligencia de bebé para evitar que sus hermanos hagan desastres.</desc>
+  </programme>
+  <programme start="20260902192500 -0500" stop="20260902195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 11 - No puedo servir / Un perro con clase</sub-title>
+    <desc lang="es">Lori toma un trabajo como camarera en el restaurant de Papá, pero resulta que servir es más difícil de lo que imaginó./ Movida por las burlas de una compañera de clase hacia Charles, Lana decide entrenarlo para competir.</desc>
+  </programme>
+  <programme start="20260902195000 -0500" stop="20260902200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 7 Episodio 20 - Ámame tenor</sub-title>
+    <desc lang="es">Lincoln y sus amigos descubren que Gus tiene un talento oculto, entonces intentan ayudarlo a cumplir su sueño.</desc>
+  </programme>
+  <programme start="20260902200000 -0500" stop="20260902211000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Thundermans Return</title>
+    <desc lang="es">Acción / 2024 Una familia que inicia una nueva era en la lucha contra el crimen. Cuando un rescate sale mal, los Thunderman son enviados de vuelta a Hiddenville. Hank y Barb disfrutan de su regreso pero Billy y Nora buscan una vida normal en la escuela.</desc>
+  </programme>
+  <programme start="20260902211000 -0500" stop="20260902213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 21 - Amor en la guarida</sub-title>
+    <desc lang="es">La Sra. Wong visita Secret Shores y amenaza con revelar a todos la identidad de superhéroes de los Thundermans. Pero el plan de Max y Phoebe para que el Dr. Colosso la vigile, fracasa de una forma que jamás imaginaron.</desc>
+  </programme>
+  <programme start="20260902213500 -0500" stop="20260902220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - El regreso de Kid</sub-title>
+    <desc lang="es">Henry Hart está de regreso y está robando la atención de Ray. Los Fuerza Danger tendrán que emprender las misiones solos. Pero el estado de ánimo cambia cuando un caza-recompensas llega a Swellview.</desc>
+  </programme>
+  <programme start="20260902220000 -0500" stop="20260902222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 10 - Fred está muerto</sub-title>
+    <desc lang="es">Freddie dice al aire que no es fanático del increíble Fred, provocando que éste anuncie que no hará más videos. Los fanáticos de Fred se enfurecen con Freddie ya que por su culpa no habrá más videos divertidos.</desc>
+  </programme>
+  <programme start="20260902222500 -0500" stop="20260902225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 11 - Me parezco</sub-title>
+    <desc lang="es">Cuando Carly, Sam y Freddie quieren escaparse para ir a una pelea de la MMA y conocer al luchador más famoso de las artes marciales, buscan dobles que los reemplacen y así engañar a Spencer.</desc>
+  </programme>
+  <programme start="20260902225000 -0500" stop="20260902231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Victorious</title>
+    <sub-title lang="es">Temporada 2 Episodio 1 - Rogando de rodillas</sub-title>
+    <desc lang="es">El atracón de luna llena esta cerca. El chico más guapo de la escuela quiere hacer un dúo con Tori, pero tiene mala reputación. ¿Será que Tori no confía o este chico sólo traerá problemas?</desc>
+  </programme>
+  <programme start="20260902231500 -0500" stop="20260902233500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sam y Cat</title>
+    <sub-title lang="es">Temporada 1 Episodio 28 - #MuñecasFresno</sub-title>
+    <desc lang="es">Sam y Cat prometen comprarle a una de las niñas que cuidan una Muñeca Fresno, si ella mejora sus calificaciones. Cuando lo logra, Sam y Cat se quedan en la ruina por todos los accesorios y cuidados que la muñeca necesita.</desc>
+  </programme>
+  <programme start="20260902233500 -0500" stop="20260903000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Bishop hace su movimiento</sub-title>
+    <desc lang="es">El origen de la mujer llamada Bishop y la razón de que a los mutantes no les agrade. Además, ¿Cuál es el secreto de dos mechazoides? ¿Qué pasó exactamente la noche en que las tortugas cayeron en el armadillo de Bishop?</desc>
+  </programme>
+  <programme start="20260903000000 -0500" stop="20260903002000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - La noche de los Mecazoides</sub-title>
+    <desc lang="es">Las Tortugas van detras de Bishop, pero ella está preparada para enfrentarlos, no se esperan la llegada de Meca-Bishop. Pero luego los Mechazoides se salen de control. ¿Podrán las tortugas salvar a la humanidad?</desc>
+  </programme>
+  <programme start="20260903002000 -0500" stop="20260903004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 14 Episodio 3 - La convención / La caja Calama-Tonta</sub-title>
+    <desc lang="es">Calamardo y Burbuja, se ven obligados a tolerarse mutuamente en un viaje a Jetsam City. / Calamardo emprende un viaje dentro de la caja de la imaginación, aunque debe confiar en la creatividad de Bob Esponja y Patricio, para poder escapar.</desc>
+  </programme>
+  <programme start="20260903004500 -0500" stop="20260903011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 14 Episodio 297 - La grasa llama / No me hagas reír</sub-title>
+    <desc lang="es">La familia de Plankton abre un restaurante, al lado de Chum Bucket. / Bob Esponja no puede parar de reír, lo que comienza a incomodar al resto de su entorno.</desc>
+  </programme>
+  <programme start="20260903011000 -0500" stop="20260903013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Hope se escapa / López pierde la cabeza</sub-title>
+    <desc lang="es">Jugando en el parque, Hope no comparte un balón rebotador de musgo que encuentra. Es tan cómodo que se duerme en él, mientras rueda por la ciudad causando caos.</desc>
+  </programme>
+  <programme start="20260903013500 -0500" stop="20260903015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 20 - Atrapados dentro / Un largo retraso</sub-title>
+    <desc lang="es">Mientras Best y Rocky están armando un rompecabezas, Rocky accidentalmente se traga la última pieza del juego. / Best aprende una lección importante sobre la honestidad y sobre asumir sus responsabilidades.</desc>
+  </programme>
+  <programme start="20260903015500 -0500" stop="20260903022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 21 - Corazón de animal / Best y la bestia</sub-title>
+    <desc lang="es">Best y Bester visitan el estudio de televisión donde se filma la telenovela favorita de Bester. / Se estrena la secuela de el monstruo de Butterville, la cual deja fascinado a todo el pueblo.</desc>
+  </programme>
+  <programme start="20260903022000 -0500" stop="20260903024000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Nate, el grande</title>
+    <sub-title lang="es">Temporada 2 Episodio 12 - Santos Pierogis</sub-title>
+    <desc lang="es">Responsable de una plaga de insectos, Nate recauda dinero para un exterminador vendiendo los pierogis favoritos de Zora. Mientras tanto, Martin se asocia con uno de los profesores de Nate para eliminar los insectos a la antigua usanza.</desc>
+  </programme>
+  <programme start="20260903024000 -0500" stop="20260903030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 3 Episodio 12 - Atrapen a Ouchie / Día del chiste de papá</sub-title>
+    <desc lang="es">Después de deshacerse de Ouchie, Ojo Rosa se encarga de manejar la casa de la familia Estrella. / Patricio y Squidina deben encontrar algo de seguridad, en medio del apocalipsis de la broma de papá.</desc>
+  </programme>
+  <programme start="20260903030500 -0500" stop="20260903032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 3 - Panteón familiar</sub-title>
+    <desc lang="es">La familia Estrella se va de picnic y disfruta de un día al aire libre en el cementerio.</desc>
+  </programme>
+  <programme start="20260903032000 -0500" stop="20260903034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Volver a empezar</sub-title>
+    <desc lang="es">Nine se da cuenta de su error, pero es demasiado tarde para una salida fácil. Para salvar el Shatterverse, se requiere un sacrificio impensable. Pero Sonic está decidido a salvar a todos sus amigos, incluso a Nine, sin importar el costo.</desc>
+  </programme>
+  <programme start="20260903034500 -0500" stop="20260903040500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 25 - Desenmascarando a la mente maestra - Parte 2</sub-title>
+    <desc lang="es">Cuando BC obliga a Chloe a robar un amuleto mágico que le otorgará poderes de superhéroe, los Thundermans se unen para evitarlo. Chloe tiene que revelar su identidad a sus amigos para poder liberarlos.</desc>
+  </programme>
+  <programme start="20260903040500 -0500" stop="20260903043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - Noche de villanos</sub-title>
+    <desc lang="es">La Fuerza Danger y el Capitán Man se infiltran como villanos en El Calabozo del Golpe para atrapar a un criminal.</desc>
+  </programme>
+  <programme start="20260903043000 -0500" stop="20260903045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Henry Danger</title>
+    <sub-title lang="es">Temporada 4 Episodio 5 - La caricatura</sub-title>
+    <desc lang="es">Cuando Henry y Ray obtienen una copia de la nueva caricatura de Kid Danger y el Capitán Man y ven que es horrible, deben darse prisa para arreglar la caricatura antes de la gran fiesta de estreno. Estrella invitada: Shaun White</desc>
+  </programme>
+  <programme start="20260903045500 -0500" stop="20260903052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 24 - Negocios graciosos / Nevada aburrida</sub-title>
+    <desc lang="es">Lincoln se convierte en el asistente payaso de Luan, pero comienza a acaparar la atención. Los niños Loud se divierten en un día de nieve mientras intentan enseñarle a Lisa algo de diversión en la nieve.</desc>
+  </programme>
+  <programme start="20260903052000 -0500" stop="20260903054000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 25 - El precio de la admisión / Un resfriado sobre la casa Loud</sub-title>
+    <desc lang="es">Después de ver una película de terror (que no debía hacerlo), Lincoln no puede dormir y pasa en vela toda la noche. / Cuando un resfriado común se extiende por la casa Loud, Lincoln piensa que sus hermanas se han vuelto zombies.</desc>
+  </programme>
+  <programme start="20260903054000 -0500" stop="20260903060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 14 - Dos niños y un bebé</sub-title>
+    <desc lang="es">Creyendo que será fácil, Lincoln y Clyde toman la responsabilidad de cuidar a la Loud más pequeña, Lily.</desc>
+  </programme>
+  <programme start="20260903060000 -0500" stop="20260903062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 16 Episodio 8 - Corazón de basura / Plankton casi nuevo</sub-title>
+    <desc lang="es">Bob Esponja y Patricio deben buscar a Calamardo después de que el interior de su casa se convierta en una enorme jungla de basura. / En su último plan secreto, Plankton se disfraza de figurita coleccionable y termina atrapado en ella.</desc>
+  </programme>
+  <programme start="20260903062500 -0500" stop="20260903064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 16 Episodio 9 - La varita mágica / Suporstición</sub-title>
+    <desc lang="es">Bob Esponja causa un caos mágico con una varita mágica. / El viernes 13, la extrema superstición del Sr. Cangrejo perturba a todos los que le rodean.</desc>
+  </programme>
+  <programme start="20260903064500 -0500" stop="20260903070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 253 - Los niñeros</sub-title>
+    <desc lang="es">Bob Esponja y Patricio son engañados para que cuiden a una anciana gruñona, pero ella hace todo lo posible por escapar.</desc>
+  </programme>
+  <programme start="20260903070000 -0500" stop="20260903072000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Siguiendo a Twister / Jade la acróbata</sub-title>
+    <desc lang="es">Stan descubre el lugar de pesca de Twister y oculta un rastreador en un pez. Luego sigue a Twister, confundiendo a los gemelos. Ellos se separan para perderlo, pero no lo logran.</desc>
+  </programme>
+  <programme start="20260903072000 -0500" stop="20260903074500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - El tonto babeante / Patricio tiene un zoológico suelto</sub-title>
+    <desc lang="es">El babeo incontrolable de Patricio se le escapa de las manos y de la boca. / Un extraterrestre que cambia de forma anda suelto por la casa de los Estrella.</desc>
+  </programme>
+  <programme start="20260903074500 -0500" stop="20260903080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - Super Estrellas</sub-title>
+    <desc lang="es">En un universo alternativo, la familia Estrella es un equipo de superhéroes, o al menos eso creen.</desc>
+  </programme>
+  <programme start="20260903080000 -0500" stop="20260903082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 33 - Tecnología / Espíritu</sub-title>
+    <desc lang="es">El plan de Pinky de ayudar a su mamá a aceptar la tecnología fracasa cuando ella se obsesiona con juegos, aplicaciones y redes. / El plan de Pinky de llenar a Tina de espíritu escolar falla cuando ella ve su atención como interés romántico.</desc>
+  </programme>
+  <programme start="20260903082000 -0500" stop="20260903084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 21 - No es cosa de risa / Sin aguafiestas</sub-title>
+    <desc lang="es">Cuando Luan escucha por casualidad a sus hermanos quejándose de su comedia, ella decide abandonarla. / Como Leni suele estropear las sorpresas, sus hermanos deciden no contarle sobre la próxima fiesta de su madre.</desc>
+  </programme>
+  <programme start="20260903084500 -0500" stop="20260903091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 24 - Leyendas / Centro comercial del deber</sub-title>
+    <desc lang="es">Papá y Lincoln entran a "Leyendas del Templo Perdido" y están emocionados por un día de unión padre e hijo. / Lincoln quiere ir al centro comercial pero debe cuidar a sus hermanas menores así que decide llevarlas con él.</desc>
+  </programme>
+  <programme start="20260903091000 -0500" stop="20260903093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 23 - Lee en voz alta / No ser un Loud</sub-title>
+    <desc lang="es">Lola se niega a participar en un desafío de lectura en la biblioteca de la ciudad. / Cuando Lincoln encuentra la primera página de su libro de bebé en blanco, sospecha que sus padres le ocultan algo.</desc>
+  </programme>
+  <programme start="20260903093000 -0500" stop="20260903095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - Guerreos contra el reino / Sunganduel</sub-title>
+    <desc lang="es">Lily le presenta a Jack su videojuego favorito. Jack, desesperado por ganar, sigue jugando y perdiendo. Cae en una espiral de negatividad y se convierte en un monstruo tóxico. Ahora depende de Lily, salvarlo de sí mismo.</desc>
+  </programme>
+  <programme start="20260903095000 -0500" stop="20260903100500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 243 - La balada del mugroso</sub-title>
+    <desc lang="es">Patricio lleva su suciedad a un nuevo extremo, jugando con tanta basura que se vuelve irreconocible.</desc>
+  </programme>
+  <programme start="20260903100500 -0500" stop="20260903103000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 3 - Luchando con dragones / Pat el asustadizo</sub-title>
+    <desc lang="es">Patricio cuenta otra historia de la tierra de Jamdonia, un mundo hecho de carne, donde el Príncipe Shmeat y Tofu Todd parten en una misión, para derrotar a las Fauces.</desc>
+  </programme>
+  <programme start="20260903103000 -0500" stop="20260903104500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 3 Episodio 2 - Racha de cortes / Robot solitario</sub-title>
+    <desc lang="es">Pat el Desventurado se embarca en una búsqueda bárbara en el centro comercial para recuperar una bomba de baño. / El Capitán Cuásar reemplaza a Pat-Tron, trabajando para la familia Estrella.</desc>
+  </programme>
+  <programme start="20260903104500 -0500" stop="20260903110500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Mar-Espía / Caos en la cafetería</sub-title>
+    <desc lang="es">Tras leer un libro, Bibi descubre la existencia de los Marsupilamis y decide que quiere uno. Los gemelos niegan su existencia, pero Bibi está convencida de que tienen el suyo propio, así que empieza a espiarlos.</desc>
+  </programme>
+  <programme start="20260903110500 -0500" stop="20260903113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 9 Episodio 4 - Nadie mejor que yo / Magia problemática</sub-title>
+    <desc lang="es">Mamá y las gemelas se van de fin de semana a un hotel, y Lana no quiere dejar a sus mascotas. / Lincoln hace un truco de magia y se queda esposado al señor Grouse, y pasan todo el día en la escuela.</desc>
+  </programme>
+  <programme start="20260903113000 -0500" stop="20260903115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 9 Episodio 5 - La graduación / Una villana intensa</sub-title>
+    <desc lang="es">Leni organiza el baile de graduación, y quiere que sea la noche más memorable. / Lincoln y Clyde eligieron a Luan para el papel de la villana Abeja Reina y lidian con su método de actuación.</desc>
+  </programme>
+  <programme start="20260903115000 -0500" stop="20260903120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 25 - Buenos amigos (deportivos)</sub-title>
+    <desc lang="es">Lynn descubre a un inesperado compañero para ver los deportes en televisión en el vecino de la familia, el señor Grouse.</desc>
+  </programme>
+  <programme start="20260903120000 -0500" stop="20260903123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 3 Episodio 2 - Bajo el domo</sub-title>
+    <desc lang="es">Nine lanza un ataque contra New Yoke City para conseguir la energía prismática de Sonic y doblega a la ciudad a su voluntad. La única forma de salvar a sus habitantes es trasladar a todos al interior de la Yema.</desc>
+  </programme>
+  <programme start="20260903123000 -0500" stop="20260903133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">La furia de los Thundermans</title>
+    <desc lang="es">Clash of the Thundermans Familiar / 2026 Cuando surge el nuevo y peligroso poder de Chloe, la ordenan ir a un internado de superhéroes. La familia se divide cuando Phoebe, Barb y Billy se esconden con ella, mientras Max, Hank y Nora los persiguen.</desc>
+  </programme>
+  <programme start="20260903133500 -0500" stop="20260903140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - Verano cruel</sub-title>
+    <desc lang="es">Max se vuelve malo de forma encubierta, para poder infiltrarse entre los colegas de Mastermind. Pero luego es acusado de algunos delitos y Phoebe intenta salvarlo.</desc>
+  </programme>
+  <programme start="20260903140000 -0500" stop="20260903142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 40 - Detractor / Video</sub-title>
+    <desc lang="es">Pinky está decidido a dar vuelta la opinión de un hater, de Sackenhack. / Después de crear un video casi perfecto, junto a Babs y JJ, Pinky está decidido a convertirlo en el video perfecto.</desc>
+  </programme>
+  <programme start="20260903142000 -0500" stop="20260903144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 23 - Lee en voz alta / No ser un Loud</sub-title>
+    <desc lang="es">Lola se niega a participar en un desafío de lectura en la biblioteca de la ciudad. / Cuando Lincoln encuentra la primera página de su libro de bebé en blanco, sospecha que sus padres le ocultan algo.</desc>
+  </programme>
+  <programme start="20260903144500 -0500" stop="20260903151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 25 - La dama llorona / Antisocial</sub-title>
+    <desc lang="es">Para hacer que Lily deje de llorar, los chicos le dan un viejo juguete cantarín que está en el ático. / Papá declara la guerra a los aparatos de los niños.</desc>
+  </programme>
+  <programme start="20260903151000 -0500" stop="20260903153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Sigue las chispas / Valle cañon vs. Dirk</sub-title>
+    <desc lang="es">Lily investiga por qué su camión de helados favorito, ahora vende otra marca de baja calidad. Aunque luego, descubre una conspiración en la ciudad. / Dirk es acusado injustamente de hurtar una geoda importante de Canyon Valley.</desc>
+  </programme>
+  <programme start="20260903153000 -0500" stop="20260903155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 3 - Luchando con dragones / Pat el asustadizo</sub-title>
+    <desc lang="es">Patricio cuenta otra historia de la tierra de Jamdonia, un mundo hecho de carne, donde el Príncipe Shmeat y Tofu Todd parten en una misión, para derrotar a las Fauces.</desc>
+  </programme>
+  <programme start="20260903155500 -0500" stop="20260903161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 10 Episodio 5 - El mesón esponjoso / Plankton botado</sub-title>
+    <desc lang="es">Cuando Bob Esponja cocina en casa, los clientes de Don Cangrejo dejan su restaurante y van al restaurante de Bob Esponja. / Plankton es echado de su casa y Bob Esponja le enseña a recuperar a su esposa de nuevo.</desc>
+  </programme>
+  <programme start="20260903161500 -0500" stop="20260903164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 40 - Detractor / Video</sub-title>
+    <desc lang="es">Pinky está decidido a dar vuelta la opinión de un hater, de Sackenhack. / Después de crear un video casi perfecto, junto a Babs y JJ, Pinky está decidido a convertirlo en el video perfecto.</desc>
+  </programme>
+  <programme start="20260903164000 -0500" stop="20260903165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 17 - Soltera fuera / Valor para el último baile</sub-title>
+    <desc lang="es">Al sentirse como una tercera rueda, al ver que sus amigas encuentran pareja, Lynn busca un novio sólo para integrarse. / Clyde recluta a Lincoln y a los chicos, para averiguar si una chica que le gusta siente lo mismo por él.</desc>
+  </programme>
+  <programme start="20260903165500 -0500" stop="20260903171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 22 - El predecible / La ambición</sub-title>
+    <desc lang="es">Después de entender que tiene rituales, Lincoln se preocupa por ser predecible y jura cambiar./ Lori descubre que el entrenador de golf de su Universidad de los sueños irá a verla jugar, se pone muy nerviosa.</desc>
+  </programme>
+  <programme start="20260903171500 -0500" stop="20260903174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 3 Episodio 2 - Bajo el domo</sub-title>
+    <desc lang="es">Nine lanza un ataque contra New Yoke City para conseguir la energía prismática de Sonic y doblega a la ciudad a su voluntad. La única forma de salvar a sus habitantes es trasladar a todos al interior de la Yema.</desc>
+  </programme>
+  <programme start="20260903174000 -0500" stop="20260903180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 11 Episodio 6 - Sin fotos, por favor / Atrapado en el techo</sub-title>
+    <desc lang="es">Patricio lleva a un entusiasta desconocido a dar un paseo por sus lugares favoritos en Fondo de Bikini. / Bob Esponja teme bajar del techo del Crustáceo Cascarudo, pero no permitirá que eso le impida vivir su vida.</desc>
+  </programme>
+  <programme start="20260903180000 -0500" stop="20260903183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 4 Episodio 4 - Las mascotas de la tetera / El vengador parcial</sub-title>
+    <desc lang="es">Cuando la Abuela Tentáculos sale a pasar un día en el spa, Patrick y Calamarina cuidan de su casa. / Después de que Plankton olvida quién es, la familia Dartfish lo adopta.</desc>
+  </programme>
+  <programme start="20260903183000 -0500" stop="20260903185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 14 - El huevo misterioso</sub-title>
+    <desc lang="es">Los Gemelos y los Marsupilamis encuentran un huevo abandonado, lo salvan de un Jaguar y lo llevan a un lugar seguro donde nace un pequeño cocodrilo.</desc>
+  </programme>
+  <programme start="20260903185000 -0500" stop="20260903190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Punch el gato</sub-title>
+    <desc lang="es">En el día de adopción, los gemelos ayudan a Lalou y reciben entradas VIP y cartas coleccionables. Dos niños adoptan a Punch al confundirlo con un gato. Stan descubre que es un marsupilami y queda atrapado con él.</desc>
+  </programme>
+  <programme start="20260903190000 -0500" stop="20260903192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 10 - Un error mortal / La líder de la tienda</sub-title>
+    <desc lang="es">Lucy se enfrenta a su amiga Haiku para convertirse en la nueva presidenta del Club de Jóvenes Funerarios de la escuela. / Leni es ascendida a gerente temporal en el trabajo, pero le preocupa seguir siendo buena amiga de Miguel y Fiona.</desc>
+  </programme>
+  <programme start="20260903192500 -0500" stop="20260903195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 13 - Los reyes de la convención</sub-title>
+    <desc lang="es">Deseosos de ser nombrados los reyes de una convención, Lincoln y Clyde convencen a las hermanas para que vayan con ellos.</desc>
+  </programme>
+  <programme start="20260903195000 -0500" stop="20260903200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 7 Episodio 20 - Ámame tenor</sub-title>
+    <desc lang="es">Lincoln y sus amigos descubren que Gus tiene un talento oculto, entonces intentan ayudarlo a cumplir su sueño.</desc>
+  </programme>
+  <programme start="20260903200000 -0500" stop="20260903211000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">La furia de los Thundermans</title>
+    <desc lang="es">Clash of the Thundermans Familiar / 2026 Cuando surge el nuevo y peligroso poder de Chloe, la ordenan ir a un internado de superhéroes. La familia se divide cuando Phoebe, Barb y Billy se esconden con ella, mientras Max, Hank y Nora los persiguen.</desc>
+  </programme>
+  <programme start="20260903211000 -0500" stop="20260903213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 22 - Así es Cherry</sub-title>
+    <desc lang="es">Con Cherry trabajando en Espuma de Mar, Max le pide ser su novio falso para conseguir descuentos. Chloe enfrenta una difícil decisión entre ganar una competencia de trivia o apoyar a su hermano Billy cuando él quiere unirse al equipo.</desc>
+  </programme>
+  <programme start="20260903213500 -0500" stop="20260903220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 1 Episodio 14 - Juegos de videos</sub-title>
+    <desc lang="es">Danger Force y Captain Man se enganchan haciendo videos de saludos de celebridades para comenzar a ganar dinero.</desc>
+  </programme>
+  <programme start="20260903220000 -0500" stop="20260903222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 14 - Nos hacemos nucleares</sub-title>
+    <desc lang="es">El maestro de Ciencias, el Señor Henning, les encarga hacer un proyecto para la semana verde sobre el medio ambiente a Carly, a Sam y a Freddie, pero tienen que hacerlo sin usar energía y que beneficie al ambiente.</desc>
+  </programme>
+  <programme start="20260903222500 -0500" stop="20260903225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 9 - Afecté la votación</sub-title>
+    <desc lang="es">Cuando Carly, Sam y Freddie incitan a sus seguidores de votar a David Archuleta en el show El Cantante de América, se sienten mal por quien sacó el segundo puesto y lo ayudan a hacer un video musical.</desc>
+  </programme>
+  <programme start="20260903225000 -0500" stop="20260903231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Victorious</title>
+    <sub-title lang="es">Temporada 2 Episodio 5 - La arruina bailes</sub-title>
+    <desc lang="es">Tori propone hacer el baile en Hollywood Arts, pero el evento arruina el proyecto de Jade y busca vengarse. ¿Podrá Tori organizar el baile y que Jade no lo arruine?</desc>
+  </programme>
+  <programme start="20260903231500 -0500" stop="20260903233500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sam y Cat</title>
+    <sub-title lang="es">Temporada 1 Episodio 29 - #AtoradaEnUnaCaja</sub-title>
+    <desc lang="es">Sam y Cat tienen boletos par air al parque temático de la Montaña Mística, pero sus planes se frustran cuando Cat queda atrapada durante uno de los trucos de magia de Dice y entre todos deben encontrar el modo de rescatarla.</desc>
+  </programme>
+  <programme start="20260903233500 -0500" stop="20260904000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - Rafa contra el agua</sub-title>
+    <desc lang="es">Las tortugas y los animales mutantes están atrapados en la tormenta del siglo. Pero cuando un nuevo grupo de mutantes marinos amenaza la ciudad. Al parecer, Rafael deberá dialogar mejor para salvar el día.</desc>
+  </programme>
+  <programme start="20260904000000 -0500" stop="20260904002000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Mikey se hace cargo</sub-title>
+    <desc lang="es">Mickey y Genghis Rana van en medio de la tormenta a buscar suministros al supermercado, cuando se encuentran con la electrizante Lee, la Anguila. Entonces, Mikey tiene que hacerse cargo y dirigir este asunto.</desc>
+  </programme>
+  <programme start="20260904002000 -0500" stop="20260904004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 2 Episodio 98 - Mamagedón / La mejor mascota</sub-title>
+    <desc lang="es">El equipo del crustaceo cascarudo se vuelven perezosos y sus madres se hacen cargo del restaurant. / La nueva mascota de Patricio (una roca) llama la atención de un travieso coleccionista de rocas.</desc>
+  </programme>
+  <programme start="20260904004500 -0500" stop="20260904011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 14 Episodio 300 - PL-1413 / Con ganas de pelear</sub-title>
+    <desc lang="es">Plankton viaja dos mil años hacia el futuro y encuentra algunas caras desconocidas. / Bob Esponja, Patricio y Arenita se encuentran en medio de una disputa antigua entre los Narvales y los Plankton.</desc>
+  </programme>
+  <programme start="20260904011000 -0500" stop="20260904013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Siguiendo a Twister / Jade la acróbata</sub-title>
+    <desc lang="es">Stan descubre el lugar de pesca de Twister y oculta un rastreador en un pez. Luego sigue a Twister, confundiendo a los gemelos. Ellos se separan para perderlo, pero no lo logran.</desc>
+  </programme>
+  <programme start="20260904013500 -0500" stop="20260904015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 22 - Votos por Rocky / Hotel de una estrella</sub-title>
+    <desc lang="es">Rocky desea convertirse en presidente del club. / Best y Bester quieren saber dónde se aloja la estrella de su programa de televisión favorito.</desc>
+  </programme>
+  <programme start="20260904015500 -0500" stop="20260904022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Sentimientos sumidos / Un nuevo hermano</sub-title>
+    <desc lang="es">Best y Bester se reunen con Malcolm, el administrador del sitio de Big Sinkhole y lo ayudan a atraer más visitantes al sitio web. / Best y Bester aprenden al final del día, que no hay nada como la familia.</desc>
+  </programme>
+  <programme start="20260904022000 -0500" stop="20260904024000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Nate, el grande</title>
+    <sub-title lang="es">Temporada 2 Episodio 13 - La aventura nocturna</sub-title>
+    <desc lang="es">Durante la pijamada anual de sexto grado, Nate está decidido a unirse a las filas de los mejores bromistas de la escuela PS 38, pero sus planes no salen como esperaba, cuando Randy se niega a dejar a Nate fuera de su vista.</desc>
+  </programme>
+  <programme start="20260904024000 -0500" stop="20260904030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 4 Episodio 2 - El juego del amor / Helado picante</sub-title>
+    <desc lang="es">Cuando la abuela Tentáculos y el abuelo se separan, Patrick y Calamar intentan que vuelvan a estar juntos a través de un programa de citas. / Una bestia salvaje arrasa Fondo de Bikini y se come todo el helado.</desc>
+  </programme>
+  <programme start="20260904030500 -0500" stop="20260904032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 3 - Panteón familiar</sub-title>
+    <desc lang="es">La familia Estrella se va de picnic y disfruta de un día al aire libre en el cementerio.</desc>
+  </programme>
+  <programme start="20260904032000 -0500" stop="20260904034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 53 - Amigos en lugares altos</sub-title>
+    <desc lang="es">Sonic descubre que el monstruo del Boscage Maze que es en realidad, una versión de Amy, llamada Thorn Rose.</desc>
+  </programme>
+  <programme start="20260904034500 -0500" stop="20260904040500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Encubiertos</sub-title>
+    <desc lang="es">Max y Phoebe llevan a Chloe a una misión encubierta en Secret Shores, para que pueda experimentar la vida de una niña normal. Cuando surge una nueva amenaza de supervillano, el trío debe quedarse en la ciudad más tiempo del que esperaban.</desc>
+  </programme>
+  <programme start="20260904040500 -0500" stop="20260904043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Juegos de mimo</sub-title>
+    <desc lang="es">Cuando la Fuerza Danger y el Capitán Man son llamados a París para proteger los tesoros nacionales de Francia, Bose accidentalmente se queda solo para tratar de evitar que El Niñote ingrese al Nido.</desc>
+  </programme>
+  <programme start="20260904043000 -0500" stop="20260904045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Henry Danger</title>
+    <sub-title lang="es">Temporada 4 Episodio 11 - Viaje en auto</sub-title>
+    <desc lang="es">El viaje de cumpleaños de Charlotte para ver la actuación de Boo Man Group se desvía por una emergencia del Capitán Man y Kid Danger.</desc>
+  </programme>
+  <programme start="20260904045500 -0500" stop="20260904052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 26 - Estudioso / La tormenta</sub-title>
+    <desc lang="es">Lincoln tiene un tutor que enloquece a todas sus hermanas, y hacen lo imposible para que Lincoln pueda estudiar./ Los niños se quejan de su casa, pero cuando un tornado se acerca para destruirla, empiezan a cambiar su opinión.</desc>
+  </programme>
+  <programme start="20260904052000 -0500" stop="20260904054000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 2 Episodio 1 - Practicantes para mal / Los viejos y los inquietos</sub-title>
+    <desc lang="es">Se genera tensión entre Lincoln y Clyde cuando hacen una práctica con Flip, entonces compiten para ganar el titulo de encargado. / Lincoln nota lo dócil que se ha vuelto su abuelo con la edad y aprovecha a salir con él para recordar.</desc>
+  </programme>
+  <programme start="20260904054000 -0500" stop="20260904060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 1 Episodio 14 - Dos niños y un bebé</sub-title>
+    <desc lang="es">Creyendo que será fácil, Lincoln y Clyde toman la responsabilidad de cuidar a la Loud más pequeña, Lily.</desc>
+  </programme>
+  <programme start="20260904060000 -0500" stop="20260904062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 9 Episodio 2 - ¡Patricio Man! / El juguete nuevo de Gary</sub-title>
+    <desc lang="es">Patricio se convierte en el nuevo superhéroe Patriciomán y pretende limpiar todo Fondo de Bikini. / Gary se obsesiona con su nueva pelota roja y Bob Esponja comienza a tomar medidas drásticas.</desc>
+  </programme>
+  <programme start="20260904062500 -0500" stop="20260904064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 9 Episodio 4 - El librito amarillo / Parachoques con parachoques</sub-title>
+    <desc lang="es">Calamardo encuentra el diario de Bob Esponja, y lo lee en voz alta en el Crustáceo Cascarudo / Bob Esponja reprueba una vez más su examen de conducción, la señora Puff ya no sabe qué hacer con él.</desc>
+  </programme>
+  <programme start="20260904064500 -0500" stop="20260904070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 256 - La mala costumbre de Bob Esponja</sub-title>
+    <desc lang="es">Bob Esponja no puede dejar de morderse las uñas, pero tampoco entiende por qué. ¿Podrá dejar de alguna forma ese mal hábito?</desc>
+  </programme>
+  <programme start="20260904070000 -0500" stop="20260904072000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Jade la malabarista / Persiguiendo el paquete</sub-title>
+    <desc lang="es">Jade intenta ayudar a demasiada gente y acaba provocando el caos en el proceso. / Los gemelos les piden a los Marsupilamis que esperen un paquete importante, pero lo pierden, así que intentan recuperarlo del depósito.</desc>
+  </programme>
+  <programme start="20260904072000 -0500" stop="20260904074500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 1 Episodio 18 - El efecto desastroso / Un espacio para recordar</sub-title>
+    <desc lang="es">Patricio altera la continuidad espacio-tiempo. / Mientras Cecil y Bunny celebran su aniversario en el espacio exterior, Patricio y Calamarina dan una fiesta en su casa.</desc>
+  </programme>
+  <programme start="20260904074500 -0500" stop="20260904080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - Super Estrellas</sub-title>
+    <desc lang="es">En un universo alternativo, la familia Estrella es un equipo de superhéroes, o al menos eso creen.</desc>
+  </programme>
+  <programme start="20260904080000 -0500" stop="20260904082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 40 - Detractor / Video</sub-title>
+    <desc lang="es">Pinky está decidido a dar vuelta la opinión de un hater, de Sackenhack. / Después de crear un video casi perfecto, junto a Babs y JJ, Pinky está decidido a convertirlo en el video perfecto.</desc>
+  </programme>
+  <programme start="20260904082000 -0500" stop="20260904084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 10 - De viaje</sub-title>
+    <desc lang="es">Todos en la familia han estado trabajando duro para ahorrar para unas vacaciones en familia. Pero durante el viaje por carretera hacia su destino, todo lo que puede salir mal para la familia, lo hace.</desc>
+  </programme>
+  <programme start="20260904084500 -0500" stop="20260904091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 3 - Mejorando las selfies</sub-title>
+    <desc lang="es">Cuando las fotos de Carol Pingrey tienen más 'me gusta' en las redes sociales que las de Lori, ella trata de superarla.</desc>
+  </programme>
+  <programme start="20260904091000 -0500" stop="20260904093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 2 - Mejoras a las selfies / No hay lugar como la escuela en casa</sub-title>
+    <desc lang="es">Lori intenta superar a Carol Pingrey cuando su foto tiene más me gusta en las redes sociales./Lola recibe clases en casa temporalmente. Como les parece divertido, los demás intentan salir de la escuela fácilmente y tener educación en casa.</desc>
+  </programme>
+  <programme start="20260904093000 -0500" stop="20260904095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - La albóndiga de valle Cañón / Dedos pegajosos</sub-title>
+    <desc lang="es">Cuando Halmoni elige a Jack en lugar de a Lil para ser su compañero de competencia de trote, Lil, celosa, busca venganza. / Min le pide a Jack que haga un recado sencillo, pero Charlie el Gibón interviene y Jack y Lil salen a perseguirlo.</desc>
+  </programme>
+  <programme start="20260904095000 -0500" stop="20260904100500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 12 Episodio 44 - La prisión cascaruda</sub-title>
+    <desc lang="es">Don Cangrejo convierte al Crustácoe Cascarudo en una cárcel después de que Plankton rompe la ley, pero el crimen solo paga por un rato.</desc>
+  </programme>
+  <programme start="20260904100500 -0500" stop="20260904103000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 4 - Tu casa es mi Pat-casa / Amor por accidente</sub-title>
+    <desc lang="es">Patricio se queda más tiempo del debido en casa de Bob Esponja y la convierte en el set de su programa de televisión, poniendo a prueba la paciencia de los padres de Bob.</desc>
+  </programme>
+  <programme start="20260904103000 -0500" stop="20260904104500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 3 Episodio 2 - Racha de cortes / Robot solitario</sub-title>
+    <desc lang="es">Pat el Desventurado se embarca en una búsqueda bárbara en el centro comercial para recuperar una bomba de baño. / El Capitán Cuásar reemplaza a Pat-Tron, trabajando para la familia Estrella.</desc>
+  </programme>
+  <programme start="20260904104500 -0500" stop="20260904110500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - El concurso picante / Confusión en la excavación</sub-title>
+    <desc lang="es">En el concurso de comer chile de Chahuta, se llega a revelar que Marcel estuvo haciendo trampa en la competencia, para tomar ventaja.</desc>
+  </programme>
+  <programme start="20260904110500 -0500" stop="20260904113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 9 Episodio 6 - Premio tormentoso / El mejor Loud</sub-title>
+    <desc lang="es">Lola quiere ganar una insignia especial y debe pasar tiempo de calidad con Bernie. Lynn ve las habilidades atléticas de su primo Shiloh, y se vuelve competitiva para demostrar que es la mejor Loud.</desc>
+  </programme>
+  <programme start="20260904113000 -0500" stop="20260904115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 9 Episodio 7 - El crimen del canguro Crikey / La cama zombie</sub-title>
+    <desc lang="es">La mascota canguro Crikey destroza la escuela, y el Equipo de Noticias en Acción intenta demostrar su inocencia. Lincoln rompe una regla sobre los artículos heredados para conseguir un colchón viejo.</desc>
+  </programme>
+  <programme start="20260904115000 -0500" stop="20260904120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 14 - Buenos amigos (deportivos) / Geri-antiguos</sub-title>
+    <desc lang="es">Lynn descubre a un inesperado compañero para ver los deportes en televisión en el vecino de la familia, el señor Grouse. / Cuando Lisa entiende que el abuelo no vivirá por siempre, recurre a la ciencia para asegurar su longevidad.</desc>
+  </programme>
+  <programme start="20260904120000 -0500" stop="20260904123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Sin escapatoria</sub-title>
+    <desc lang="es">Sonic y las distintas versiones de Amy, organizan el audaz rescate de la tripulación de No Place. Pero, una vez a salvo, se dan cuenta de que es solo cuestión de tiempo, para que el Shatterverse se desintegre.</desc>
+  </programme>
+  <programme start="20260904123000 -0500" stop="20260904133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">La furia de los Thundermans</title>
+    <desc lang="es">Clash of the Thundermans Familiar / 2026 Cuando surge el nuevo y peligroso poder de Chloe, la ordenan ir a un internado de superhéroes. La familia se divide cuando Phoebe, Barb y Billy se esconden con ella, mientras Max, Hank y Nora los persiguen.</desc>
+  </programme>
+  <programme start="20260904133500 -0500" stop="20260904140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Verano sin fin</sub-title>
+    <desc lang="es">Max finge volverse malvado para infiltrarse en los secuaces de Mastermind y robar el Chip-Chucker, un dispositivo que anteriormente lo volvió malvado.</desc>
+  </programme>
+  <programme start="20260904140000 -0500" stop="20260904142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 50 - Pato / Maniquí</sub-title>
+    <desc lang="es">Cuando Pinky se entera de la muerte de un pato, que es el ícono de la ciudad, entonces decide hacer lo posible para evitar que los ciudadanos sufran por la pérdida.</desc>
+  </programme>
+  <programme start="20260904142000 -0500" stop="20260904144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 10 - De viaje</sub-title>
+    <desc lang="es">Todos en la familia han estado trabajando duro para ahorrar para unas vacaciones en familia. Pero durante el viaje por carretera hacia su destino, todo lo que puede salir mal para la familia, lo hace.</desc>
+  </programme>
+  <programme start="20260904144500 -0500" stop="20260904151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 3 Episodio 3 - Mejorando las selfies</sub-title>
+    <desc lang="es">Cuando las fotos de Carol Pingrey tienen más 'me gusta' en las redes sociales que las de Lori, ella trata de superarla.</desc>
+  </programme>
+  <programme start="20260904151000 -0500" stop="20260904153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Wylde Pak</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - Paseo de la nutria</sub-title>
+    <desc lang="es">La familia está emocionada por llevar a Jack a Mundo Lago, el parque favorito de Lily. Pero cuando el día termina con que la atracción favorita de Lily ha desaparecido, los niños deben sobrevivir a una aventura para salvar sus vacaciones.</desc>
+  </programme>
+  <programme start="20260904153000 -0500" stop="20260904155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 5 Episodio 4 - Tu casa es mi Pat-casa / Amor por accidente</sub-title>
+    <desc lang="es">Patricio se queda más tiempo del debido en casa de Bob Esponja y la convierte en el set de su programa de televisión, poniendo a prueba la paciencia de los padres de Bob.</desc>
+  </programme>
+  <programme start="20260904155500 -0500" stop="20260904161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 10 Episodio 6 - Seguro de vida / Enciende tu burbuja</sub-title>
+    <desc lang="es">Después de un malentendido, Bob Esponja y Patricio intentan comprobar si su seguro de vida los protege de cualquier peligro. / Bob Esponja crea un barco de burbujas y ahora todos quieren uno excepto por la Señora Puff.</desc>
+  </programme>
+  <programme start="20260904161500 -0500" stop="20260904164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Pinky Malinky</title>
+    <sub-title lang="es">Temporada 1 Episodio 50 - Pato / Maniquí</sub-title>
+    <desc lang="es">Cuando Pinky se entera de la muerte de un pato, que es el ícono de la ciudad, entonces decide hacer lo posible para evitar que los ciudadanos sufran por la pérdida.</desc>
+  </programme>
+  <programme start="20260904164000 -0500" stop="20260904165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 18 - Escribir y mentir / El trabajo temporal peludofecto</sub-title>
+    <desc lang="es">Mamá trata de convencer a la editora de un periódico de que sus hijos son perfectos. / Cuando los McBride salen de la ciudad, contratan a Luna para cuidar a sus gatos.</desc>
+  </programme>
+  <programme start="20260904165500 -0500" stop="20260904171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 11 - No puedo servir / Un perro con clase</sub-title>
+    <desc lang="es">Lori toma un trabajo como camarera en el restaurant de Papá, pero resulta que servir es más difícil de lo que imaginó./ Movida por las burlas de una compañera de clase hacia Charles, Lana decide entrenarlo para competir.</desc>
+  </programme>
+  <programme start="20260904171500 -0500" stop="20260904174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sonic Prime</title>
+    <sub-title lang="es">Temporada 1 Episodio 19 - Sin escapatoria</sub-title>
+    <desc lang="es">Sonic y las distintas versiones de Amy, organizan el audaz rescate de la tripulación de No Place. Pero, una vez a salvo, se dan cuenta de que es solo cuestión de tiempo, para que el Shatterverse se desintegre.</desc>
+  </programme>
+  <programme start="20260904174000 -0500" stop="20260904180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Bob Esponja</title>
+    <sub-title lang="es">Temporada 11 Episodio 7 - Cangre-zombie-burguers / Alumnos problemáticos</sub-title>
+    <desc lang="es">Una nueva fórmula secreta de las cangreburguers, tiene resultados desastrosos para Fondo de Bikini. sólo Bob Esponja puede arreglar las cosas. / Don Cangrejo y Plankton toman clases de conducción. Bob Esponja les dará una lección.</desc>
+  </programme>
+  <programme start="20260904180000 -0500" stop="20260904183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">El show de Patricio Estrella</title>
+    <sub-title lang="es">Temporada 4 Episodio 5 - La maldición de la casa Flim Flam / Rubetube Translated</sub-title>
+    <desc lang="es">Patricio y Calamarina ayudan a los hermanos Flim-Flam a cazar al fantasma que acecha su casa. / En su día libre del Show de Patricio, Calamarina ayuda a Rube a producir su programa de televisión.</desc>
+  </programme>
+  <programme start="20260904183000 -0500" stop="20260904185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - El campamento del caos / Una situación de pelos</sub-title>
+    <desc lang="es">Tras unirse al viaje de campamento escolar, los ruidosos Marsupis pronto hacen que Bibi los busque. / Es época de muda para los Marsupilamis y sus bolas de pelo están por todas partes.</desc>
+  </programme>
+  <programme start="20260904185000 -0500" stop="20260904190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Marsupilamis</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Mar-Susto-Lami</sub-title>
+    <desc lang="es">Marcel envía una invitación a una ceremonia de premios falsa, pensando que el Chahuta estará vacío, para poder robar la deliciosa receta de la salsa de la abuela.</desc>
+  </programme>
+  <programme start="20260904190000 -0500" stop="20260904192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 14 - Buenos amigos (deportivos) / Geri-antiguos</sub-title>
+    <desc lang="es">Lynn descubre a un inesperado compañero para ver los deportes en televisión en el vecino de la familia, el señor Grouse. / Cuando Lisa entiende que el abuelo no vivirá por siempre, recurre a la ciencia para asegurar su longevidad.</desc>
+  </programme>
+  <programme start="20260904192500 -0500" stop="20260904195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 4 Episodio 16 - Cortes profundos</sub-title>
+    <desc lang="es">Cuando Luna descubre que el club de música de la preparatoria será cerrado debido a cortes del presupuesto, inicia una protesta.</desc>
+  </programme>
+  <programme start="20260904195000 -0500" stop="20260904200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">The Loud House</title>
+    <sub-title lang="es">Temporada 8 Episodio 1 - Olla de presión</sub-title>
+    <desc lang="es">Los mejores reposteros de Royal Wood: Clyde y Nana Gayle, montan juntos su propio negocio de comida y comienzan a hacer nuevos clientes.</desc>
+  </programme>
+  <programme start="20260904200000 -0500" stop="20260904211000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">La furia de los Thundermans</title>
+    <desc lang="es">Clash of the Thundermans Familiar / 2026 Cuando surge el nuevo y peligroso poder de Chloe, la ordenan ir a un internado de superhéroes. La familia se divide cuando Phoebe, Barb y Billy se esconden con ella, mientras Max, Hank y Nora los persiguen.</desc>
+  </programme>
+  <programme start="20260904211000 -0500" stop="20260904213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Los Thunderman: Encubiertos</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Fiesta y sorpresa</sub-title>
+    <desc lang="es">La fiesta de cumpleaños de Chloe se cancela y Max y Phoebe compiten por organizarle una nueva; el regalo de cumpleaños de Max, que permite detener el tiempo, cae en las manos equivocadas.</desc>
+  </programme>
+  <programme start="20260904213500 -0500" stop="20260904220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Fuerza Danger</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - Amigos a prueba</sub-title>
+    <desc lang="es">Sin decirles nada, Capitán Man pone a prueba a Fuerza Danger para ver si puede confiar en ellos, pero, cuando las pruebas se salen de control, todo cambia sobre quien puede ser de confianza.</desc>
+  </programme>
+  <programme start="20260904220000 -0500" stop="20260904222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 13 - Haciendo femenina a Sam</sub-title>
+    <desc lang="es">Cuando Sam reconoce que le gusta un chico de la escuela, Carly le enseña a ser más femenina para que él deje de pensar que Sam solo es ruda.</desc>
+  </programme>
+  <programme start="20260904222500 -0500" stop="20260904225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">iCarly</title>
+    <sub-title lang="es">Temporada 2 Episodio 16 - El reencuentro con Missy</sub-title>
+    <desc lang="es">Missy, una vieja amiga de Carly, se muda a la ciudad de Seattle. Sam cree que es agradable en un principio. Pero rápidamente ella comienza a sospechar que Missy en verdad quiere reemplazarla como mejor amiga de Carly.</desc>
+  </programme>
+  <programme start="20260904225000 -0500" stop="20260904231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Victorious</title>
+    <sub-title lang="es">Temporada 2 Episodio 11 - Pesadilla en la calle del pastelito</sub-title>
+    <desc lang="es">Los chicos construyen un carro alegórico, ellos tienen que llegar a un desfile, pero se revienta un neumático, en un feo vecindario y necesitarán arreglar la situación.</desc>
+  </programme>
+  <programme start="20260904231500 -0500" stop="20260904233500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Sam y Cat</title>
+    <sub-title lang="es">Temporada 1 Episodio 31 - #BebéDron</sub-title>
+    <desc lang="es">Sam y Cat están emocionadas de probar un nuevo sistema de paquetería en línea dirigido por drones, cuando lo usan se encontrarán más problemas de los que esperaban.</desc>
+  </programme>
+  <programme start="20260904233500 -0500" stop="20260905000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+    <title lang="es">Tortugas Ninja: historias mutantes</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - Splinter y Abril enfrentan un pez dorado</sub-title>
+    <desc lang="es">Cuando la guarida se inunda, Abril intenta salvar a Splinter, pero él se niega a dejar la alcantarilla. Además, el mutante Goldfin advierte que no se metan en su camino, o habrá consecuencias.</desc>
+  </programme>
+</tv>
