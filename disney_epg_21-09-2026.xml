@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG-Guayaquil" generator-info-url="">
+  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+    <display-name>Disney Channel Latinoamérica</display-name>
+  </channel>
+  <channel id="DisneyChannelLatinAmerica.ar@Center">
+    <display-name>Disney Channel Latin America Center</display-name>
+  </channel>
+  <programme start="20260921003300 -0500" stop="20260921005600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Enojados con la expendedora / Jóvenes, salvajes y hora libre</sub-title>
+    <desc lang="es">Eliza y Bucky compiten para ver cuál expendedora es mejor. Zed y Addison usan la hora libre para enseñarle a la estresada A-Spen a relajarse.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921005600 -0500" stop="20260921011900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Chicas en problemas</sub-title>
+    <desc lang="es">Ravi comienza a sospechar cuando escucha los planes de Xander para su primera cita con Emma. Mientras, Zuri y Jorge montan un negocio secreto vendiendo dulces y videojuegos a los acampantes.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921011900 -0500" stop="20260921014400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Nueva York, nueva niñera</sub-title>
+    <desc lang="es">Jessie acepta un trabajo como niñera y se muda con la familia Ross.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921014400 -0500" stop="20260921020700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 2 Episodio 21 - Helador</sub-title>
+    <desc lang="es">Un patinador artístico llamado Philippe es akumatizado en Frozer y está decidido a convertir París en un reino de hielo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921020700 -0500" stop="20260921023000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 12 - Dentro de la varita / Más que una pizza</sub-title>
+    <desc lang="es">Star necesitará la ayuda de Glossaryck para saber qué sucede con la parte rota de su varita. / Marco y Pony Head tienen que conseguir una pizza para una noche de cine, mientras pasan por una serie de infortunios.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921023000 -0500" stop="20260921025300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 2 Episodio 8 - Perdidas en Newtopia / Sprig y su educación</sub-title>
+    <desc lang="es">Anne y Polly juran experimentar la ciudad como locales, y terminan perdiendo la cabeza. A Sprig le ofrecen una oportunidad única, ¡un lugar en la universidad de Newtopia!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921025300 -0500" stop="20260921032100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 4 Episodio 13 - Gracias, pero no gracias / La historia de Troya</sub-title>
+    <desc lang="es">Luego de enterarse de la relación secreta entre Monty y Vanessa, Carl soborna a Monty para que lo ayude a conseguir un reconocimiento muy necesario por parte de Monograma. Mientras, Candace está exultante al descubrir que su vecina Peggy McGee ha sido testigo de todas las travesuras que Phineas y Ferb han llevado a cabo a lo largo del verano, y está contenta de contarle a Mamá acerca de ellas. / Inspirados por la selección de Candace para su club de lectura, La Ilíada, los chicos recrean la guerra de Troya, pero con el toque Phineas y Ferb. Mientras, Perry descubre que Doofenshmirtz tiene un gran problema para deshacerse de las cosas así que lo ayuda a encontrar su ordenador-inador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921032100 -0500" stop="20260921034800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 30 - Nostalgia / La sorpresa</sub-title>
+    <desc lang="es">Grillo y Remy recuerdan una aventura en el museo que casi arruinó su amistad. / Grillo descubre que llegó al mundo de forma inesperada.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921034800 -0500" stop="20260921041400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Turista atrapado</sub-title>
+    <desc lang="es">Dipper cree que el nuevo enamoramiento de su hermana es sospechosamente extraño, y eso hace que Dipper y Mabel se enfrenten cara a cara con los extraños y asombrosos secretos del pueblo. Dipper también encuentra un misterioso diario que insinúa un aún mayor encubrimiento oculto en el maravilloso pasado... y presente del pueblo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921041400 -0500" stop="20260921043300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Día de la Mewnipendencia</sub-title>
+    <desc lang="es">Star encabeza la recreación de una batalla como parte de la celebración del Día de la Independencia de Mewni con sus amigos en la Tierra.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921043300 -0500" stop="20260921050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 2 - Multiplicación</sub-title>
+    <desc lang="es">Pasan los días, y no aparece ningún villano akumatizado que aterrorice París. ¿Acaso Monarch se ha rendido?</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921050000 -0500" stop="20260921051100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Las Aventuras de Pilar</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Pájaro Chiuaco</sub-title>
+    <desc lang="es">Pilar, Breno y Samba van a los Andes en busca de una receta de pastel para el picnic de Goiabão. Al llegar a la casa de Yma, encuentran un caldero mágico que produce comida maravillosa pero es robado por Chiuaco, el pájaro engañador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921051100 -0500" stop="20260921052200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Mickey Mouse</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - O futebol classico / Flipperbubutosis / La adorable pareja</sub-title>
+    <desc lang="es">Mickey pelea por un asiento en O Futebol Classico. / Donald sufre una enfermedad en el pie llamada "Flipperboobootosis". / Mickey y Minnie intentan hacer felices a Donald y Daisy.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921052200 -0500" stop="20260921055100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 5 Episodio 17 - Reservación para cenar / Bañera de pan</sub-title>
+    <desc lang="es">Vanessa y Monty reúnen a sus padres rivales, Doof y Monogram, para que se conozcan en una cena; Buford vive una aventura fantástica en un jacuzzi de pan.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921055100 -0500" stop="20260921060400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 28 - Cranius Maximus</sub-title>
+    <desc lang="es">Cuando Baljeet se preocupa de estar perdiendo la capacidad mental, los chicos inventan un sombrero estimulante cerebral, el "Aumenta-cerebro", para ayudarlo. Pero cuando el sombrero excede las expectativas y hace que Baljeet sea exponencialmente más inteligente, de repente ve a todos los demás como inferiores a él y se convierte en una amenaza para la civilización. Mientras tanto, el Dr. Doofenshmirtz planea usar su "Encontrador de llaves" para recoger todas las llaves en Danville con la esperanza de que tomar la Llave de la Ciudad.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921060400 -0500" stop="20260921063200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - Visita al refugio</sub-title>
+    <desc lang="es">Las hojas del diario secreto de Dipper lo guían a él y a su pandilla al búnker oculto del autor y allí se encuentran cara a cara con una figura misteriosa de la tradición de Gravity Falls.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921063200 -0500" stop="20260921065900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 3 Episodio 6 - Noche de trivia / Gran problema</sub-title>
+    <desc lang="es">Grillo quiere demostrarle a su familia que no es tonto durante la noche de trivia en el café. Tilly es castigada por primera vez y decide desafiar las normas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921065900 -0500" stop="20260921073000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 21 - Andando, brincando ¿voy? / ¿Sigo a la manada?</sub-title>
+    <desc lang="es">Kiff y Barry aceptan transportar un piano para Helen a cambio de un deseo, pero no pueden decidir qué pedir. / Kiff es guía de un alumno nuevo en la escuela, pero no puede evitar que la familia de él interfiera.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921073000 -0500" stop="20260921075900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 3 Episodio 8 - Hop Pop en Hollywood / Si le das una galleta a una rana</sub-title>
+    <desc lang="es">Hop Pop intenta triunfar como actor en Hollywood. Anne confía en un científico cuestionable que puede haber encontrado la forma de llevarlos a Amphibia.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921075900 -0500" stop="20260921082900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hamster &amp; Gretel</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Viernes de miedo / El gusano de la oreja</sub-title>
+    <desc lang="es">Hiromi y Fred se encuentran con unos robots en la escuela. /Un nuevo jingle televisivo de cereales para el desayuno, comienza a hipnotizar a la gente.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921082900 -0500" stop="20260921090000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">El fantasma y Molly McGee</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - El centavo de la suerte / Encerrados</sub-title>
+    <desc lang="es">Molly y Scratch ayudan a Libby a mejorar su suerte en el viernes 13. / Cuando los McGees quedan encerrados en el sótano, Molly y Scratch buscan ayuda, pero tienen problemas para concentrarse.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921090000 -0500" stop="20260921092900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - El lobo de la envidia / La criatura pestilente</sub-title>
+    <desc lang="es">Larry debe enfrentarse a sus celos o ser consumido por ellos. / Para guardar un secreto, Lullah se ve obligada a ayudar a Plinio a preparar una comida patética.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921092900 -0500" stop="20260921100000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La invasión de los Buckys / La cena</sub-title>
+    <desc lang="es">Bucky transforma la escuela en una distopía al estilo Bucky. ¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921100000 -0500" stop="20260921102900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 30 - El secreto del éxito / El lado oscuro de la Luna</sub-title>
+    <desc lang="es">Phineas y Ferb están construyendo una nave-camioneta lo suficientemente potente para pasar por terrenos extremos e incluso edificios. Mientras tanto, Candace y Stacy van a un retiro de liderazgo donde Candace aprende los pasos necesarios para lograr su meta final de atrapar a sus hermanos. / Phineas y Ferb, junto con su súper fanático, Irving, planean poner a Danville en el mapa construyendo el edificio más alto del mundo. Sin embargo, Candace se une a Albert y utiliza su experiencia para atrapar a sus hermanos. Mientras tanto, el Dr. Doofenshmirtz quiere ser responsable de todo el mal en el área limítrofe, ya que cree que los niveles de maldad se elevan durante la luna llena, planea rotarla para que solo el infame "lado oscuro de la luna" mire a la Tierra.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921102900 -0500" stop="20260921105900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 14 - Escarnio</sub-title>
+    <desc lang="es">Marinette y Adrien se preparan para tener una cita normal en la piscina, pero esto resulta ser muy traumático para Marinette porque una vez estuvo enamorada de Kim.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921105900 -0500" stop="20260921112700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - La nueva empleada</sub-title>
+    <desc lang="es">Alex obliga a sus padres a contratar a Harper como camarera en la subestación. Pero cuando descubre lo mal que le va, le realiza un hechizo que la hace demasiado buena. Mientras, Justin es interrumpido en su tutoría por un extorsionador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921112700 -0500" stop="20260921115500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Controla tu dragón</sub-title>
+    <desc lang="es">La nueva mascota beagle de Justin resulta ser un dragón. Otra persona reclama el 'perro' y lo entra en una exposición canina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921115500 -0500" stop="20260921122900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - La elección de Alex</sub-title>
+    <desc lang="es">Alex sospecha cuando Gigi invita a Harper a una fiesta de té. Cuando se entera de que es un truco, debe usar la magia para salvarla. Luego, Justin y Max hacen una broma con el correo de un mago.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921122900 -0500" stop="20260921130000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - ¡El cumpleaños más aventurero!</sub-title>
+    <desc lang="es">Billie se propone completar una misión de mago en su cumpleaños número 13, creyendo que Justin la organizó. Sin embargo, la misión es una prueba de alguien con intenciones más nefastas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921130000 -0500" stop="20260921133000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Temporada 2 Episodio 15 - Moon Girl castigada</sub-title>
+    <desc lang="es">Cuando Adria le prohíbe a Lunella ser Moon Girl, Lu debe descubrir cómo defender el LES de una tripulación malvada, los Felonious Four.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921133000 -0500" stop="20260921135900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Barry el chico grande / Club de libro</sub-title>
+    <desc lang="es">Un error informático lleva a Barry a la escuela secundaria, lo que obliga a Kiff a seguirlo. / Kiff cree que la biblioteca debería ser ruidosa, pero rápidamente resulta contraproducente.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921135900 -0500" stop="20260921142900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La invasión de los Buckys / La cena</sub-title>
+    <desc lang="es">Bucky transforma la escuela en una distopía al estilo Bucky. ¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921142900 -0500" stop="20260921145900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 5 - Star, guerrera / De campamento</sub-title>
+    <desc lang="es">Star encuentra a su heroína de la infancia, la guerrera Mina Loveberry, quien aparentemente ha perdido la cabeza. / El rey Butterfly hace una visita sorpresa a Star durante el viaje de campamento de la familia Díaz y actúa de una manera extraña porque piensa que Marco es el novio de Star.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921145900 -0500" stop="20260921152900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Locura por los chicos</sub-title>
+    <desc lang="es">Cuando Mabel descubre que su banda de chicos favorita resulta ser en realidad un grupo de clones prisioneros, ella los libera y decide quedárselos para sí misma. Dipper está convencido de que Robbie planea lavarle el cerebro a Wendy.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921152900 -0500" stop="20260921160000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 6 Episodio 17 - El hada de buenos sueños</sub-title>
+    <desc lang="es">La mamá de Max pronto irá a una misión espacial. Por varias semanas, el adolescente tendrá que aprender como vivir sin ella. Cuando Marinette se entera de esta noticia, se las ingenia para ayudar a Max a lidiar con la separación. Una idea muy a lo Marinette, que se hace aún más complicada por la llegada de un supervillano de pesadillas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921160000 -0500" stop="20260921162900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 5 Episodio 3 - Metal Heads / Potted Meat</sub-title>
+    <desc lang="es">Bill les compra un detector de metales a los chicos. Cuando la Abuela se queja de que Grillo y Tilly son muy blandos, los niños intentan demostrar que pueden soportar las carencias de la infancia de su abuela.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921162900 -0500" stop="20260921170200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Dragon Striker</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Fiebre dragón</sub-title>
+    <desc lang="es">Key casi no controla su tama. Las Sombras acusan a Los Caballeros de robar la diadema de Pregrina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921170200 -0500" stop="20260921173000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 23 - La entrega del destino / ¡A rebotar!</sub-title>
+    <desc lang="es">Paul, el repartidor, descubre que su trabajo tiene un propósito más importante como salvar a Danville, mientras hace una parada en la casa de Phineas y Ferb, Doofenshmirtz Malvados y Asociados y la O.S.B.A. en un episodio especial visto a través de sus ojos. La banda de rock Love Handel vuelve a interpretar su papel en un acompañamiento musical. / Inspirado por el dispositivo antigravedad personal de Ferb, Phineas cree que sería divertido elevar los trampolines en todo Danville. Desafortunadamente para Candace, también se ve afectada por el dispositivo antigravitatorio y trata de mantener la compostura mientras flota en el piso del comedor frente a la familia de Jeremy. Mientras tanto, Doofenshmirtz tiene una receta para el mal que involucra a su Di-la-verdad-inador, presentando al honesto Abe Lincoln.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921173000 -0500" stop="20260921180000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 20 - El Squonk de los deseos</sub-title>
+    <desc lang="es">Después de enterarse de la profecía, Billie evita usar magia, pero cuando una criatura mágica causa caos en la casa Russo, Billie se preocupa de que todavía sea su culpa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921180000 -0500" stop="20260921183000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina Una Vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - Primer final</sub-title>
+    <desc lang="es">Cuando Vee le pide ayuda a Demi para una presentación, su secreto fantasmal corre peligro. Mientras tanto, invitan a Elijah a una fiesta de rap clandestina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921183000 -0500" stop="20260921185900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Subamos al tren... ¿Qué tren?</sub-title>
+    <desc lang="es">Para pesar de los niños, Jessie hace que todos tomen el metro para acudir a la feria cultural en la escuela de Emma. Mientras, Bertram y Ravi buscan una inoportuna araña que ha hecho del departamento, su casa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921185900 -0500" stop="20260921194800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Champeta: el ritmo de la Tierra</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - El tiempo está de nuestro lado</sub-title>
+    <desc lang="es">Alejandro siente celos de Duma por haber sido elegido como alumno de Elías junto a él. Durante las clases, Duma comienza a dominar la energía que libera la champeta.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921194800 -0500" stop="20260921195900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - El pozo de los deseos</sub-title>
+    <desc lang="es">El plan de Grillo de sacar provecho de un pozo de los deseos pone en aprietos a Tilly, por lo que Grillo tiene un dilema.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921195900 -0500" stop="20260921203000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Amor de mascota</sub-title>
+    <desc lang="es">Lilly decide ser una porrista para pasar más tiempo con Miley.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921203000 -0500" stop="20260921205900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Electric Bloom: La mejor banda del mundo</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - Como intentamos colarnos en una fiesta</sub-title>
+    <desc lang="es">Tulip y Jade alientan a Posey a tener un día en el que solo siga la corriente, lo que las conduce a una gran aventura y quizás la mejor noche de sus vidas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921205900 -0500" stop="20260921213100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 5 Episodio 6 - Mira quien grazna</sub-title>
+    <desc lang="es">Ava quiere asumir más responsabilidades este verano, por lo que Lou le asigna la tarea de resucitar el programa del Campista de la Semana.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921213100 -0500" stop="20260921220300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Vampirina: una vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - El primer año</sub-title>
+    <desc lang="es">Al llegar a Wilson Hall, Vee descubre que un internado de artes escénicas podría presentar más desafíos de los que imaginaba. Demi jura proteger a Vee de los Van Helsing.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921220300 -0500" stop="20260921223100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - Una noche en la posada / Wally y Anne</sub-title>
+    <desc lang="es">Los Plantars se quedan en una posada por una noche, pero Polly descubre que los cuidadores no son lo que parecen. / Todo el mundo dice que Anne está loca cuando dice haber visto al Hombre Musgo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921223100 -0500" stop="20260921230000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Carreras en Grecia / Nosotros lo atraparemos</sub-title>
+    <desc lang="es">Después de que Phineas y Ferb aprendieran sobre la Grecia Antigua en el museo local, pretenden recrear una carrera de carrozas que se transforma en una competición estrepitosa con Buford por las calles de Danville. / Por una vez Candace tiene a alguien de su lado: un reality show que la ayudará a atrapar a sus hermanos con las manos en la masa. Mientras los chicos emprenden un viaje de rafting por toboganes, Candace y el equipo de "¡Nosotros lo atraparemos!" registran todo en sus cámaras. Pero, ¿realmente los atrapará esta vez o el maligno plan del doctor D. borrará toda la evidencia de nuevo?</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921230000 -0500" stop="20260921232900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">StuGo: Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - Plantcis / La gran aventura de la ensalada de huevos de Big Ol' Head</sub-title>
+    <desc lang="es">Francis debe proteger una planta de una amenaza nefasta. / Merian lucha por abrir un puesto de ensaladas de huevo con Plinio.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921232900 -0500" stop="20260921234500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La cena</sub-title>
+    <desc lang="es">¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921234500 -0500" stop="20260921235900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Tara Duncan</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - La planta camelina</sub-title>
+    <desc lang="es">Tara no puede esperar a que su abuelo recupere su forma humana. Una supuesta planta milagrosa comprada en el mercado resulta ser un truco y los lleva directamente a una trampa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921235900 -0500" stop="20260922002300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 14 – Sentiburbujeador</sub-title>
+    <desc lang="es">¡Shadow Moth crea a Sentiburbujeador, un temible sentimonstruo que solo se detendrá si Rena Rouge traiciona a Ladybug y Cat Noir!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921003300 -0500" stop="20260921005600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Enojados con la expendedora / Jóvenes, salvajes y hora libre</sub-title>
+    <desc lang="es">Eliza y Bucky compiten para ver cuál expendedora es mejor. Zed y Addison usan la hora libre para enseñarle a la estresada A-Spen a relajarse.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921005600 -0500" stop="20260921011900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 1 Episodio 2 - Chicas en problemas</sub-title>
+    <desc lang="es">Ravi comienza a sospechar cuando escucha los planes de Xander para su primera cita con Emma. Mientras, Zuri y Jorge montan un negocio secreto vendiendo dulces y videojuegos a los acampantes.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921011900 -0500" stop="20260921014400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Nueva York, nueva niñera</sub-title>
+    <desc lang="es">Jessie acepta un trabajo como niñera y se muda con la familia Ross.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921014400 -0500" stop="20260921020700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 2 Episodio 21 - Helador</sub-title>
+    <desc lang="es">Un patinador artístico llamado Philippe es akumatizado en Frozer y está decidido a convertir París en un reino de hielo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921020700 -0500" stop="20260921023000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 12 - Dentro de la varita / Más que una pizza</sub-title>
+    <desc lang="es">Star necesitará la ayuda de Glossaryck para saber qué sucede con la parte rota de su varita. / Marco y Pony Head tienen que conseguir una pizza para una noche de cine, mientras pasan por una serie de infortunios.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921023000 -0500" stop="20260921025300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 2 Episodio 8 - Perdidas en Newtopia / Sprig y su educación</sub-title>
+    <desc lang="es">Anne y Polly juran experimentar la ciudad como locales, y terminan perdiendo la cabeza. A Sprig le ofrecen una oportunidad única, ¡un lugar en la universidad de Newtopia!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921025300 -0500" stop="20260921032100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 4 Episodio 13 - Gracias, pero no gracias / La historia de Troya</sub-title>
+    <desc lang="es">Luego de enterarse de la relación secreta entre Monty y Vanessa, Carl soborna a Monty para que lo ayude a conseguir un reconocimiento muy necesario por parte de Monograma. Mientras, Candace está exultante al descubrir que su vecina Peggy McGee ha sido testigo de todas las travesuras que Phineas y Ferb han llevado a cabo a lo largo del verano, y está contenta de contarle a Mamá acerca de ellas. / Inspirados por la selección de Candace para su club de lectura, La Ilíada, los chicos recrean la guerra de Troya, pero con el toque Phineas y Ferb. Mientras, Perry descubre que Doofenshmirtz tiene un gran problema para deshacerse de las cosas así que lo ayuda a encontrar su ordenador-inador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921032100 -0500" stop="20260921034800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 4 Episodio 30 - Nostalgia / La sorpresa</sub-title>
+    <desc lang="es">Grillo y Remy recuerdan una aventura en el museo que casi arruinó su amistad. / Grillo descubre que llegó al mundo de forma inesperada.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921034800 -0500" stop="20260921041400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - Turista atrapado</sub-title>
+    <desc lang="es">Dipper cree que el nuevo enamoramiento de su hermana es sospechosamente extraño, y eso hace que Dipper y Mabel se enfrenten cara a cara con los extraños y asombrosos secretos del pueblo. Dipper también encuentra un misterioso diario que insinúa un aún mayor encubrimiento oculto en el maravilloso pasado... y presente del pueblo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921041400 -0500" stop="20260921043300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 1 Episodio 11 - Día de la Mewnipendencia</sub-title>
+    <desc lang="es">Star encabeza la recreación de una batalla como parte de la celebración del Día de la Independencia de Mewni con sus amigos en la Tierra.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921043300 -0500" stop="20260921050000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 2 - Multiplicación</sub-title>
+    <desc lang="es">Pasan los días, y no aparece ningún villano akumatizado que aterrorice París. ¿Acaso Monarch se ha rendido?</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921050000 -0500" stop="20260921051100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Las Aventuras de Pilar</title>
+    <sub-title lang="es">Temporada 1 Episodio 23 - Pájaro Chiuaco</sub-title>
+    <desc lang="es">Pilar, Breno y Samba van a los Andes en busca de una receta de pastel para el picnic de Goiabão. Al llegar a la casa de Yma, encuentran un caldero mágico que produce comida maravillosa pero es robado por Chiuaco, el pájaro engañador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921051100 -0500" stop="20260921052200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Mickey Mouse</title>
+    <sub-title lang="es">Temporada 1 Episodio 6 - O futebol classico / Flipperbubutosis / La adorable pareja</sub-title>
+    <desc lang="es">Mickey pelea por un asiento en O Futebol Classico. / Donald sufre una enfermedad en el pie llamada "Flipperboobootosis". / Mickey y Minnie intentan hacer felices a Donald y Daisy.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921052200 -0500" stop="20260921055100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 5 Episodio 17 - Reservación para cenar / Bañera de pan</sub-title>
+    <desc lang="es">Vanessa y Monty reúnen a sus padres rivales, Doof y Monogram, para que se conozcan en una cena; Buford vive una aventura fantástica en un jacuzzi de pan.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921055100 -0500" stop="20260921060400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 28 - Cranius Maximus</sub-title>
+    <desc lang="es">Cuando Baljeet se preocupa de estar perdiendo la capacidad mental, los chicos inventan un sombrero estimulante cerebral, el "Aumenta-cerebro", para ayudarlo. Pero cuando el sombrero excede las expectativas y hace que Baljeet sea exponencialmente más inteligente, de repente ve a todos los demás como inferiores a él y se convierte en una amenaza para la civilización. Mientras tanto, el Dr. Doofenshmirtz planea usar su "Encontrador de llaves" para recoger todas las llaves en Danville con la esperanza de que tomar la Llave de la Ciudad.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921060400 -0500" stop="20260921063200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - Visita al refugio</sub-title>
+    <desc lang="es">Las hojas del diario secreto de Dipper lo guían a él y a su pandilla al búnker oculto del autor y allí se encuentran cara a cara con una figura misteriosa de la tradición de Gravity Falls.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921063200 -0500" stop="20260921065900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 3 Episodio 6 - Noche de trivia / Gran problema</sub-title>
+    <desc lang="es">Grillo quiere demostrarle a su familia que no es tonto durante la noche de trivia en el café. Tilly es castigada por primera vez y decide desafiar las normas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921065900 -0500" stop="20260921073000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 21 - Andando, brincando ¿voy? / ¿Sigo a la manada?</sub-title>
+    <desc lang="es">Kiff y Barry aceptan transportar un piano para Helen a cambio de un deseo, pero no pueden decidir qué pedir. / Kiff es guía de un alumno nuevo en la escuela, pero no puede evitar que la familia de él interfiera.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921073000 -0500" stop="20260921075900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 3 Episodio 8 - Hop Pop en Hollywood / Si le das una galleta a una rana</sub-title>
+    <desc lang="es">Hop Pop intenta triunfar como actor en Hollywood. Anne confía en un científico cuestionable que puede haber encontrado la forma de llevarlos a Amphibia.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921075900 -0500" stop="20260921082900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Hamster &amp; Gretel</title>
+    <sub-title lang="es">Temporada 1 Episodio 12 - Viernes de miedo / El gusano de la oreja</sub-title>
+    <desc lang="es">Hiromi y Fred se encuentran con unos robots en la escuela. /Un nuevo jingle televisivo de cereales para el desayuno, comienza a hipnotizar a la gente.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921082900 -0500" stop="20260921090000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">El fantasma y Molly McGee</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - El centavo de la suerte / Encerrados</sub-title>
+    <desc lang="es">Molly y Scratch ayudan a Libby a mejorar su suerte en el viernes 13. / Cuando los McGees quedan encerrados en el sótano, Molly y Scratch buscan ayuda, pero tienen problemas para concentrarse.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921090000 -0500" stop="20260921092900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - El lobo de la envidia / La criatura pestilente</sub-title>
+    <desc lang="es">Larry debe enfrentarse a sus celos o ser consumido por ellos. / Para guardar un secreto, Lullah se ve obligada a ayudar a Plinio a preparar una comida patética.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921092900 -0500" stop="20260921100000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La invasión de los Buckys / La cena</sub-title>
+    <desc lang="es">Bucky transforma la escuela en una distopía al estilo Bucky. ¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921100000 -0500" stop="20260921102900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 2 Episodio 30 - El secreto del éxito / El lado oscuro de la Luna</sub-title>
+    <desc lang="es">Phineas y Ferb están construyendo una nave-camioneta lo suficientemente potente para pasar por terrenos extremos e incluso edificios. Mientras tanto, Candace y Stacy van a un retiro de liderazgo donde Candace aprende los pasos necesarios para lograr su meta final de atrapar a sus hermanos. / Phineas y Ferb, junto con su súper fanático, Irving, planean poner a Danville en el mapa construyendo el edificio más alto del mundo. Sin embargo, Candace se une a Albert y utiliza su experiencia para atrapar a sus hermanos. Mientras tanto, el Dr. Doofenshmirtz quiere ser responsable de todo el mal en el área limítrofe, ya que cree que los niveles de maldad se elevan durante la luna llena, planea rotarla para que solo el infame "lado oscuro de la luna" mire a la Tierra.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921102900 -0500" stop="20260921105900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 5 Episodio 14 - Escarnio</sub-title>
+    <desc lang="es">Marinette y Adrien se preparan para tener una cita normal en la piscina, pero esto resulta ser muy traumático para Marinette porque una vez estuvo enamorada de Kim.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921105900 -0500" stop="20260921112700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 4 - La nueva empleada</sub-title>
+    <desc lang="es">Alex obliga a sus padres a contratar a Harper como camarera en la subestación. Pero cuando descubre lo mal que le va, le realiza un hechizo que la hace demasiado buena. Mientras, Justin es interrumpido en su tutoría por un extorsionador.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921112700 -0500" stop="20260921115500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Controla tu dragón</sub-title>
+    <desc lang="es">La nueva mascota beagle de Justin resulta ser un dragón. Otra persona reclama el 'perro' y lo entra en una exposición canina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921115500 -0500" stop="20260921122900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - La elección de Alex</sub-title>
+    <desc lang="es">Alex sospecha cuando Gigi invita a Harper a una fiesta de té. Cuando se entera de que es un truco, debe usar la magia para salvarla. Luego, Justin y Max hacen una broma con el correo de un mago.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921122900 -0500" stop="20260921130000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - ¡El cumpleaños más aventurero!</sub-title>
+    <desc lang="es">Billie se propone completar una misión de mago en su cumpleaños número 13, creyendo que Justin la organizó. Sin embargo, la misión es una prueba de alguien con intenciones más nefastas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921130000 -0500" stop="20260921133000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Temporada 2 Episodio 15 - Moon Girl castigada</sub-title>
+    <desc lang="es">Cuando Adria le prohíbe a Lunella ser Moon Girl, Lu debe descubrir cómo defender el LES de una tripulación malvada, los Felonious Four.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921133000 -0500" stop="20260921135900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Kiff</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - Barry el chico grande / Club de libro</sub-title>
+    <desc lang="es">Un error informático lleva a Barry a la escuela secundaria, lo que obliga a Kiff a seguirlo. / Kiff cree que la biblioteca debería ser ruidosa, pero rápidamente resulta contraproducente.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921135900 -0500" stop="20260921142900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La invasión de los Buckys / La cena</sub-title>
+    <desc lang="es">Bucky transforma la escuela en una distopía al estilo Bucky. ¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921142900 -0500" stop="20260921145900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <sub-title lang="es">Temporada 2 Episodio 5 - Star, guerrera / De campamento</sub-title>
+    <desc lang="es">Star encuentra a su heroína de la infancia, la guerrera Mina Loveberry, quien aparentemente ha perdido la cabeza. / El rey Butterfly hace una visita sorpresa a Star durante el viaje de campamento de la familia Díaz y actúa de una manera extraña porque piensa que Marco es el novio de Star.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921145900 -0500" stop="20260921152900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Gravity Falls: Un Verano de Misterios</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Locura por los chicos</sub-title>
+    <desc lang="es">Cuando Mabel descubre que su banda de chicos favorita resulta ser en realidad un grupo de clones prisioneros, ella los libera y decide quedárselos para sí misma. Dipper está convencido de que Robbie planea lavarle el cerebro a Wendy.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921152900 -0500" stop="20260921160000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 6 Episodio 17 - El hada de buenos sueños</sub-title>
+    <desc lang="es">La mamá de Max pronto irá a una misión espacial. Por varias semanas, el adolescente tendrá que aprender como vivir sin ella. Cuando Marinette se entera de esta noticia, se las ingenia para ayudar a Max a lidiar con la separación. Una idea muy a lo Marinette, que se hace aún más complicada por la llegada de un supervillano de pesadillas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921160000 -0500" stop="20260921162900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 5 Episodio 3 - Metal Heads / Potted Meat</sub-title>
+    <desc lang="es">Bill les compra un detector de metales a los chicos. Cuando la Abuela se queja de que Grillo y Tilly son muy blandos, los niños intentan demostrar que pueden soportar las carencias de la infancia de su abuela.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921162900 -0500" stop="20260921170200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Dragon Striker</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Fiebre dragón</sub-title>
+    <desc lang="es">Key casi no controla su tama. Las Sombras acusan a Los Caballeros de robar la diadema de Pregrina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921170200 -0500" stop="20260921173000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 3 Episodio 23 - La entrega del destino / ¡A rebotar!</sub-title>
+    <desc lang="es">Paul, el repartidor, descubre que su trabajo tiene un propósito más importante como salvar a Danville, mientras hace una parada en la casa de Phineas y Ferb, Doofenshmirtz Malvados y Asociados y la O.S.B.A. en un episodio especial visto a través de sus ojos. La banda de rock Love Handel vuelve a interpretar su papel en un acompañamiento musical. / Inspirado por el dispositivo antigravedad personal de Ferb, Phineas cree que sería divertido elevar los trampolines en todo Danville. Desafortunadamente para Candace, también se ve afectada por el dispositivo antigravitatorio y trata de mantener la compostura mientras flota en el piso del comedor frente a la familia de Jeremy. Mientras tanto, Doofenshmirtz tiene una receta para el mal que involucra a su Di-la-verdad-inador, presentando al honesto Abe Lincoln.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921173000 -0500" stop="20260921180000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+    <sub-title lang="es">Temporada 1 Episodio 20 - El Squonk de los deseos</sub-title>
+    <desc lang="es">Después de enterarse de la profecía, Billie evita usar magia, pero cuando una criatura mágica causa caos en la casa Russo, Billie se preocupa de que todavía sea su culpa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921180000 -0500" stop="20260921183000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Vampirina Una Vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 9 - Primer final</sub-title>
+    <desc lang="es">Cuando Vee le pide ayuda a Demi para una presentación, su secreto fantasmal corre peligro. Mientras tanto, invitan a Elijah a una fiesta de rap clandestina.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921183000 -0500" stop="20260921185900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Jessie</title>
+    <sub-title lang="es">Temporada 1 Episodio 10 - Subamos al tren... ¿Qué tren?</sub-title>
+    <desc lang="es">Para pesar de los niños, Jessie hace que todos tomen el metro para acudir a la feria cultural en la escuela de Emma. Mientras, Bertram y Ravi buscan una inoportuna araña que ha hecho del departamento, su casa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921185900 -0500" stop="20260921194800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Champeta: el ritmo de la Tierra</title>
+    <sub-title lang="es">Temporada 1 Episodio 3 - El tiempo está de nuestro lado</sub-title>
+    <desc lang="es">Alejandro siente celos de Duma por haber sido elegido como alumno de Elías junto a él. Durante las clases, Duma comienza a dominar la energía que libera la champeta.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921194800 -0500" stop="20260921195900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Los Vecinos Green</title>
+    <sub-title lang="es">Temporada 2 Episodio 2 - El pozo de los deseos</sub-title>
+    <desc lang="es">El plan de Grillo de sacar provecho de un pozo de los deseos pone en aprietos a Tilly, por lo que Grillo tiene un dilema.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921195900 -0500" stop="20260921203000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Hannah Montana</title>
+    <sub-title lang="es">Temporada 1 Episodio 8 - Amor de mascota</sub-title>
+    <desc lang="es">Lilly decide ser una porrista para pasar más tiempo con Miley.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921203000 -0500" stop="20260921205900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Electric Bloom: La mejor banda del mundo</title>
+    <sub-title lang="es">Temporada 1 Episodio 13 - Como intentamos colarnos en una fiesta</sub-title>
+    <desc lang="es">Tulip y Jade alientan a Posey a tener un día en el que solo siga la corriente, lo que las conduce a una gran aventura y quizás la mejor noche de sus vidas.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921205900 -0500" stop="20260921213100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Temporada 5 Episodio 6 - Mira quien grazna</sub-title>
+    <desc lang="es">Ava quiere asumir más responsabilidades este verano, por lo que Lou le asigna la tarea de resucitar el programa del Campista de la Semana.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921213100 -0500" stop="20260921220300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Vampirina: una vampirina adolescente</title>
+    <sub-title lang="es">Temporada 1 Episodio 1 - El primer año</sub-title>
+    <desc lang="es">Al llegar a Wilson Hall, Vee descubre que un internado de artes escénicas podría presentar más desafíos de los que imaginaba. Demi jura proteger a Vee de los Van Helsing.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921220300 -0500" stop="20260921223100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - Una noche en la posada / Wally y Anne</sub-title>
+    <desc lang="es">Los Plantars se quedan en una posada por una noche, pero Polly descubre que los cuidadores no son lo que parecen. / Todo el mundo dice que Anne está loca cuando dice haber visto al Hombre Musgo.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921223100 -0500" stop="20260921230000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Temporada 1 Episodio 17 - Carreras en Grecia / Nosotros lo atraparemos</sub-title>
+    <desc lang="es">Después de que Phineas y Ferb aprendieran sobre la Grecia Antigua en el museo local, pretenden recrear una carrera de carrozas que se transforma en una competición estrepitosa con Buford por las calles de Danville. / Por una vez Candace tiene a alguien de su lado: un reality show que la ayudará a atrapar a sus hermanos con las manos en la masa. Mientras los chicos emprenden un viaje de rafting por toboganes, Candace y el equipo de "¡Nosotros lo atraparemos!" registran todo en sus cámaras. Pero, ¿realmente los atrapará esta vez o el maligno plan del doctor D. borrará toda la evidencia de nuevo?</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921230000 -0500" stop="20260921232900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">StuGo: Campamento de verano</title>
+    <sub-title lang="es">Temporada 1 Episodio 15 - Plantcis / La gran aventura de la ensalada de huevos de Big Ol' Head</sub-title>
+    <desc lang="es">Francis debe proteger una planta de una amenaza nefasta. / Merian lucha por abrir un puesto de ensaladas de huevo con Plinio.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921232900 -0500" stop="20260921234500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Temporada 1 Episodio 5 - La cena</sub-title>
+    <desc lang="es">¡Bozo descubre planos misteriosos en la cafetería y se obsesiona con la idea de construir una catarata de espagueti!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921234500 -0500" stop="20260921235900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Tara Duncan</title>
+    <sub-title lang="es">Temporada 1 Episodio 7 - La planta camelina</sub-title>
+    <desc lang="es">Tara no puede esperar a que su abuelo recupere su forma humana. Una supuesta planta milagrosa comprada en el mercado resulta ser un truco y los lleva directamente a una trampa.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20260921235900 -0500" stop="20260922002300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Temporada 4 Episodio 14 – Sentiburbujeador</sub-title>
+    <desc lang="es">¡Shadow Moth crea a Sentiburbujeador, un temible sentimonstruo que solo se detendrá si Rena Rouge traiciona a Ladybug y Cat Noir!</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+</tv>
