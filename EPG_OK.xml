@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Guia-EPG-Disney-Nickelodeon">
 <channel id="DisneyChannelLatinAmerica.ar@Panregional">
-<display-name lang="es">Disney Channel Latinoamérica (1080p)</display-name>
+<display-name lang="es">Disney Channel Latin America (1080p)</display-name>
 </channel>
 <channel id="NickelodeonLatinAmerica.us@Panregional">
-<display-name lang="es">Nickelodeon Latinoamérica (1080p)</display-name>
+<display-name lang="es">Nickelodeon Latin America (1080p)</display-name>
 </channel>
 <channel id="DisneyChannelLatinAmerica.ar@Center">
 <display-name lang="es">Disney Channel Latin America Center (1080p)</display-name>
