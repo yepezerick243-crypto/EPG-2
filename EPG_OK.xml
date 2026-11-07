@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Disney Nickelodeon">
 <channel id="DisneyChannelLatinAmerica.ar@Panregional">
-<display-name>Disney Channel Latin America (1080p)</display-name>
+<display-name lang="es">Disney Channel Latin America (1080p)</display-name>
 </channel>
 <channel id="NickelodeonLatinAmerica.us@Panregional">
-<display-name>Nickelodeon Latin America (1080p)</display-name>
+<display-name lang="es">Nickelodeon Latin America (1080p)</display-name>
 </channel>
 <channel id="DisneyChannelLatinAmerica.ar@Center">
-<display-name>Disney Channel Latin America Center (1080p)</display-name>
+<display-name lang="es">Disney Channel Latin America Center (1080p)</display-name>
 </channel>
 <programme start="20261101013000 -0500" stop="20261101020000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
 <title lang="es">Jessie</title>
@@ -98,7 +98,7 @@
 <desc lang="es">Temporada 3 Episodio 1 - Viajes & reuniones</desc>
 </programme>
 <programme start="20261101133000 -0500" stop="20261101140000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 7 - Cómo (no) hacer un video musical</desc>
 </programme>
 <programme start="20261101140000 -0500" stop="20261101142500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -166,7 +166,7 @@
 <desc lang="es">Temporada 3 Episodio 1 - Viajes & reuniones</desc>
 </programme>
 <programme start="20261101231200 -0500" stop="20261101233500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 7 - Cómo (no) hacer un video musical</desc>
 </programme>
 <programme start="20261101233500 -0500" stop="20261101235900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -374,7 +374,7 @@
 <desc lang="es">Temporada 1 Episodio 24 - Presionando botones</desc>
 </programme>
 <programme start="20261102202800 -0500" stop="20261102210000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 9 - Cómo todo se resolvió en la lavandería</desc>
 </programme>
 <programme start="20261102210000 -0500" stop="20261102212500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -610,7 +610,7 @@
 <desc lang="es">Temporada 1 Episodio 26 - La chofer de la Sra. Dabney</desc>
 </programme>
 <programme start="20261103202400 -0500" stop="20261103205800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 11 - Cómo aprendimos a amar a los que nos odian</desc>
 </programme>
 <programme start="20261103205800 -0500" stop="20261103212400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -846,7 +846,7 @@
 <desc lang="es">Temporada 2 Episodio 27 - Haciendo popó</desc>
 </programme>
 <programme start="20261104202500 -0500" stop="20261104205700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 12 - Como es que sacamos las canciones de nuestros bolsillos</desc>
 </programme>
 <programme start="20261104205700 -0500" stop="20261104212300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -1078,7 +1078,7 @@
 <desc lang="es">Temporada 2 Episodio 1 - Charlie tiene 2 años</desc>
 </programme>
 <programme start="20261105202600 -0500" stop="20261105205400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 13 - Cómo intentamos entrar a una fiesta</desc>
 </programme>
 <programme start="20261105205400 -0500" stop="20261105212300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -1301,7 +1301,7 @@
 <desc lang="es">Temporada 2 Episodio 2 - Algo es sospechoso</desc>
 </programme>
 <programme start="20261106202700 -0500" stop="20261106205800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 14 - Cómo tratamos a una visita inesperada</desc>
 </programme>
 <programme start="20261106205800 -0500" stop="20261106213100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
@@ -1333,8 +1333,828 @@
 <desc lang="es">Temporada 1 Episodio 41 - Excelente</desc>
 </programme>
 <programme start="20261106234600 -0500" stop="20261107001100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
-<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
 <desc lang="es">Temporada 5 Episodio 22 - Confabulación</desc>
+</programme>
+<programme start="20261107001100 -0500" stop="20261107003400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 2 Episodio 12 - En otro momento y en otro lugar</desc>
+</programme>
+<programme start="20261107003400 -0500" stop="20261107005600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 19 - El regalo del presente / La motocicleta del dolor</desc>
+</programme>
+<programme start="20261107005600 -0500" stop="20261107011900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 15 - ¡El cumpleaños más aventurero!</desc>
+</programme>
+<programme start="20261107011900 -0500" stop="20261107014200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 26 - Diario de una periodista desquiciada</desc>
+</programme>
+<programme start="20261107014200 -0500" stop="20261107020500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 2 Episodio 11 – Haz que pase</desc>
+</programme>
+<programme start="20261107020500 -0500" stop="20261107022800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - El club del desaire / Peligro desconocido</desc>
+</programme>
+<programme start="20261107022800 -0500" stop="20261107025000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 26 - Mucha gimnasia / En la noche</desc>
+</programme>
+<programme start="20261107025000 -0500" stop="20261107031300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 1 - Reversora</desc>
+</programme>
+<programme start="20261107031300 -0500" stop="20261107033600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Las aventuras enredadas de Rapunzel</title>
+<desc lang="es">Temporada 2 Episodio 18 - ¡Tiene que ser una broma!</desc>
+</programme>
+<programme start="20261107033600 -0500" stop="20261107035100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 4 Episodio 12 - Janna chatarra</desc>
+</programme>
+<programme start="20261107035100 -0500" stop="20261107040300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 5 - Descansa en pudín</desc>
+</programme>
+<programme start="20261107040300 -0500" stop="20261107043300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 19 - Reflekta</desc>
+</programme>
+<programme start="20261107043300 -0500" stop="20261107050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 17 - La era del vapor / No es un día de campo</desc>
+</programme>
+<programme start="20261107050000 -0500" stop="20261107053000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Patoaventuras</title>
+<desc lang="es">Temporada 3 Episodio 20 - El escondite de Beaks</desc>
+</programme>
+<programme start="20261107053000 -0500" stop="20261107055600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 6 - Star, niñera / En el ruedo</desc>
+</programme>
+<programme start="20261107055600 -0500" stop="20261107062100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 1 Episodio 4 - La intrusa</desc>
+</programme>
+<programme start="20261107062100 -0500" stop="20261107064700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 3 - En la barriga de la bestia</desc>
+</programme>
+<programme start="20261107064700 -0500" stop="20261107070000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - El rápido y Phineas</desc>
+</programme>
+<programme start="20261107070000 -0500" stop="20261107073000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 19 - Raromageddon 2: Escape de la realidad</desc>
+</programme>
+<programme start="20261107073000 -0500" stop="20261107080200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 15 - Pizza Deliverance / Chica Caballo</desc>
+</programme>
+<programme start="20261107080200 -0500" stop="20261107083100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 26 - Nemesis</desc>
+</programme>
+<programme start="20261107083100 -0500" stop="20261107085900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 28 - No son Phineas y Ferb / ¡Cazando a Phineas y Ferb!</desc>
+</programme>
+<programme start="20261107085900 -0500" stop="20261107103500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Up: Una Aventura de Altura</title>
+<desc lang="es">Familiar / 2009 Un señor viudo de setenta y ocho años cumple con un sueño de toda la vida cuando amarra miles de globos a su casa y vuela rumbo a Sudamérica. Pronto descubre que un niño optimista de ocho años llamado Russell se ha colado en el viaje.</desc>
+</programme>
+<programme start="20261107103500 -0500" stop="20261107104700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - Terror y Nomos en una fiesta en la playa</desc>
+</programme>
+<programme start="20261107104700 -0500" stop="20261107111400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 6 - La leyenda de los seguidores espeluznantes</desc>
+</programme>
+<programme start="20261107111400 -0500" stop="20261107114100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 2 - El primer día de escuela</desc>
+</programme>
+<programme start="20261107114100 -0500" stop="20261107120300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 13 - Ataque al castillo</desc>
+</programme>
+<programme start="20261107120300 -0500" stop="20261107122800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 1 - La gallina espacial / Noche de filetes</desc>
+</programme>
+<programme start="20261107122800 -0500" stop="20261107125300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107125300 -0500" stop="20261107131900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261107131900 -0500" stop="20261107134400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107134400 -0500" stop="20261107140900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 7 - Atascados / Mamá pájaro</desc>
+</programme>
+<programme start="20261107140900 -0500" stop="20261107143600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107143600 -0500" stop="20261107145900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 3 - Las reglas del campamento</desc>
+</programme>
+<programme start="20261107145900 -0500" stop="20261107153200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107153200 -0500" stop="20261107160000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 4 - Lady Wifi</desc>
+</programme>
+<programme start="20261107160000 -0500" stop="20261107162100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 4 - Ánimo, Star / Misión compras</desc>
+</programme>
+<programme start="20261107162100 -0500" stop="20261107180000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Camp Rock 3</title>
+<desc lang="es">Comedia / 2026 En Camp Rock, los Connect 3 buscan un nuevo artista para abrir sus conciertos. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar el puesto desata rivalidades y romances, ya que todos luchan por destacar.</desc>
+</programme>
+<programme start="20261107180000 -0500" stop="20261107191200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La Era de Hielo</title>
+<desc lang="es">Familiar / 2002 Un mamut, un oso perezoso y un tigre se embarcan en una increíble aventura glaciar veinte mil años atrás, para devolver un bebé humano extraviado por sus padres.</desc>
+</programme>
+<programme start="20261107191200 -0500" stop="20261107193500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 4 - ¡Huele a espíritu de campamento!</desc>
+</programme>
+<programme start="20261107193500 -0500" stop="20261107195800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 6 - ¿Y ahora, puedes oírme?</desc>
+</programme>
+<programme start="20261107195800 -0500" stop="20261107202800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 7 - La suma de todas las partes</desc>
+</programme>
+<programme start="20261107202800 -0500" stop="20261107204000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 3 - Invierano</desc>
+</programme>
+<programme start="20261107204000 -0500" stop="20261107211900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Selenkay</title>
+<desc lang="es">Temporada 1 Episodio 6 - Iniciación</desc>
+</programme>
+<programme start="20261107211900 -0500" stop="20261107213100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 8 - Pantalla grande</desc>
+</programme>
+<programme start="20261107213100 -0500" stop="20261107220000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Secretos en Sulphur Springs</title>
+<desc lang="es">Temporada 2 Episodio 16 - Ya es hora</desc>
+</programme>
+<programme start="20261107220000 -0500" stop="20261107222600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 1 - La gallina espacial / Noche de filetes</desc>
+</programme>
+<programme start="20261107222600 -0500" stop="20261107225400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107225400 -0500" stop="20261107231700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261107231700 -0500" stop="20261107234100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107234100 -0500" stop="20261108000400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 7 - Atascados / Mamá pájaro</desc>
+</programme>
+<programme start="20261108000400 -0500" stop="20261108002700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261108002700 -0500" stop="20261108005100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 20 - En vivo, desde el campamento Kikiwaka</desc>
+</programme>
+<programme start="20261108005100 -0500" stop="20261108011400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 1 Episodio 15 - La encantadora de niños</desc>
+</programme>
+<programme start="20261108011400 -0500" stop="20261108013700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 9 - Reflekmuñeca</desc>
+</programme>
+<programme start="20261108013700 -0500" stop="20261108015900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 3 - El defensor del charco / El rey Ludo</desc>
+</programme>
+<programme start="20261108015900 -0500" stop="20261108022200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 1 - La nueva normalidad</desc>
+</programme>
+<programme start="20261108022200 -0500" stop="20261108024500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 26 - Actúa conforme a tu edad</desc>
+</programme>
+<programme start="20261108024500 -0500" stop="20261108030800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 13 - El legado familiar / Ataque artístico</desc>
+</programme>
+<programme start="20261108030800 -0500" stop="20261108033000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 18 - El cerdito o la vida</desc>
+</programme>
+<programme start="20261108033000 -0500" stop="20261108035000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - El club del desaire</desc>
+</programme>
+<programme start="20261108035000 -0500" stop="20261108041300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 21 - Pixelador</desc>
+</programme>
+<programme start="20261108041300 -0500" stop="20261108043600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 20 - El ultimátum de Klimpaloom</desc>
+</programme>
+<programme start="20261108043600 -0500" stop="20261108050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 2 - Cupido / Espíritu escolar</desc>
+</programme>
+<programme start="20261108050000 -0500" stop="20261108052600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Patoaventuras</title>
+<desc lang="es">Temporada 3 Episodio 21 - El cargamento perdido</desc>
+</programme>
+<programme start="20261108052600 -0500" stop="20261108055900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 7 - Salchi-duende / Lo que el libro indica</desc>
+</programme>
+<programme start="20261108055900 -0500" stop="20261108062400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 1 Episodio 5 - El gran aquelarre</desc>
+</programme>
+<programme start="20261108062400 -0500" stop="20261108065900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 4 - Viajar o morir</desc>
+</programme>
+<programme start="20261108065900 -0500" stop="20261108072800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 20 - Raromageddon 3: Recuperando Gravity Falls</desc>
+</programme>
+<programme start="20261108072800 -0500" stop="20261108080100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 17 - Amigos por correspondencia / Estudiar en el extranjero</desc>
+</programme>
+<programme start="20261108080100 -0500" stop="20261108082900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 2 Episodio 17 - Problemática</desc>
+</programme>
+<programme start="20261108082900 -0500" stop="20261108085800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 29 - El encantador de lagartos / Rodeo robot</desc>
+</programme>
+<programme start="20261108085800 -0500" stop="20261108104300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">High School Musical</title>
+<desc lang="es">Musical / 2006 Troy, un popular basquetbolista, y Gabriella, tímida e inteligente, descubren por casualidad su pasión por el canto. A pesar de sus diferencias, deciden unirse y participar en la comedia musical del colegio aunque deban enfrentar a todos.</desc>
+</programme>
+<programme start="20261108104300 -0500" stop="20261108111400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 7 - Necesitaremos una carroza más grande</desc>
+</programme>
+<programme start="20261108111400 -0500" stop="20261108113800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 3 - El primer baile</desc>
+</programme>
+<programme start="20261108113800 -0500" stop="20261108120100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 1 - Mi nueva varita / Ludo salvaje</desc>
+</programme>
+<programme start="20261108120100 -0500" stop="20261108122600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 18 - Gente que usa a la gente</desc>
+</programme>
+<programme start="20261108122600 -0500" stop="20261108125100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jonas</title>
+<desc lang="es">Temporada 1 Episodio 20 - La bella y el ritmo</desc>
+</programme>
+<programme start="20261108125100 -0500" stop="20261108131800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Austin & Ally</title>
+<desc lang="es">Temporada 3 Episodio 2 - ¿Qué tal si...? & ¿Dónde está Austin?</desc>
+</programme>
+<programme start="20261108131800 -0500" stop="20261108134300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 8 - Cómo bailamos toda la noche</desc>
+</programme>
+<programme start="20261108134300 -0500" stop="20261108135500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - Terror y Nomos en una fiesta en la playa</desc>
+</programme>
+<programme start="20261108135500 -0500" stop="20261108142600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Art Attack modo desafío</title>
+<desc lang="es">Temporada 1 Episodio 7 - Bienvenidos a la feria</desc>
+</programme>
+<programme start="20261108142600 -0500" stop="20261108142900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Art Attack Snacks</title>
+<desc lang="es">Temporada 1 Episodio 9 - Catapulta de papel</desc>
+</programme>
+<programme start="20261108142900 -0500" stop="20261108145800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 3 - Magia impráctica / Vínculo al revés</desc>
+</programme>
+<programme start="20261108145800 -0500" stop="20261108152700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261108152700 -0500" stop="20261108155800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 7 - Demoilustrador</desc>
+</programme>
+<programme start="20261108155800 -0500" stop="20261108162100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 3 - Casi me ahogaba en una fuente de chocolate</desc>
+</programme>
+<programme start="20261108162100 -0500" stop="20261108164400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 10 - Estállame y lo sufriremos los dos</desc>
+</programme>
+<programme start="20261108164400 -0500" stop="20261108165500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 4 - ¿Eres mi momia?</desc>
+</programme>
+<programme start="20261108165500 -0500" stop="20261108175900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La Era de Hielo</title>
+<desc lang="es">Familiar / 2002 Un mamut, un oso perezoso y un tigre se embarcan en una increíble aventura glaciar veinte mil años atrás, para devolver un bebé humano extraviado por sus padres.</desc>
+</programme>
+<programme start="20261108175900 -0500" stop="20261108193600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Up: Una Aventura de Altura</title>
+<desc lang="es">Familiar / 2009 Un señor viudo de setenta y ocho años cumple con un sueño de toda la vida cuando amarra miles de globos a su casa y vuela rumbo a Sudamérica. Pronto descubre que un niño optimista de ocho años llamado Russell se ha colado en el viaje.</desc>
+</programme>
+<programme start="20261108193600 -0500" stop="20261108195900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 3 - El brazo monstruoso / El otro alumno de intercambio</desc>
+</programme>
+<programme start="20261108195900 -0500" stop="20261108202700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 8 - Fiebre dragón</desc>
+</programme>
+<programme start="20261108202700 -0500" stop="20261108204000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 5 - Bravucón salvaje</desc>
+</programme>
+<programme start="20261108204000 -0500" stop="20261108211500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Selenkay</title>
+<desc lang="es">Temporada 1 Episodio 7 - Identidad</desc>
+</programme>
+<programme start="20261108211500 -0500" stop="20261108214400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Secretos en Sulphur Springs</title>
+<desc lang="es">Temporada 2 Episodio 6 - Crujido</desc>
+</programme>
+<programme start="20261108214400 -0500" stop="20261108221200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 18 - Gente que usa a la gente</desc>
+</programme>
+<programme start="20261108221200 -0500" stop="20261108223900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jonas</title>
+<desc lang="es">Temporada 1 Episodio 20 - La bella y el ritmo</desc>
+</programme>
+<programme start="20261108223900 -0500" stop="20261108230300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Austin & Ally</title>
+<desc lang="es">Temporada 3 Episodio 2 - ¿Qué tal si...? & ¿Dónde está Austin?</desc>
+</programme>
+<programme start="20261108230300 -0500" stop="20261108232400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 8 - Cómo bailamos toda la noche</desc>
+</programme>
+<programme start="20261108232400 -0500" stop="20261108235100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Art Attack: modo desafío</title>
+<desc lang="es">Temporada 1 Episodio 7 - Bienvenidos a la feria</desc>
+</programme>
+<programme start="20261108235100 -0500" stop="20261109001500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 1 Episodio 14 - Una mente magnífica y misteriosa</desc>
+</programme>
+<programme start="20261109001500 -0500" stop="20261109003900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 14 - Encuentros cercanos con un campista</desc>
+</programme>
+<programme start="20261109003900 -0500" stop="20261109010100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 1 Episodio 19 - Maldad por dos</desc>
+</programme>
+<programme start="20261109010100 -0500" stop="20261109012400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 2 - Papá lobo</desc>
+</programme>
+<programme start="20261109012400 -0500" stop="20261109014700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 4 - Toffee</desc>
+</programme>
+<programme start="20261109014700 -0500" stop="20261109021100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 2 - Fuera de control / Punto de inflexión</desc>
+</programme>
+<programme start="20261109021100 -0500" stop="20261109023500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 27 - Phineas y Ferb: Salvan el verano</desc>
+</programme>
+<programme start="20261109023500 -0500" stop="20261109025900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 14 - No apto para grillos / Compart-amento</desc>
+</programme>
+<programme start="20261109025900 -0500" stop="20261109033000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 19 - Fuga de ensueño</desc>
+</programme>
+<programme start="20261109033000 -0500" stop="20261109034200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - Peligro desconocido</desc>
+</programme>
+<programme start="20261109034200 -0500" stop="20261109040900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 17 - Antibug</desc>
+</programme>
+<programme start="20261109040900 -0500" stop="20261109043300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 21 - Doof 101 / El día del padre</desc>
+</programme>
+<programme start="20261109043300 -0500" stop="20261109050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Alex la del medio</desc>
+</programme>
+<programme start="20261109050000 -0500" stop="20261109051100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Las Aventuras de Pilar</title>
+<desc lang="es">Temporada 1 Episodio 20 - El regalo del emperador</desc>
+</programme>
+<programme start="20261109051100 -0500" stop="20261109052200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Mickey Mouse</title>
+<desc lang="es">Temporada 3 Episodio 4 - La moneda del deseo / Las maravillas del mar</desc>
+</programme>
+<programme start="20261109052200 -0500" stop="20261109054700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 5 - No parpadees / La casa del ornitorrinco</desc>
+</programme>
+<programme start="20261109054700 -0500" stop="20261109060000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 22 - Él es Candace</desc>
+</programme>
+<programme start="20261109060000 -0500" stop="20261109063000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 19 - Fuga de ensueño</desc>
+</programme>
+<programme start="20261109063000 -0500" stop="20261109070000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 20 - Cien</desc>
+</programme>
+<programme start="20261109070000 -0500" stop="20261109072900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 28 - El sombrero / Objetos perdidos</desc>
+</programme>
+<programme start="20261109072900 -0500" stop="20261109075900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 2 Episodio 6 – Marcy en la puerta</desc>
+</programme>
+<programme start="20261109075900 -0500" stop="20261109082900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Hamster & Gretel</title>
+<desc lang="es">Temporada 2 Episodio 18 - El gran golpe / El arte del engaño</desc>
+</programme>
+<programme start="20261109082900 -0500" stop="20261109085900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">El fantasma y Molly McGee</title>
+<desc lang="es">Temporada 1 Episodio 10 - La fiesta de las luces / Hay que salvar la Navidad</desc>
+</programme>
+<programme start="20261109085900 -0500" stop="20261109093000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 4 - Desayuno en Chippany's / El guardián de los pájaros</desc>
+</programme>
+<programme start="20261109093000 -0500" stop="20261109100000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 8 - La Dae más aterradora del año</desc>
+</programme>
+<programme start="20261109100000 -0500" stop="20261109103400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 3 Episodio 26 - Sorpresa sonámbula / La nave espacial</desc>
+</programme>
+<programme start="20261109103400 -0500" stop="20261109110100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 12 - Conductor temerario</desc>
+</programme>
+<programme start="20261109100100 -0500" stop="20261109112600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 7 - Harper, la maratonista</desc>
+</programme>
+<programme start="20261109112600 -0500" stop="20261109115200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 10 - Alex, positiva</desc>
+</programme>
+<programme start="20261109115200 -0500" stop="20261109121800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 11 - Elección de castigo</desc>
+</programme>
+<programme start="20261109121800 -0500" stop="20261109123100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 1 Episodio 13 - Viaje a los archivos</desc>
+</programme>
+<programme start="20261109123100 -0500" stop="20261109130000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Entre sueños y hechizos</desc>
+</programme>
+<programme start="20261109130000 -0500" stop="20261109132600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 26 - Día de perros a media tarde</desc>
+</programme>
+<programme start="20261109132600 -0500" stop="20261109140000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 7 - OTDR / Buenos días escuela Table Town</desc>
+</programme>
+<programme start="20261109140000 -0500" stop="20261109142900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 8 - La Dae más aterradora del año</desc>
+</programme>
+<programme start="20261109142900 -0500" stop="20261109145600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 19 - ¡Bam Ui Pati! / Amor complicado</desc>
+</programme>
+<programme start="20261109145600 -0500" stop="20261109153000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 4 - Amor sin calcetas</desc>
+</programme>
+<programme start="20261109153000 -0500" stop="20261109160000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 5 - Faraón</desc>
+</programme>
+<programme start="20261109160000 -0500" stop="20261109163200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 3 - Acción en el ascensor / Mal influencer</desc>
+</programme>
+<programme start="20261109163200 -0500" stop="20261109163300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker: Estrellas del Gorotama</title>
+<desc lang="es">Temporada 1 Episodio 4 - Casper Ferreiro</desc>
+</programme>
+<programme start="20261109163300 -0500" stop="20261109165900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 10 - La sanguijuela</desc>
+</programme>
+<programme start="20261109165900 -0500" stop="20261109172800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 24 - El regreso de Dennis</desc>
+</programme>
+<programme start="20261109172800 -0500" stop="20261109175900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 18 - Dame tu mejor bot</desc>
+</programme>
+<programme start="20261109175900 -0500" stop="20261109183000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 1 - El primer año</desc>
+</programme>
+<programme start="20261109183000 -0500" stop="20261109185900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 21 – Embriagado de amor</desc>
+</programme>
+<programme start="20261109185900 -0500" stop="20261109192100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Coven Academy: El secreto de las brujas</title>
+<desc lang="es">Temporada 1 Episodio 14 - Acción de Brujas</desc>
+</programme>
+<programme start="20261109192100 -0500" stop="20261109193400 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Coven Academy: El secreto de las brujas</title>
+<desc lang="es">Temporada 1 Episodio 15 - Todo o nada</desc>
+</programme>
+<programme start="20261109193400 -0500" stop="20261109200000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 23 - La bravucona</desc>
+</programme>
+<programme start="20261109200000 -0500" stop="20261109202800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">¡Buenas suerte Charlie!</title>
+<desc lang="es">Temporada 2 Episodio 5 - Duncan contra Duncan</desc>
+</programme>
+<programme start="20261109202800 -0500" stop="20261109205900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 15 - Cómo vencimos el odio navideño</desc>
+</programme>
+<programme start="20261109205900 -0500" stop="20261109212900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 2 Episodio 20 - Nosotros no comenzamos el fuego</desc>
+</programme>
+<programme start="20261109212900 -0500" stop="20261109215900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 6 - El primer club</desc>
+</programme>
+<programme start="20261109215900 -0500" stop="20261109222500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 11 - La Comandante Anne / Sprigsol</desc>
+</programme>
+<programme start="20261109222500 -0500" stop="20261109225100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 32 - El laberinto / Damas y caballeros, ¡él es Max Módem!</desc>
+</programme>
+<programme start="20261109225100 -0500" stop="20261109231300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 11 - Trent en lo profundo / Obra de desastre</desc>
+</programme>
+<programme start="20261109231300 -0500" stop="20261109232500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 1 Episodio 13 - El reegreso del Zed viviente</desc>
+</programme>
+<programme start="20261109232500 -0500" stop="20261109233800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Tara Duncan</title>
+<desc lang="es">Temporada 1 Episodio 42 - Sin magia</desc>
+</programme>
+<programme start="20261109233800 -0500" stop="20261110000200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 5 Episodio 23 - Revolución</desc>
+</programme>
+<programme start="20261110000200 -0500" stop="20261110002600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 2 Episodio 13 - Cualquier deporte en una tormenta</desc>
+</programme>
+<programme start="20261110002600 -0500" stop="20261110004800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 20 - Silencio, por favor / Todo un desastre</desc>
+</programme>
+<programme start="20261110004800 -0500" stop="20261110011100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Entre sueños y hechizos</desc>
+</programme>
+<programme start="20261110011100 -0500" stop="20261110013500 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 14 - La gran estafa del juguete</desc>
+</programme>
+<programme start="20261110013500 -0500" stop="20261110015800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 2 Episodio 16 - La futura Harper</desc>
+</programme>
+<programme start="20261110015800 -0500" stop="20261110022000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 7 - Depresión de segundo año</desc>
+</programme>
+<programme start="20261110022000 -0500" stop="20261110024300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 27 - Spin Offs / Autito roto</desc>
+</programme>
+<programme start="20261110024300 -0500" stop="20261110030600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 9 - Muñekta</desc>
+</programme>
+<programme start="20261110030600 -0500" stop="20261110032900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Las aventuras enredadas de Rapunzel</title>
+<desc lang="es">Temporada 2 Episodio 19 - Rapunzeltopia</desc>
+</programme>
+<programme start="20261110032900 -0500" stop="20261110034100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 4 Episodio 12 - Un hechizo sin nombre</desc>
+</programme>
+<programme start="20261110034100 -0500" stop="20261110035200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 7 - Demonismo</desc>
+</programme>
+<programme start="20261110035200 -0500" stop="20261110042300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 26 - Orígenes</desc>
+</programme>
+<programme start="20261110042300 -0500" stop="20261110044600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 22 - Operación terroncito / Él es Candace</desc>
+</programme>
+<programme start="20261110044600 -0500" stop="20261110050000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 4 - Súper estrellas</desc>
+</programme>
+<programme start="20261110050000 -0500" stop="20261110051100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Las Aventuras de Pilar</title>
+<desc lang="es">Temporada 1 Episodio 6 - Aracne y Atenea</desc>
+</programme>
+<programme start="20261110051100 -0500" stop="20261110052200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Mickey Mouse</title>
+<desc lang="es">Temporada 3 Episodio 5 - Acampando / Delicias turcas / Sin reservación</desc>
+</programme>
+<programme start="20261110052200 -0500" stop="20261110054700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 6 - Perry puso un huevo / El major videojuego</desc>
+</programme>
+<programme start="20261110054700 -0500" stop="20261110055900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 24 - El regreso de Dennis</desc>
+</programme>
+<programme start="20261110055900 -0500" stop="20261110062700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 20 - El gigantesco Gideón</desc>
+</programme>
+<programme start="20261110062700 -0500" stop="20261110070100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 21 - La venganza de Chip</desc>
+</programme>
+<programme start="20261110070100 -0500" stop="20261110072900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 28 - El sombrero / Objetos perdidos</desc>
+</programme>
+<programme start="20261110072900 -0500" stop="20261110075900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 2 Episodio 7 - Búsqueda escabrosa / La llegada de los Plantar</desc>
+</programme>
+<programme start="20261110075900 -0500" stop="20261110082900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Hamster & Gretel</title>
+<desc lang="es">Temporada 2 Episodio 49 - Interferencia directa / Cambio de rostros</desc>
+</programme>
+<programme start="20261110082900 -0500" stop="20261110085900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">El fantasma y Molly McGee</title>
+<desc lang="es">Temporada 1 Episodio 13 - Inocente hasta que se demuestre que es un fantasma / Doble dilema</desc>
+</programme>
+<programme start="20261110085900 -0500" stop="20261110092900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 5 - Sin manos de hombre, no hay isla / Hermanas al agua</desc>
+</programme>
+<programme start="20261110092900 -0500" stop="20261110095900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 10 - Noticias Bree / Canciones espectaculares de karaoke</desc>
+</programme>
+<programme start="20261110095900 -0500" stop="20261110103300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 3 Episodio 27 - La misión de Meap en Seattle</desc>
+</programme>
+<programme start="20261110103300 -0500" stop="20261110110000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 13 - Yaksi Gozen</desc>
+</programme>
+<programme start="20261110110000 -0500" stop="20261110112600 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Liv y Maddie</title>
+<desc lang="es">Temporada 1 Episodio 10 - Rooney - Navidad</desc>
+</programme>
+<programme start="20261110112600 -0500" stop="20261110115300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Liv and Maddie</title>
+<desc lang="es">Temporada 1 Episodio 12 - Rooney - Vertedero</desc>
+</programme>
+<programme start="20261110115300 -0500" stop="20261110122000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Liv and Maddie</title>
+<desc lang="es">Temporada 1 Episodio 14 - Rooney - Desplomo</desc>
+</programme>
+<programme start="20261110122000 -0500" stop="20261110123200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 11 - El cumpleaños de mamá</desc>
+</programme>
+<programme start="20261110123200 -0500" stop="20261110130000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 14 - Varita en acción</desc>
+</programme>
+<programme start="20261110130000 -0500" stop="20261110132700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 11 - Roller Jam!</desc>
+</programme>
+<programme start="20261110132700 -0500" stop="20261110140100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 10 - El mago Ed / Hechizo desconocido</desc>
+</programme>
+<programme start="20261110140100 -0500" stop="20261110142900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 10 - Noticias Bree / Canciones espectaculares de karaoke</desc>
+</programme>
+<programme start="20261110142900 -0500" stop="20261110150200 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 20 - Dividiendo</desc>
+</programme>
+<programme start="20261110150200 -0500" stop="20261110152900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 7 - La sociedad del ojo cegado</desc>
+</programme>
+<programme start="20261110152900 -0500" stop="20261110155700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 5 - Faraón</desc>
+</programme>
+<programme start="20261110155700 -0500" stop="20261110163000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 5 - Demoliciones y disculpas / Golpe de suerte</desc>
+</programme>
+<programme start="20261110163000 -0500" stop="20261110163100 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker: Estrellas del Gorotama</title>
+<desc lang="es">Temporada 1 Episodio 3 - Callista Ferreiro</desc>
+</programme>
+<programme start="20261110163100 -0500" stop="20261110165900 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 11 - Revelaciones</desc>
+</programme>
+<programme start="20261110165900 -0500" stop="20261110172700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 25 - El método del Inador</desc>
+</programme>
+<programme start="20261110172700 -0500" stop="20261110175800 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 19 - Invasores de los archivos ocultos</desc>
+</programme>
+<programme start="20261110175800 -0500" stop="20261110182700 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 2 - El primer día de escuela</desc>
+</programme>
+<programme start="20261110182700 -0500" stop="20261110190000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 14 - ¿Por qué los tontos se enamoran?</desc>
 </programme>
 <programme start="20261031234500 -0500" stop="20261101000500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
 <title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
@@ -3946,6 +4766,898 @@
 <title lang="es">SpongeBob SquarePants</title>
 <desc lang="es">T1-E96 The Fishbowl</desc>
 </programme>
+<programme start="20261110190000 -0500" stop="20261110192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E2 Summer Camp Treasure Haunt / Summer Camp Brawl of the Wild</desc>
+</programme>
+<programme start="20261110192500 -0500" stop="20261110195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E7 Europe Road Trip A Bite of Transylvania / Europe Road Trip Greece Is the Word</desc>
+</programme>
+<programme start="20261110195000 -0500" stop="20261110200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E5 Musical Chairs</desc>
+</programme>
+<programme start="20261110200000 -0500" stop="20261110202500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E8 Freaky Fri-Day-Day</desc>
+</programme>
+<programme start="20261110202500 -0500" stop="20261110205000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E9 She's All Splat</desc>
+</programme>
+<programme start="20261110205000 -0500" stop="20261110211500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E27 Visible Brad</desc>
+</programme>
+<programme start="20261110211500 -0500" stop="20261110213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E30 Envygram Wall</desc>
+</programme>
+<programme start="20261110213500 -0500" stop="20261110220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E4 A Henry Among Us</desc>
+</programme>
+<programme start="20261110220000 -0500" stop="20261110222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E17 Ipromote Tech-Foots</desc>
+</programme>
+<programme start="20261110222500 -0500" stop="20261110225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E18 Ipromise Not to Tell</desc>
+</programme>
+<programme start="20261110225000 -0500" stop="20261110231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Victorious</title>
+<desc lang="es">T1-E13 Sleepover At Sikowitz's</desc>
+</programme>
+<programme start="20261110231500 -0500" stop="20261110234000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Sam y Cat</title>
+<desc lang="es">T1-E2 #Favoriteshow</desc>
+</programme>
+<programme start="20261110234000 -0500" stop="20261111000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T2-E10 Get Rod</desc>
+</programme>
+<programme start="20261111000000 -0500" stop="20261111002500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T2-E11 The Unusual Suspects</desc>
+</programme>
+<programme start="20261111002500 -0500" stop="20261111004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E8 Upward / Unidentified Flailing Octopus</desc>
+</programme>
+<programme start="20261111004500 -0500" stop="20261111011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E9 Bad Luck Bob / The Sandman Cometh</desc>
+</programme>
+<programme start="20261111011000 -0500" stop="20261111013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E10 Biscuit Ballyhoo / Student Driver Survivor</desc>
+</programme>
+<programme start="20261111013500 -0500" stop="20261111015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E3 Dance Off / The Show Must Go On</desc>
+</programme>
+<programme start="20261111015500 -0500" stop="20261111022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E4 Houbi Houba Heist / Twister's Treehouse</desc>
+</programme>
+<programme start="20261111022000 -0500" stop="20261111024500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E13 Time to Eat / Cleanin' House</desc>
+</programme>
+<programme start="20261111024500 -0500" stop="20261111030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E1 The Fun Bucket / The Patrick Show After Dark</desc>
+</programme>
+<programme start="20261111030500 -0500" stop="20261111032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E17 The Drooling Fool</desc>
+</programme>
+<programme start="20261111032000 -0500" stop="20261111034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E7 Sammy Suckerfish / Big League Bob</desc>
+</programme>
+<programme start="20261111034500 -0500" stop="20261111041000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E8 Love Is in the Lair</desc>
+</programme>
+<programme start="20261111041000 -0500" stop="20261111043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E4 A Henry Among Us</desc>
+</programme>
+<programme start="20261111043000 -0500" stop="20261111045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T3-E14 Double Date Danger</desc>
+</programme>
+<programme start="20261111045500 -0500" stop="20261111052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E4 The Sweet Spot / A Tale of Two Tables</desc>
+</programme>
+<programme start="20261111052000 -0500" stop="20261111054500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E5 Project Loud House / In Tents Debate</desc>
+</programme>
+<programme start="20261111054500 -0500" stop="20261111060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T3-E7 Rita Her Rights</desc>
+</programme>
+<programme start="20261111060000 -0500" stop="20261111062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E6 Unreal Estate / Code Yellow</desc>
+</programme>
+<programme start="20261111062500 -0500" stop="20261111064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E7 Mimic Madness / House Worming</desc>
+</programme>
+<programme start="20261111064500 -0500" stop="20261111070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E75 Food Pbbft! Truck</desc>
+</programme>
+<programme start="20261111070000 -0500" stop="20261111072500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E10 Safety Worst / De-Pat-Ment Store</desc>
+</programme>
+<programme start="20261111072500 -0500" stop="20261111073500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E11 X Marks the Pot</desc>
+</programme>
+<programme start="20261111073500 -0500" stop="20261111080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E8 Los Aullidos de Hope / Malteada-Lami</desc>
+</programme>
+<programme start="20261111080000 -0500" stop="20261111082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E12 Student of the Jeer / Bean Dreams</desc>
+</programme>
+<programme start="20261111082000 -0500" stop="20261111084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E3 Only Mime Will Tell / The Winning Spirit</desc>
+</programme>
+<programme start="20261111084500 -0500" stop="20261111091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E4 Intoddnito / Weather or Not</desc>
+</programme>
+<programme start="20261111091000 -0500" stop="20261111093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E5 Europe Road Trip A Knight to Remember</desc>
+</programme>
+<programme start="20261111093000 -0500" stop="20261111095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E63 Who R Zoo? / Kwarantined Krab</desc>
+</programme>
+<programme start="20261111095000 -0500" stop="20261111100000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E36 Call the Cops</desc>
+</programme>
+<programme start="20261111100000 -0500" stop="20261111102500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E3 Star-Robics / Who's the Dummy Now</desc>
+</programme>
+<programme start="20261111102500 -0500" stop="20261111104000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E8 Star Cruise</desc>
+</programme>
+<programme start="20261111104000 -0500" stop="20261111105000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E22 Houballoween</desc>
+</programme>
+<programme start="20261111105000 -0500" stop="20261111110000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E22 Roasa Is Fired</desc>
+</programme>
+<programme start="20261111110000 -0500" stop="20261111111500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E7 No se permiten mascotas</desc>
+</programme>
+<programme start="20261111111500 -0500" stop="20261111113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E11 Shane Or Shine</desc>
+</programme>
+<programme start="20261111113000 -0500" stop="20261111115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E6 Europe Road Trip Nonna Your Business / Europe Road Trip Alpining Away</desc>
+</programme>
+<programme start="20261111115000 -0500" stop="20261111120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E86 Hot Crossed Nuts</desc>
+</programme>
+<programme start="20261111120000 -0500" stop="20261111123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E12 Squidness Protection / Dome Alone</desc>
+</programme>
+<programme start="20261111123000 -0500" stop="20261111125000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E2 Summer of Secrets</desc>
+</programme>
+<programme start="20261111125000 -0500" stop="20261111131500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E16 Let's Go to the Movies</desc>
+</programme>
+<programme start="20261111131500 -0500" stop="20261111133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E23 A Tale of Two Pipers</desc>
+</programme>
+<programme start="20261111133500 -0500" stop="20261111140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E26 Captain Mom</desc>
+</programme>
+<programme start="20261111140000 -0500" stop="20261111142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E31 Adventures In Parent-Sitting</desc>
+</programme>
+<programme start="20261111142000 -0500" stop="20261111144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E1 Summer Camp The Grate Outdoors / Summer Camp Don't Lose Your Cool</desc>
+</programme>
+<programme start="20261111144500 -0500" stop="20261111151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E2 Summer Camp Treasure Haunt / Summer Camp Brawl of the Wild</desc>
+</programme>
+<programme start="20261111151000 -0500" stop="20261111153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E23 Wheel and Deal / Feast Or Family</desc>
+</programme>
+<programme start="20261111153000 -0500" stop="20261111155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E7 Chum Bucket List / Big Baby Patrick</desc>
+</programme>
+<programme start="20261111155500 -0500" stop="20261111161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E86 Hot Crossed Nuts / Sir Urchin and Snail Fail</desc>
+</programme>
+<programme start="20261111161500 -0500" stop="20261111164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E6 Nadie mete a un bebé en un corral, Cumpleanos arruinado</desc>
+</programme>
+<programme start="20261111164000 -0500" stop="20261111165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E23 Wheel and Deal</desc>
+</programme>
+<programme start="20261111165500 -0500" stop="20261111171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E9 The Last Laugh / Driver's Dread</desc>
+</programme>
+<programme start="20261111171500 -0500" stop="20261111172500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E22 Houballoween</desc>
+</programme>
+<programme start="20261111172500 -0500" stop="20261111174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E22 Roasa Is Fired</desc>
+</programme>
+<programme start="20261111174000 -0500" stop="20261111180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E300 Pl-1413 / In the Mood to Feud</desc>
+</programme>
+<programme start="20261111180000 -0500" stop="20261111183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E3 A Tinkle in Time / TV or Not TV</desc>
+</programme>
+<programme start="20261111183000 -0500" stop="20261111185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E11 Wiener Takes All / Stuck In An Elevator</desc>
+</programme>
+<programme start="20261111185000 -0500" stop="20261111190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T1-E96 Married to Money</desc>
+</programme>
+<programme start="20261111190000 -0500" stop="20261111192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E3 Spy Dames / Cupid's Harrow</desc>
+</programme>
+<programme start="20261111192500 -0500" stop="20261111195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E8 Karaless Whisper / Dollars and Scents</desc>
+</programme>
+<programme start="20261111195000 -0500" stop="20261111200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E6 A Bug's Strife</desc>
+</programme>
+<programme start="20261111200000 -0500" stop="20261111202500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E9 Lay Lay's Line Line Dance Dance</desc>
+</programme>
+<programme start="20261111202500 -0500" stop="20261111205000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E10 Party All the Crime</desc>
+</programme>
+<programme start="20261111205000 -0500" stop="20261111211500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E31 Mr. Nice Guy</desc>
+</programme>
+<programme start="20261111211500 -0500" stop="20261111213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E32 Theranos Boot</desc>
+</programme>
+<programme start="20261111213500 -0500" stop="20261111220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E5 Dude, Where's My Man Buggy</desc>
+</programme>
+<programme start="20261111220000 -0500" stop="20261111222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E19 iCarly Saves TV</desc>
+</programme>
+<programme start="20261111222500 -0500" stop="20261111225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E20 Ihate Sam's Boyfriend</desc>
+</programme>
+<programme start="20261111225000 -0500" stop="20261111231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Victorious</title>
+<desc lang="es">T1-E15 The Great Ping-Pong Scam</desc>
+</programme>
+<programme start="20261111231500 -0500" stop="20261111234000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Sam y Cat</title>
+<desc lang="es">T1-E3 #Newgoat</desc>
+</programme>
+<programme start="20261111234000 -0500" stop="20261112000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T2-E12 The Big Muck</desc>
+</programme>
+<programme start="20261112000000 -0500" stop="20261112002500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T1-E1 Leonardo Stands Alone</desc>
+</programme>
+<programme start="20261112002500 -0500" stop="20261112004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E11 Wiener Takes All / Stuck In An Elevator</desc>
+</programme>
+<programme start="20261112004500 -0500" stop="20261112011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E12 Squidness Protection / Dome Alone</desc>
+</programme>
+<programme start="20261112011000 -0500" stop="20261112013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E13 Wary Gary / Pinned</desc>
+</programme>
+<programme start="20261112013500 -0500" stop="20261112015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E5 Mar-Snoop / Canteen Carnage</desc>
+</programme>
+<programme start="20261112015500 -0500" stop="20261112022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E6 The Heat Is on / Dig Disaster</desc>
+</programme>
+<programme start="20261112022000 -0500" stop="20261112024500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E2 Chopping Spree / All Bot Myself</desc>
+</programme>
+<programme start="20261112024500 -0500" stop="20261112030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E3 Star-Robics / Who's the Dummy Now</desc>
+</programme>
+<programme start="20261112030500 -0500" stop="20261112032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E17 Patrick's Got An Alien Zoo Loose</desc>
+</programme>
+<programme start="20261112032000 -0500" stop="20261112034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E8 Upward / Unidentified Flailing Octopus</desc>
+</programme>
+<programme start="20261112034500 -0500" stop="20261112041000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E9 She's All Splat</desc>
+</programme>
+<programme start="20261112041000 -0500" stop="20261112043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E5 Dude, Where's My Man Buggy</desc>
+</programme>
+<programme start="20261112043000 -0500" stop="20261112045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T3-E15 License to Fly</desc>
+</programme>
+<programme start="20261112045500 -0500" stop="20261112052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E6 Sound of Silence / Space Invader</desc>
+</programme>
+<programme start="20261112052000 -0500" stop="20261112054500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E7 Picture Perfect / Undie Pressure</desc>
+</programme>
+<programme start="20261112054500 -0500" stop="20261112060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T3-E8 Head Poet's Anxiety</desc>
+</programme>
+<programme start="20261112060000 -0500" stop="20261112062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E8 Snooze You Lose / Krusty Katering</desc>
+</programme>
+<programme start="20261112062500 -0500" stop="20261112064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E9 Spongebob's Place / Plankton Gets the Boot</desc>
+</programme>
+<programme start="20261112064500 -0500" stop="20261112070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E75 Upturn Girls</desc>
+</programme>
+<programme start="20261112070000 -0500" stop="20261112072500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E13 Doctor Patrick / Slumber Party Stars</desc>
+</programme>
+<programme start="20261112072500 -0500" stop="20261112073500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E11 Patrick's Alley</desc>
+</programme>
+<programme start="20261112073500 -0500" stop="20261112080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E9 La fiesta de Bibi / El robot de Mica</desc>
+</programme>
+<programme start="20261112080000 -0500" stop="20261112082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E13 Con Girl / No Fun Run</desc>
+</programme>
+<programme start="20261112082000 -0500" stop="20261112084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E6 Europe Road Trip Nonna Your Business / Europe Road Trip Alpining Away</desc>
+</programme>
+<programme start="20261112084500 -0500" stop="20261112091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E7 Europe Road Trip A Bite of Transylvania / Europe Road Trip Greece Is the Word</desc>
+</programme>
+<programme start="20261112091000 -0500" stop="20261112093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E8 Karaless Whisper / Dollars and Scents</desc>
+</programme>
+<programme start="20261112093000 -0500" stop="20261112095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E64 Plankton's Intern / Patrick's Tantrum</desc>
+</programme>
+<programme start="20261112095000 -0500" stop="20261112100000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E36 Surf N' Turf</desc>
+</programme>
+<programme start="20261112100000 -0500" stop="20261112102500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E4 Patrick Show Land / Legend of the Lost Bathroom</desc>
+</programme>
+<programme start="20261112102500 -0500" stop="20261112104000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E9 Best Served Cold</desc>
+</programme>
+<programme start="20261112104000 -0500" stop="20261112105000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E23 Snapshot Slip Up</desc>
+</programme>
+<programme start="20261112105000 -0500" stop="20261112110000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E23 The Park Beast</desc>
+</programme>
+<programme start="20261112110000 -0500" stop="20261112111500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E7 Brain Man</desc>
+</programme>
+<programme start="20261112111500 -0500" stop="20261112113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E11 My Science Fair Lady</desc>
+</programme>
+<programme start="20261112113000 -0500" stop="20261112115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E7 Europe Road Trip A Bite of Transylvania / Europe Road Trip Greece Is the Word</desc>
+</programme>
+<programme start="20261112115000 -0500" stop="20261112120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E86 Sir Urchin and Snail Fail</desc>
+</programme>
+<programme start="20261112120000 -0500" stop="20261112123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E13 Wary Gary / Pinned</desc>
+</programme>
+<programme start="20261112123000 -0500" stop="20261112125000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E3 I Know What You Did This Summer</desc>
+</programme>
+<programme start="20261112125000 -0500" stop="20261112131500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E17 The Supies</desc>
+</programme>
+<programme start="20261112131500 -0500" stop="20261112133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E27 Visible Brad</desc>
+</programme>
+<programme start="20261112133500 -0500" stop="20261112140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E30 Envygram Wall</desc>
+</programme>
+<programme start="20261112140000 -0500" stop="20261112142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E32 Powers to the People</desc>
+</programme>
+<programme start="20261112142000 -0500" stop="20261112144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E3 Spy Dames / Cupid's Harrow</desc>
+</programme>
+<programme start="20261112144500 -0500" stop="20261112151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E4 Clyde Can't Decide / Shred of Evidence</desc>
+</programme>
+<programme start="20261112151000 -0500" stop="20261112153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E24 A Dark & Story Night / Sand Hassles</desc>
+</programme>
+<programme start="20261112153000 -0500" stop="20261112155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E8 Is There a Director in the House? / Star Cruise</desc>
+</programme>
+<programme start="20261112155500 -0500" stop="20261112161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E87 Friendiversary / Mandatory Music</desc>
+</programme>
+<programme start="20261112161500 -0500" stop="20261112164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">E7 All Pets Are off / Brain Man</desc>
+</programme>
+<programme start="20261112164000 -0500" stop="20261112165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E23 Feast Or Family</desc>
+</programme>
+<programme start="20261112165500 -0500" stop="20261112171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E10 Bummer Camp / Sleepstakes</desc>
+</programme>
+<programme start="20261112171500 -0500" stop="20261112172500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E23 Snapshot Slip Up</desc>
+</programme>
+<programme start="20261112172500 -0500" stop="20261112174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E23 The Park Beast</desc>
+</programme>
+<programme start="20261112174000 -0500" stop="20261112180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E1 Mooned! / Hysterical History</desc>
+</programme>
+<programme start="20261112180000 -0500" stop="20261112183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E4 Two Pests in a Teapot / Partial Recall</desc>
+</programme>
+<programme start="20261112183000 -0500" stop="20261112185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E12 Squidness Protection / Dome Alone</desc>
+</programme>
+<programme start="20261112185000 -0500" stop="20261112190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T1-E97 Mall Girl Pearl</desc>
+</programme>
+<programme start="20261112190000 -0500" stop="20261112192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E4 Clyde Can't Decide / Shred of Evidence</desc>
+</programme>
+<programme start="20261112192500 -0500" stop="20261112195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E9 Bulking and Sulking / Wild Goss Chase</desc>
+</programme>
+<programme start="20261112195000 -0500" stop="20261112200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E6 All the Rage</desc>
+</programme>
+<programme start="20261112200000 -0500" stop="20261112202500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E10 Dylan and Rebecca's Cleve-Land-Land Adventure</desc>
+</programme>
+<programme start="20261112202500 -0500" stop="20261112205000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T1-E1 Thundercover</desc>
+</programme>
+<programme start="20261112205000 -0500" stop="20261112211500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E33 Rumblr</desc>
+</programme>
+<programme start="20261112211500 -0500" stop="20261112213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E34 Cave the Date</desc>
+</programme>
+<programme start="20261112213500 -0500" stop="20261112220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E6 Mika's Musical</desc>
+</programme>
+<programme start="20261112220000 -0500" stop="20261112222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E21 iStakeout</desc>
+</programme>
+<programme start="20261112222500 -0500" stop="20261112225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E23 Ifence</desc>
+</programme>
+<programme start="20261112225000 -0500" stop="20261112231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Victorious</title>
+<desc lang="es">T1-E18 Wi-Fi In the Sky</desc>
+</programme>
+<programme start="20261112231500 -0500" stop="20261112234000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Sam y Cat</title>
+<desc lang="es">T1-E4 #Thebritbrats</desc>
+</programme>
+<programme start="20261112234000 -0500" stop="20261113000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T1-E2 Mikey Does the Right Thing</desc>
+</programme>
+<programme start="20261113000000 -0500" stop="20261113002500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T1-E3 Raph Thinks It Through</desc>
+</programme>
+<programme start="20261113002500 -0500" stop="20261113004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E14 Jeffy T's Prankwell Emporium / A Taste of Plankton</desc>
+</programme>
+<programme start="20261113004500 -0500" stop="20261113011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E15 Smartificial Intelligence / Firehouse Bob</desc>
+</programme>
+<programme start="20261113011000 -0500" stop="20261113013500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E16 Pablum Plankton / Musebob Modelpants</desc>
+</programme>
+<programme start="20261113013500 -0500" stop="20261113015500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E7 Stan's Showtime / The Truth Is Out There</desc>
+</programme>
+<programme start="20261113015500 -0500" stop="20261113022000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E8 Los Aullidos de Hope / Malteada-Lami</desc>
+</programme>
+<programme start="20261113022000 -0500" stop="20261113024500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E4 Patrick Show Land / Legend of the Lost Bathroom</desc>
+</programme>
+<programme start="20261113024500 -0500" stop="20261113030500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E5 Driven to Drive / A Patty in Time</desc>
+</programme>
+<programme start="20261113030500 -0500" stop="20261113032000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E18 The Patterfly Effect</desc>
+</programme>
+<programme start="20261113032000 -0500" stop="20261113034500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E9 Bad Luck Bob / The Sandman Cometh</desc>
+</programme>
+<programme start="20261113034500 -0500" stop="20261113041000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E10 Party All the Crime</desc>
+</programme>
+<programme start="20261113041000 -0500" stop="20261113043000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E6 Mika's Musical</desc>
+</programme>
+<programme start="20261113043000 -0500" stop="20261113045500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T3-E16 Swellview's Got Talent</desc>
+</programme>
+<programme start="20261113045500 -0500" stop="20261113052000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E8 Linc Or Swim / Changing the Baby</desc>
+</programme>
+<programme start="20261113052000 -0500" stop="20261113054500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T1-E10 Hand-Me-Downer / Sleuth Or Consequences</desc>
+</programme>
+<programme start="20261113054500 -0500" stop="20261113060000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T3-E9 The Mad Scientist</desc>
+</programme>
+<programme start="20261113060000 -0500" stop="20261113062500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E10 Life Insurance / Burst Your Bubble</desc>
+</programme>
+<programme start="20261113062500 -0500" stop="20261113064500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E11 Plankton Retires / Trident Trouble</desc>
+</programme>
+<programme start="20261113064500 -0500" stop="20261113070000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E76 Say 'awww</desc>
+</programme>
+<programme start="20261113070000 -0500" stop="20261113072000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E12 Visiting Vikings / It's Too Late... With Plankton</desc>
+</programme>
+<programme start="20261113072000 -0500" stop="20261113073500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T1-E12 Pearl Wants to Be a Star</desc>
+</programme>
+<programme start="20261113073500 -0500" stop="20261113080000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E10 Smile for the Camera / School invaders</desc>
+</programme>
+<programme start="20261113080000 -0500" stop="20261113082000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E1 Present Danger / Stressed for the Part</desc>
+</programme>
+<programme start="20261113082000 -0500" stop="20261113084500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E9 Bulking and Sulking / Wild Goss Chase</desc>
+</programme>
+<programme start="20261113084500 -0500" stop="20261113091000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E10 The Weakest Ink / Sales Forced</desc>
+</programme>
+<programme start="20261113091000 -0500" stop="20261113093000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E13 Trouble Brewing / The Cling and I</desc>
+</programme>
+<programme start="20261113093000 -0500" stop="20261113095000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E65 Bubble Bass's Tab / Kooky Cooks</desc>
+</programme>
+<programme start="20261113095000 -0500" stop="20261113100000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E38 Appointment Tv</desc>
+</programme>
+<programme start="20261113100000 -0500" stop="20261113102500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T3-E5 Driven to Drive / A Patty in Time</desc>
+</programme>
+<programme start="20261113102500 -0500" stop="20261113104000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E9 Tattoo Hullabaloo</desc>
+</programme>
+<programme start="20261113104000 -0500" stop="20261113105000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E24 Hygiene Inspection</desc>
+</programme>
+<programme start="20261113105000 -0500" stop="20261113110000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E20 Jungle 101</desc>
+</programme>
+<programme start="20261113110000 -0500" stop="20261113111500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E8 My Phony Valentine</desc>
+</programme>
+<programme start="20261113111500 -0500" stop="20261113113000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E13 Con Girl</desc>
+</programme>
+<programme start="20261113113000 -0500" stop="20261113115000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E8 Karaless Whisper / Dollars and Scents</desc>
+</programme>
+<programme start="20261113115000 -0500" stop="20261113120000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E87 Friendiversary</desc>
+</programme>
+<programme start="20261113120000 -0500" stop="20261113123000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E14 Jeffy T's Prankwell Emporium / A Taste of Plankton</desc>
+</programme>
+<programme start="20261113123000 -0500" stop="20261113125000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T2-E4 The Summer I Turned Giddy</desc>
+</programme>
+<programme start="20261113125000 -0500" stop="20261113131500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E18 Minyak Attack</desc>
+</programme>
+<programme start="20261113131500 -0500" stop="20261113133500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E31 Mr. Nice Guy</desc>
+</programme>
+<programme start="20261113133500 -0500" stop="20261113140000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E32 Theranos Boot</desc>
+</programme>
+<programme start="20261113140000 -0500" stop="20261113142000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E33 Toothaches and Chofma Breaks</desc>
+</programme>
+<programme start="20261113142000 -0500" stop="20261113144500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E5 One False Move / Personal Train Wreck</desc>
+</programme>
+<programme start="20261113144500 -0500" stop="20261113151000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E6 Nadie mete a un bebé en un corral, Cumpleanos arruinado</desc>
+</programme>
+<programme start="20261113151000 -0500" stop="20261113153000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E25 How Double Dare You? / Snoop's On</desc>
+</programme>
+<programme start="20261113153000 -0500" stop="20261113155500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T2-E9 Best Served Cold / Tattoo Hullabaloo</desc>
+</programme>
+<programme start="20261113155500 -0500" stop="20261113161500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T2-E88 Dopey Dick / Plankton and the Beanstalk</desc>
+</programme>
+<programme start="20261113161500 -0500" stop="20261113164000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E8 My Phony Valentine / Man of My Schemes</desc>
+</programme>
+<programme start="20261113164000 -0500" stop="20261113165500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T4-E24 A Dark and Story Night</desc>
+</programme>
+<programme start="20261113165500 -0500" stop="20261113171500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E11 Catastrophe / Prize Fighter</desc>
+</programme>
+<programme start="20261113171500 -0500" stop="20261113172500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E24 Hygiene Inspection</desc>
+</programme>
+<programme start="20261113172500 -0500" stop="20261113174000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Marsupilamis</title>
+<desc lang="es">T1-E20 Jungle 101</desc>
+</programme>
+<programme start="20261113174000 -0500" stop="20261113180000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E5 The Dirty Bubble Bass / Sheldon Squarepants</desc>
+</programme>
+<programme start="20261113180000 -0500" stop="20261113183000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Patrick Star Show</title>
+<desc lang="es">T4-E5 The Haunting of Flim Flam House / Rube Tube</desc>
+</programme>
+<programme start="20261113183000 -0500" stop="20261113185000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E13 Wary Gary / Pinned</desc>
+</programme>
+<programme start="20261113185000 -0500" stop="20261113190000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T1-E97 Two Thumbs Down</desc>
+</programme>
+<programme start="20261113190000 -0500" stop="20261113192500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T10-E5 One False Move / Personal Train Wreck</desc>
+</programme>
+<programme start="20261113192500 -0500" stop="20261113195000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T8-E10 The Weakest Ink / Sales Forced</desc>
+</programme>
+<programme start="20261113195000 -0500" stop="20261113200000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Loud House</title>
+<desc lang="es">T6-E7 Scoop Snoop</desc>
+</programme>
+<programme start="20261113200000 -0500" stop="20261113202500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">That Girl Lay Lay</title>
+<desc lang="es">T2-E11 The App Came Back</desc>
+</programme>
+<programme start="20261113202500 -0500" stop="20261113205000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">The Thundermans Undercover</title>
+<desc lang="es">T1-E2 Faulty Powers</desc>
+</programme>
+<programme start="20261113205000 -0500" stop="20261113211500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E35 Game of Phones</desc>
+</programme>
+<programme start="20261113211500 -0500" stop="20261113213500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Henry Danger</title>
+<desc lang="es">T5-E36 Escape Room</desc>
+</programme>
+<programme start="20261113213500 -0500" stop="20261113220000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Danger Force</title>
+<desc lang="es">T2-E7 Krampapalooza</desc>
+</programme>
+<programme start="20261113220000 -0500" stop="20261113222500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E24 Iwin a Date</desc>
+</programme>
+<programme start="20261113222500 -0500" stop="20261113225000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">iCarly</title>
+<desc lang="es">T1-E25 Ihave A Lovesick Teacher</desc>
+</programme>
+<programme start="20261113225000 -0500" stop="20261113231500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Victorious</title>
+<desc lang="es">T2-E1 Beck Falls for Tori</desc>
+</programme>
+<programme start="20261113231500 -0500" stop="20261113234000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Sam y Cat</title>
+<desc lang="es">T1-E5 #Babysitterwar</desc>
+</programme>
+<programme start="20261113234000 -0500" stop="20261114000000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T1-E4 Donnie Hangs Tough</desc>
+</programme>
+<programme start="20261114000000 -0500" stop="20261114002500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">Tales of the Teenage Mutant Ninja Turtles</title>
+<desc lang="es">T1-E5 Bishop Makes Her Move</desc>
+</programme>
+<programme start="20261114002500 -0500" stop="20261114004500 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E17 Delivery of Doom / My Father the Boat</desc>
+</programme>
+<programme start="20261114004500 -0500" stop="20261114011000 -0500" channel="NickelodeonLatinAmerica.us@Panregional">
+<title lang="es">SpongeBob SquarePants</title>
+<desc lang="es">T3-E18 Who's Afraid of Mr. Snippers? / A Fish Called Sandy</desc>
+</programme>
 <programme start="20261101013000 -0500" stop="20261101020000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
 <title lang="es">Jessie</title>
 <desc lang="es">Temporada 1 Episodio 13 - La princesa y el cerebro de guisante</desc>
@@ -4035,7 +5747,7 @@
 <desc lang="es">Temporada 3 Episodio 1 - Viajes & reuniones</desc>
 </programme>
 <programme start="20261101133000 -0500" stop="20261101140000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 7 - Cómo (no) hacer un video musical</desc>
 </programme>
 <programme start="20261101140000 -0500" stop="20261101142500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -4103,7 +5815,7 @@
 <desc lang="es">Temporada 3 Episodio 1 - Viajes & reuniones</desc>
 </programme>
 <programme start="20261101231200 -0500" stop="20261101233500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 7 - Cómo (no) hacer un video musical</desc>
 </programme>
 <programme start="20261101233500 -0500" stop="20261101235900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -4311,7 +6023,7 @@
 <desc lang="es">Temporada 1 Episodio 24 - Presionando botones</desc>
 </programme>
 <programme start="20261102202800 -0500" stop="20261102210000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 9 - Cómo todo se resolvió en la lavandería</desc>
 </programme>
 <programme start="20261102210000 -0500" stop="20261102212500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -4547,7 +6259,7 @@
 <desc lang="es">Temporada 1 Episodio 26 - La chofer de la Sra. Dabney</desc>
 </programme>
 <programme start="20261103202400 -0500" stop="20261103205800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 11 - Cómo aprendimos a amar a los que nos odian</desc>
 </programme>
 <programme start="20261103205800 -0500" stop="20261103212400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -4783,7 +6495,7 @@
 <desc lang="es">Temporada 2 Episodio 27 - Haciendo popó</desc>
 </programme>
 <programme start="20261104202500 -0500" stop="20261104205700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 12 - Como es que sacamos las canciones de nuestros bolsillos</desc>
 </programme>
 <programme start="20261104205700 -0500" stop="20261104212300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -5015,7 +6727,7 @@
 <desc lang="es">Temporada 2 Episodio 1 - Charlie tiene 2 años</desc>
 </programme>
 <programme start="20261105202600 -0500" stop="20261105205400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 13 - Cómo intentamos entrar a una fiesta</desc>
 </programme>
 <programme start="20261105205400 -0500" stop="20261105212300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -5238,7 +6950,7 @@
 <desc lang="es">Temporada 2 Episodio 2 - Algo es sospechoso</desc>
 </programme>
 <programme start="20261106202700 -0500" stop="20261106205800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Electric Bloom La mejor banda del mundo</title>
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
 <desc lang="es">Temporada 1 Episodio 14 - Cómo tratamos a una visita inesperada</desc>
 </programme>
 <programme start="20261106205800 -0500" stop="20261106213100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
@@ -5270,7 +6982,827 @@
 <desc lang="es">Temporada 1 Episodio 41 - Excelente</desc>
 </programme>
 <programme start="20261106234600 -0500" stop="20261107001100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
-<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
 <desc lang="es">Temporada 5 Episodio 22 - Confabulación</desc>
+</programme>
+<programme start="20261107001100 -0500" stop="20261107003400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 2 Episodio 12 - En otro momento y en otro lugar</desc>
+</programme>
+<programme start="20261107003400 -0500" stop="20261107005600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 19 - El regalo del presente / La motocicleta del dolor</desc>
+</programme>
+<programme start="20261107005600 -0500" stop="20261107011900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 15 - ¡El cumpleaños más aventurero!</desc>
+</programme>
+<programme start="20261107011900 -0500" stop="20261107014200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 26 - Diario de una periodista desquiciada</desc>
+</programme>
+<programme start="20261107014200 -0500" stop="20261107020500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 2 Episodio 11 – Haz que pase</desc>
+</programme>
+<programme start="20261107020500 -0500" stop="20261107022800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - El club del desaire / Peligro desconocido</desc>
+</programme>
+<programme start="20261107022800 -0500" stop="20261107025000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 26 - Mucha gimnasia / En la noche</desc>
+</programme>
+<programme start="20261107025000 -0500" stop="20261107031300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 1 - Reversora</desc>
+</programme>
+<programme start="20261107031300 -0500" stop="20261107033600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Las aventuras enredadas de Rapunzel</title>
+<desc lang="es">Temporada 2 Episodio 18 - ¡Tiene que ser una broma!</desc>
+</programme>
+<programme start="20261107033600 -0500" stop="20261107035100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 4 Episodio 12 - Janna chatarra</desc>
+</programme>
+<programme start="20261107035100 -0500" stop="20261107040300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 5 - Descansa en pudín</desc>
+</programme>
+<programme start="20261107040300 -0500" stop="20261107043300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 19 - Reflekta</desc>
+</programme>
+<programme start="20261107043300 -0500" stop="20261107050000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 17 - La era del vapor / No es un día de campo</desc>
+</programme>
+<programme start="20261107050000 -0500" stop="20261107053000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Patoaventuras</title>
+<desc lang="es">Temporada 3 Episodio 20 - El escondite de Beaks</desc>
+</programme>
+<programme start="20261107053000 -0500" stop="20261107055600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 6 - Star, niñera / En el ruedo</desc>
+</programme>
+<programme start="20261107055600 -0500" stop="20261107062100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 1 Episodio 4 - La intrusa</desc>
+</programme>
+<programme start="20261107062100 -0500" stop="20261107064700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 3 - En la barriga de la bestia</desc>
+</programme>
+<programme start="20261107064700 -0500" stop="20261107070000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - El rápido y Phineas</desc>
+</programme>
+<programme start="20261107070000 -0500" stop="20261107073000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 19 - Raromageddon 2: Escape de la realidad</desc>
+</programme>
+<programme start="20261107073000 -0500" stop="20261107080200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 15 - Pizza Deliverance / Chica Caballo</desc>
+</programme>
+<programme start="20261107080200 -0500" stop="20261107083100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 26 - Nemesis</desc>
+</programme>
+<programme start="20261107083100 -0500" stop="20261107085900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 28 - No son Phineas y Ferb / ¡Cazando a Phineas y Ferb!</desc>
+</programme>
+<programme start="20261107085900 -0500" stop="20261107103500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Up: Una Aventura de Altura</title>
+<desc lang="es">Familiar / 2009 Un señor viudo de setenta y ocho años cumple con un sueño de toda la vida cuando amarra miles de globos a su casa y vuela rumbo a Sudamérica. Pronto descubre que un niño optimista de ocho años llamado Russell se ha colado en el viaje.</desc>
+</programme>
+<programme start="20261107103500 -0500" stop="20261107104700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - Terror y Nomos en una fiesta en la playa</desc>
+</programme>
+<programme start="20261107104700 -0500" stop="20261107111400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 6 - La leyenda de los seguidores espeluznantes</desc>
+</programme>
+<programme start="20261107111400 -0500" stop="20261107114100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 2 - El primer día de escuela</desc>
+</programme>
+<programme start="20261107114100 -0500" stop="20261107120300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 13 - Ataque al castillo</desc>
+</programme>
+<programme start="20261107120300 -0500" stop="20261107122800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 1 - La gallina espacial / Noche de filetes</desc>
+</programme>
+<programme start="20261107122800 -0500" stop="20261107125300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107125300 -0500" stop="20261107131900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261107131900 -0500" stop="20261107134400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107134400 -0500" stop="20261107140900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 7 - Atascados / Mamá pájaro</desc>
+</programme>
+<programme start="20261107140900 -0500" stop="20261107143600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107143600 -0500" stop="20261107145900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 3 - Las reglas del campamento</desc>
+</programme>
+<programme start="20261107145900 -0500" stop="20261107153200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107153200 -0500" stop="20261107160000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 4 - Lady Wifi</desc>
+</programme>
+<programme start="20261107160000 -0500" stop="20261107162100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 4 - Ánimo, Star / Misión compras</desc>
+</programme>
+<programme start="20261107162100 -0500" stop="20261107180000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Camp Rock 3</title>
+<desc lang="es">Comedia / 2026 En Camp Rock, los Connect 3 buscan un nuevo artista para abrir sus conciertos. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar el puesto desata rivalidades y romances, ya que todos luchan por destacar.</desc>
+</programme>
+<programme start="20261107180000 -0500" stop="20261107191200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La Era de Hielo</title>
+<desc lang="es">Familiar / 2002 Un mamut, un oso perezoso y un tigre se embarcan en una increíble aventura glaciar veinte mil años atrás, para devolver un bebé humano extraviado por sus padres.</desc>
+</programme>
+<programme start="20261107191200 -0500" stop="20261107193500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 4 - ¡Huele a espíritu de campamento!</desc>
+</programme>
+<programme start="20261107193500 -0500" stop="20261107195800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 6 - ¿Y ahora, puedes oírme?</desc>
+</programme>
+<programme start="20261107195800 -0500" stop="20261107202800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 7 - La suma de todas las partes</desc>
+</programme>
+<programme start="20261107202800 -0500" stop="20261107204000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 3 - Invierano</desc>
+</programme>
+<programme start="20261107204000 -0500" stop="20261107211900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Selenkay</title>
+<desc lang="es">Temporada 1 Episodio 6 - Iniciación</desc>
+</programme>
+<programme start="20261107211900 -0500" stop="20261107213100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 8 - Pantalla grande</desc>
+</programme>
+<programme start="20261107213100 -0500" stop="20261107220000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Secretos en Sulphur Springs</title>
+<desc lang="es">Temporada 2 Episodio 16 - Ya es hora</desc>
+</programme>
+<programme start="20261107220000 -0500" stop="20261107222600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 1 - La gallina espacial / Noche de filetes</desc>
+</programme>
+<programme start="20261107222600 -0500" stop="20261107225400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 2 - Grillo Versus / La papa azul</desc>
+</programme>
+<programme start="20261107225400 -0500" stop="20261107231700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261107231700 -0500" stop="20261107234100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261107234100 -0500" stop="20261108000400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 7 - Atascados / Mamá pájaro</desc>
+</programme>
+<programme start="20261108000400 -0500" stop="20261108002700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 4 - Grillo-Niñera / Voltereta Bill</desc>
+</programme>
+<programme start="20261108002700 -0500" stop="20261108005100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 20 - En vivo, desde el campamento Kikiwaka</desc>
+</programme>
+<programme start="20261108005100 -0500" stop="20261108011400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 1 Episodio 15 - La encantadora de niños</desc>
+</programme>
+<programme start="20261108011400 -0500" stop="20261108013700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 9 - Reflekmuñeca</desc>
+</programme>
+<programme start="20261108013700 -0500" stop="20261108015900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 3 - El defensor del charco / El rey Ludo</desc>
+</programme>
+<programme start="20261108015900 -0500" stop="20261108022200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 1 - La nueva normalidad</desc>
+</programme>
+<programme start="20261108022200 -0500" stop="20261108024500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 26 - Actúa conforme a tu edad</desc>
+</programme>
+<programme start="20261108024500 -0500" stop="20261108030800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 13 - El legado familiar / Ataque artístico</desc>
+</programme>
+<programme start="20261108030800 -0500" stop="20261108033000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 18 - El cerdito o la vida</desc>
+</programme>
+<programme start="20261108033000 -0500" stop="20261108035000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - El club del desaire</desc>
+</programme>
+<programme start="20261108035000 -0500" stop="20261108041300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 21 - Pixelador</desc>
+</programme>
+<programme start="20261108041300 -0500" stop="20261108043600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 20 - El ultimátum de Klimpaloom</desc>
+</programme>
+<programme start="20261108043600 -0500" stop="20261108050000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 2 - Cupido / Espíritu escolar</desc>
+</programme>
+<programme start="20261108050000 -0500" stop="20261108052600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Patoaventuras</title>
+<desc lang="es">Temporada 3 Episodio 21 - El cargamento perdido</desc>
+</programme>
+<programme start="20261108052600 -0500" stop="20261108055900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 7 - Salchi-duende / Lo que el libro indica</desc>
+</programme>
+<programme start="20261108055900 -0500" stop="20261108062400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 1 Episodio 5 - El gran aquelarre</desc>
+</programme>
+<programme start="20261108062400 -0500" stop="20261108065900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 4 - Viajar o morir</desc>
+</programme>
+<programme start="20261108065900 -0500" stop="20261108072800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 20 - Raromageddon 3: Recuperando Gravity Falls</desc>
+</programme>
+<programme start="20261108072800 -0500" stop="20261108080100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 3 Episodio 17 - Amigos por correspondencia / Estudiar en el extranjero</desc>
+</programme>
+<programme start="20261108080100 -0500" stop="20261108082900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 2 Episodio 17 - Problemática</desc>
+</programme>
+<programme start="20261108082900 -0500" stop="20261108085800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 29 - El encantador de lagartos / Rodeo robot</desc>
+</programme>
+<programme start="20261108085800 -0500" stop="20261108104300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">High School Musical</title>
+<desc lang="es">Musical / 2006 Troy, un popular basquetbolista, y Gabriella, tímida e inteligente, descubren por casualidad su pasión por el canto. A pesar de sus diferencias, deciden unirse y participar en la comedia musical del colegio aunque deban enfrentar a todos.</desc>
+</programme>
+<programme start="20261108104300 -0500" stop="20261108111400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 7 - Necesitaremos una carroza más grande</desc>
+</programme>
+<programme start="20261108111400 -0500" stop="20261108113800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 3 - El primer baile</desc>
+</programme>
+<programme start="20261108113800 -0500" stop="20261108120100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 2 Episodio 1 - Mi nueva varita / Ludo salvaje</desc>
+</programme>
+<programme start="20261108120100 -0500" stop="20261108122600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 18 - Gente que usa a la gente</desc>
+</programme>
+<programme start="20261108122600 -0500" stop="20261108125100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jonas</title>
+<desc lang="es">Temporada 1 Episodio 20 - La bella y el ritmo</desc>
+</programme>
+<programme start="20261108125100 -0500" stop="20261108131800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Austin & Ally</title>
+<desc lang="es">Temporada 3 Episodio 2 - ¿Qué tal si...? & ¿Dónde está Austin?</desc>
+</programme>
+<programme start="20261108131800 -0500" stop="20261108134300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 8 - Cómo bailamos toda la noche</desc>
+</programme>
+<programme start="20261108134300 -0500" stop="20261108135500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 2 - Terror y Nomos en una fiesta en la playa</desc>
+</programme>
+<programme start="20261108135500 -0500" stop="20261108142600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Art Attack modo desafío</title>
+<desc lang="es">Temporada 1 Episodio 7 - Bienvenidos a la feria</desc>
+</programme>
+<programme start="20261108142600 -0500" stop="20261108142900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Art Attack Snacks</title>
+<desc lang="es">Temporada 1 Episodio 9 - Catapulta de papel</desc>
+</programme>
+<programme start="20261108142900 -0500" stop="20261108145800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 3 - Magia impráctica / Vínculo al revés</desc>
+</programme>
+<programme start="20261108145800 -0500" stop="20261108152700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 3 - Problemas en el agua / La cabra de Tilly</desc>
+</programme>
+<programme start="20261108152700 -0500" stop="20261108155800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 7 - Demoilustrador</desc>
+</programme>
+<programme start="20261108155800 -0500" stop="20261108162100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 3 - Casi me ahogaba en una fuente de chocolate</desc>
+</programme>
+<programme start="20261108162100 -0500" stop="20261108164400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 10 - Estállame y lo sufriremos los dos</desc>
+</programme>
+<programme start="20261108164400 -0500" stop="20261108165500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 4 - ¿Eres mi momia?</desc>
+</programme>
+<programme start="20261108165500 -0500" stop="20261108175900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La Era de Hielo</title>
+<desc lang="es">Familiar / 2002 Un mamut, un oso perezoso y un tigre se embarcan en una increíble aventura glaciar veinte mil años atrás, para devolver un bebé humano extraviado por sus padres.</desc>
+</programme>
+<programme start="20261108175900 -0500" stop="20261108193600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Up: Una Aventura de Altura</title>
+<desc lang="es">Familiar / 2009 Un señor viudo de setenta y ocho años cumple con un sueño de toda la vida cuando amarra miles de globos a su casa y vuela rumbo a Sudamérica. Pronto descubre que un niño optimista de ocho años llamado Russell se ha colado en el viaje.</desc>
+</programme>
+<programme start="20261108193600 -0500" stop="20261108195900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 1 Episodio 3 - El brazo monstruoso / El otro alumno de intercambio</desc>
+</programme>
+<programme start="20261108195900 -0500" stop="20261108202700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 8 - Fiebre dragón</desc>
+</programme>
+<programme start="20261108202700 -0500" stop="20261108204000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 5 - Bravucón salvaje</desc>
+</programme>
+<programme start="20261108204000 -0500" stop="20261108211500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Selenkay</title>
+<desc lang="es">Temporada 1 Episodio 7 - Identidad</desc>
+</programme>
+<programme start="20261108211500 -0500" stop="20261108214400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Secretos en Sulphur Springs</title>
+<desc lang="es">Temporada 2 Episodio 6 - Crujido</desc>
+</programme>
+<programme start="20261108214400 -0500" stop="20261108221200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 18 - Gente que usa a la gente</desc>
+</programme>
+<programme start="20261108221200 -0500" stop="20261108223900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jonas</title>
+<desc lang="es">Temporada 1 Episodio 20 - La bella y el ritmo</desc>
+</programme>
+<programme start="20261108223900 -0500" stop="20261108230300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Austin & Ally</title>
+<desc lang="es">Temporada 3 Episodio 2 - ¿Qué tal si...? & ¿Dónde está Austin?</desc>
+</programme>
+<programme start="20261108230300 -0500" stop="20261108232400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 8 - Cómo bailamos toda la noche</desc>
+</programme>
+<programme start="20261108232400 -0500" stop="20261108235100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Art Attack: modo desafío</title>
+<desc lang="es">Temporada 1 Episodio 7 - Bienvenidos a la feria</desc>
+</programme>
+<programme start="20261108235100 -0500" stop="20261109001500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 1 Episodio 14 - Una mente magnífica y misteriosa</desc>
+</programme>
+<programme start="20261109001500 -0500" stop="20261109003900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 1 Episodio 14 - Encuentros cercanos con un campista</desc>
+</programme>
+<programme start="20261109003900 -0500" stop="20261109010100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 1 Episodio 19 - Maldad por dos</desc>
+</programme>
+<programme start="20261109010100 -0500" stop="20261109012400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 2 - Papá lobo</desc>
+</programme>
+<programme start="20261109012400 -0500" stop="20261109014700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 4 - Toffee</desc>
+</programme>
+<programme start="20261109014700 -0500" stop="20261109021100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 2 - Fuera de control / Punto de inflexión</desc>
+</programme>
+<programme start="20261109021100 -0500" stop="20261109023500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 27 - Phineas y Ferb: Salvan el verano</desc>
+</programme>
+<programme start="20261109023500 -0500" stop="20261109025900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 1 Episodio 14 - No apto para grillos / Compart-amento</desc>
+</programme>
+<programme start="20261109025900 -0500" stop="20261109033000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 19 - Fuga de ensueño</desc>
+</programme>
+<programme start="20261109033000 -0500" stop="20261109034200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 6 - Peligro desconocido</desc>
+</programme>
+<programme start="20261109034200 -0500" stop="20261109040900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 17 - Antibug</desc>
+</programme>
+<programme start="20261109040900 -0500" stop="20261109043300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 21 - Doof 101 / El día del padre</desc>
+</programme>
+<programme start="20261109043300 -0500" stop="20261109050000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Alex la del medio</desc>
+</programme>
+<programme start="20261109050000 -0500" stop="20261109051100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Las Aventuras de Pilar</title>
+<desc lang="es">Temporada 1 Episodio 20 - El regalo del emperador</desc>
+</programme>
+<programme start="20261109051100 -0500" stop="20261109052200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Mickey Mouse</title>
+<desc lang="es">Temporada 3 Episodio 4 - La moneda del deseo / Las maravillas del mar</desc>
+</programme>
+<programme start="20261109052200 -0500" stop="20261109054700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 5 - No parpadees / La casa del ornitorrinco</desc>
+</programme>
+<programme start="20261109054700 -0500" stop="20261109060000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 22 - Él es Candace</desc>
+</programme>
+<programme start="20261109060000 -0500" stop="20261109063000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 19 - Fuga de ensueño</desc>
+</programme>
+<programme start="20261109063000 -0500" stop="20261109070000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 20 - Cien</desc>
+</programme>
+<programme start="20261109070000 -0500" stop="20261109072900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 28 - El sombrero / Objetos perdidos</desc>
+</programme>
+<programme start="20261109072900 -0500" stop="20261109075900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 2 Episodio 6 – Marcy en la puerta</desc>
+</programme>
+<programme start="20261109075900 -0500" stop="20261109082900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Hamster & Gretel</title>
+<desc lang="es">Temporada 2 Episodio 18 - El gran golpe / El arte del engaño</desc>
+</programme>
+<programme start="20261109082900 -0500" stop="20261109085900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">El fantasma y Molly McGee</title>
+<desc lang="es">Temporada 1 Episodio 10 - La fiesta de las luces / Hay que salvar la Navidad</desc>
+</programme>
+<programme start="20261109085900 -0500" stop="20261109093000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 4 - Desayuno en Chippany's / El guardián de los pájaros</desc>
+</programme>
+<programme start="20261109093000 -0500" stop="20261109100000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 8 - La Dae más aterradora del año</desc>
+</programme>
+<programme start="20261109100000 -0500" stop="20261109103400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 3 Episodio 26 - Sorpresa sonámbula / La nave espacial</desc>
+</programme>
+<programme start="20261109103400 -0500" stop="20261109110100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 12 - Conductor temerario</desc>
+</programme>
+<programme start="20261109100100 -0500" stop="20261109112600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 7 - Harper, la maratonista</desc>
+</programme>
+<programme start="20261109112600 -0500" stop="20261109115200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 10 - Alex, positiva</desc>
+</programme>
+<programme start="20261109115200 -0500" stop="20261109121800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 3 Episodio 11 - Elección de castigo</desc>
+</programme>
+<programme start="20261109121800 -0500" stop="20261109123100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 1 Episodio 13 - Viaje a los archivos</desc>
+</programme>
+<programme start="20261109123100 -0500" stop="20261109130000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Entre sueños y hechizos</desc>
+</programme>
+<programme start="20261109130000 -0500" stop="20261109132600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 26 - Día de perros a media tarde</desc>
+</programme>
+<programme start="20261109132600 -0500" stop="20261109140000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 7 - OTDR / Buenos días escuela Table Town</desc>
+</programme>
+<programme start="20261109140000 -0500" stop="20261109142900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 8 - La Dae más aterradora del año</desc>
+</programme>
+<programme start="20261109142900 -0500" stop="20261109145600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 19 - ¡Bam Ui Pati! / Amor complicado</desc>
+</programme>
+<programme start="20261109145600 -0500" stop="20261109153000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 4 - Amor sin calcetas</desc>
+</programme>
+<programme start="20261109153000 -0500" stop="20261109160000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 5 - Faraón</desc>
+</programme>
+<programme start="20261109160000 -0500" stop="20261109163200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 3 - Acción en el ascensor / Mal influencer</desc>
+</programme>
+<programme start="20261109163200 -0500" stop="20261109163300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker: Estrellas del Gorotama</title>
+<desc lang="es">Temporada 1 Episodio 4 - Casper Ferreiro</desc>
+</programme>
+<programme start="20261109163300 -0500" stop="20261109165900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 10 - La sanguijuela</desc>
+</programme>
+<programme start="20261109165900 -0500" stop="20261109172800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 24 - El regreso de Dennis</desc>
+</programme>
+<programme start="20261109172800 -0500" stop="20261109175900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 18 - Dame tu mejor bot</desc>
+</programme>
+<programme start="20261109175900 -0500" stop="20261109183000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 1 - El primer año</desc>
+</programme>
+<programme start="20261109183000 -0500" stop="20261109185900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 21 – Embriagado de amor</desc>
+</programme>
+<programme start="20261109185900 -0500" stop="20261109192100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Coven Academy: El secreto de las brujas</title>
+<desc lang="es">Temporada 1 Episodio 14 - Acción de Brujas</desc>
+</programme>
+<programme start="20261109192100 -0500" stop="20261109193400 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Coven Academy: El secreto de las brujas</title>
+<desc lang="es">Temporada 1 Episodio 15 - Todo o nada</desc>
+</programme>
+<programme start="20261109193400 -0500" stop="20261109200000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Hannah Montana</title>
+<desc lang="es">Temporada 1 Episodio 23 - La bravucona</desc>
+</programme>
+<programme start="20261109200000 -0500" stop="20261109202800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">¡Buenas suerte Charlie!</title>
+<desc lang="es">Temporada 2 Episodio 5 - Duncan contra Duncan</desc>
+</programme>
+<programme start="20261109202800 -0500" stop="20261109205900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Electric Bloom: La mejor banda del mundo</title>
+<desc lang="es">Temporada 1 Episodio 15 - Cómo vencimos el odio navideño</desc>
+</programme>
+<programme start="20261109205900 -0500" stop="20261109212900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Acampados</title>
+<desc lang="es">Temporada 2 Episodio 20 - Nosotros no comenzamos el fuego</desc>
+</programme>
+<programme start="20261109212900 -0500" stop="20261109215900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 6 - El primer club</desc>
+</programme>
+<programme start="20261109215900 -0500" stop="20261109222500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 3 Episodio 11 - La Comandante Anne / Sprigsol</desc>
+</programme>
+<programme start="20261109222500 -0500" stop="20261109225100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 32 - El laberinto / Damas y caballeros, ¡él es Max Módem!</desc>
+</programme>
+<programme start="20261109225100 -0500" stop="20261109231300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 11 - Trent en lo profundo / Obra de desastre</desc>
+</programme>
+<programme start="20261109231300 -0500" stop="20261109232500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 1 Episodio 13 - El reegreso del Zed viviente</desc>
+</programme>
+<programme start="20261109232500 -0500" stop="20261109233800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Tara Duncan</title>
+<desc lang="es">Temporada 1 Episodio 42 - Sin magia</desc>
+</programme>
+<programme start="20261109233800 -0500" stop="20261110000200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 5 Episodio 23 - Revolución</desc>
+</programme>
+<programme start="20261110000200 -0500" stop="20261110002600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">La casa Búho</title>
+<desc lang="es">Temporada 2 Episodio 13 - Cualquier deporte en una tormenta</desc>
+</programme>
+<programme start="20261110002600 -0500" stop="20261110004800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 20 - Silencio, por favor / Todo un desastre</desc>
+</programme>
+<programme start="20261110004800 -0500" stop="20261110011100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 16 - Entre sueños y hechizos</desc>
+</programme>
+<programme start="20261110011100 -0500" stop="20261110013500 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 14 - La gran estafa del juguete</desc>
+</programme>
+<programme start="20261110013500 -0500" stop="20261110015800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los hechiceros de Waverly Place</title>
+<desc lang="es">Temporada 2 Episodio 16 - La futura Harper</desc>
+</programme>
+<programme start="20261110015800 -0500" stop="20261110022000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 7 - Depresión de segundo año</desc>
+</programme>
+<programme start="20261110022000 -0500" stop="20261110024300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 27 - Spin Offs / Autito roto</desc>
+</programme>
+<programme start="20261110024300 -0500" stop="20261110030600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous: Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 3 Episodio 9 - Muñekta</desc>
+</programme>
+<programme start="20261110030600 -0500" stop="20261110032900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Las aventuras enredadas de Rapunzel</title>
+<desc lang="es">Temporada 2 Episodio 19 - Rapunzeltopia</desc>
+</programme>
+<programme start="20261110032900 -0500" stop="20261110034100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 4 Episodio 12 - Un hechizo sin nombre</desc>
+</programme>
+<programme start="20261110034100 -0500" stop="20261110035200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 7 - Demonismo</desc>
+</programme>
+<programme start="20261110035200 -0500" stop="20261110042300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 26 - Orígenes</desc>
+</programme>
+<programme start="20261110042300 -0500" stop="20261110044600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 22 - Operación terroncito / Él es Candace</desc>
+</programme>
+<programme start="20261110044600 -0500" stop="20261110050000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 4 - Súper estrellas</desc>
+</programme>
+<programme start="20261110050000 -0500" stop="20261110051100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Las Aventuras de Pilar</title>
+<desc lang="es">Temporada 1 Episodio 6 - Aracne y Atenea</desc>
+</programme>
+<programme start="20261110051100 -0500" stop="20261110052200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Mickey Mouse</title>
+<desc lang="es">Temporada 3 Episodio 5 - Acampando / Delicias turcas / Sin reservación</desc>
+</programme>
+<programme start="20261110052200 -0500" stop="20261110054700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 2 Episodio 6 - Perry puso un huevo / El major videojuego</desc>
+</programme>
+<programme start="20261110054700 -0500" stop="20261110055900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 24 - El regreso de Dennis</desc>
+</programme>
+<programme start="20261110055900 -0500" stop="20261110062700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 1 Episodio 20 - El gigantesco Gideón</desc>
+</programme>
+<programme start="20261110062700 -0500" stop="20261110070100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 4 Episodio 21 - La venganza de Chip</desc>
+</programme>
+<programme start="20261110070100 -0500" stop="20261110072900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 28 - El sombrero / Objetos perdidos</desc>
+</programme>
+<programme start="20261110072900 -0500" stop="20261110075900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Amphibia</title>
+<desc lang="es">Temporada 2 Episodio 7 - Búsqueda escabrosa / La llegada de los Plantar</desc>
+</programme>
+<programme start="20261110075900 -0500" stop="20261110082900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Hamster & Gretel</title>
+<desc lang="es">Temporada 2 Episodio 49 - Interferencia directa / Cambio de rostros</desc>
+</programme>
+<programme start="20261110082900 -0500" stop="20261110085900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">El fantasma y Molly McGee</title>
+<desc lang="es">Temporada 1 Episodio 13 - Inocente hasta que se demuestre que es un fantasma / Doble dilema</desc>
+</programme>
+<programme start="20261110085900 -0500" stop="20261110092900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">StuGo Campamento de verano</title>
+<desc lang="es">Temporada 1 Episodio 5 - Sin manos de hombre, no hay isla / Hermanas al agua</desc>
+</programme>
+<programme start="20261110092900 -0500" stop="20261110095900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 10 - Noticias Bree / Canciones espectaculares de karaoke</desc>
+</programme>
+<programme start="20261110095900 -0500" stop="20261110103300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 3 Episodio 27 - La misión de Meap en Seattle</desc>
+</programme>
+<programme start="20261110103300 -0500" stop="20261110110000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 6 Episodio 13 - Yaksi Gozen</desc>
+</programme>
+<programme start="20261110110000 -0500" stop="20261110112600 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Liv y Maddie</title>
+<desc lang="es">Temporada 1 Episodio 10 - Rooney - Navidad</desc>
+</programme>
+<programme start="20261110112600 -0500" stop="20261110115300 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Liv and Maddie</title>
+<desc lang="es">Temporada 1 Episodio 12 - Rooney - Vertedero</desc>
+</programme>
+<programme start="20261110115300 -0500" stop="20261110122000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Liv and Maddie</title>
+<desc lang="es">Temporada 1 Episodio 14 - Rooney - Desplomo</desc>
+</programme>
+<programme start="20261110122000 -0500" stop="20261110123200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 1 Episodio 11 - El cumpleaños de mamá</desc>
+</programme>
+<programme start="20261110123200 -0500" stop="20261110130000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 14 - Varita en acción</desc>
+</programme>
+<programme start="20261110130000 -0500" stop="20261110132700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Moon Girl y Devil, el dinosaurio</title>
+<desc lang="es">Temporada 2 Episodio 11 - Roller Jam!</desc>
+</programme>
+<programme start="20261110132700 -0500" stop="20261110140100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Kiff</title>
+<desc lang="es">Temporada 2 Episodio 10 - El mago Ed / Hechizo desconocido</desc>
+</programme>
+<programme start="20261110140100 -0500" stop="20261110142900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Zombies la serie re-animada</title>
+<desc lang="es">Temporada 2 Episodio 10 - Noticias Bree / Canciones espectaculares de karaoke</desc>
+</programme>
+<programme start="20261110142900 -0500" stop="20261110150200 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Star vs. Las Fuerzas del Mal</title>
+<desc lang="es">Temporada 3 Episodio 20 - Dividiendo</desc>
+</programme>
+<programme start="20261110150200 -0500" stop="20261110152900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Gravity Falls: Un Verano de Misterios</title>
+<desc lang="es">Temporada 2 Episodio 7 - La sociedad del ojo cegado</desc>
+</programme>
+<programme start="20261110152900 -0500" stop="20261110155700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Miraculous Las aventuras de Ladybug</title>
+<desc lang="es">Temporada 1 Episodio 5 - Faraón</desc>
+</programme>
+<programme start="20261110155700 -0500" stop="20261110163000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Vecinos Green</title>
+<desc lang="es">Temporada 2 Episodio 5 - Demoliciones y disculpas / Golpe de suerte</desc>
+</programme>
+<programme start="20261110163000 -0500" stop="20261110163100 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker: Estrellas del Gorotama</title>
+<desc lang="es">Temporada 1 Episodio 3 - Callista Ferreiro</desc>
+</programme>
+<programme start="20261110163100 -0500" stop="20261110165900 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Dragon Striker</title>
+<desc lang="es">Temporada 1 Episodio 11 - Revelaciones</desc>
+</programme>
+<programme start="20261110165900 -0500" stop="20261110172700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Phineas y Ferb</title>
+<desc lang="es">Temporada 4 Episodio 25 - El método del Inador</desc>
+</programme>
+<programme start="20261110172700 -0500" stop="20261110175800 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Los Hechiceros Más Allá De Waverly Place</title>
+<desc lang="es">Temporada 1 Episodio 19 - Invasores de los archivos ocultos</desc>
+</programme>
+<programme start="20261110175800 -0500" stop="20261110182700 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Vampirina Una Vampirina adolescente</title>
+<desc lang="es">Temporada 1 Episodio 2 - El primer día de escuela</desc>
+</programme>
+<programme start="20261110182700 -0500" stop="20261110190000 -0500" channel="DisneyChannelLatinAmerica.ar@Center">
+<title lang="es">Jessie</title>
+<desc lang="es">Temporada 2 Episodio 14 - ¿Por qué los tontos se enamoran?</desc>
 </programme>
 </tv>
