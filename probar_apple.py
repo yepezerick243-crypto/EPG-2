@@ -1,7 +1,6 @@
 
 import requests
-from bs4 import BeautifulSoup
-import re
+import json
 
 URL = "https://tv.apple.com/fr/show/two-and-a-half-men/umc.cmc.4syd3ylis0va9bpj1y923v20g?l=en"
 
@@ -14,55 +13,47 @@ respuesta = requests.get(URL, headers=HEADERS, timeout=30)
 respuesta.raise_for_status()
 
 html = respuesta.text
-soup = BeautifulSoup(html, "html.parser")
 
 print("=" * 65)
-print("DIAGNÓSTICO DE TEMPORADAS - APPLE TV")
+print("IDENTIFICADORES DE TEMPORADAS - APPLE TV")
 print("=" * 65)
 
-print("\n1. SELECTORES DE TEMPORADA")
+posicion = html.find('"seasons":')
 
-selectores = soup.find_all("select")
+if posicion == -1:
+    print("No se encontró la lista de temporadas.")
+else:
+    inicio = html.find("[", posicion)
 
-print("Selectores encontrados:", len(selectores))
-
-for i, selector in enumerate(selectores, 1):
-    print(f"\nSELECTOR {i}")
-    print(selector.prettify()[:5000])
-
-print("\n2. ENLACES RELACIONADOS CON TEMPORADAS")
-
-for enlace in soup.find_all("a", href=True):
-    href = enlace["href"]
-    texto = enlace.get_text(" ", strip=True)
-
-    if "season" in href.lower() or "temporada" in texto.lower():
-        print("Texto:", texto)
-        print("Enlace:", href)
-
-print("\n3. DATOS INTERNOS DE TEMPORADAS")
-
-patrones = [
-    "SeasonPageIntent",
-    "BoxSetEpisodesPaginationIntent",
-    "seasonNumber",
-    "seasonId",
-    "season"
-]
-
-for patron in patrones:
-    posiciones = [
-        m.start() for m in re.finditer(
-            re.escape(patron), html, re.IGNORECASE
+    try:
+        temporadas, fin = json.JSONDecoder().raw_decode(
+            html[inicio:]
         )
-    ]
 
-    print(f"\n{patron}: {len(posiciones)} coincidencias")
+        print("Temporadas encontradas:", len(temporadas))
 
-    for posicion in posiciones[:3]:
-        inicio = max(0, posicion - 350)
-        fin = min(len(html), posicion + 700)
-        print(html[inicio:fin])
-        print("-" * 40)
+        for temporada in temporadas:
+            print(
+                f"Temporada {temporada.get('seasonNumber')}: "
+                f"{temporada.get('id')} | "
+                f"Episodios: {temporada.get('episodeCount')}"
+            )
+
+    except Exception as error:
+        print("Error leyendo temporadas:", error)
+
+print("\n" + "=" * 65)
+print("CONFIGURACIÓN DE LA API DE EPISODIOS")
+print("=" * 65)
+
+for palabra in ['"contentEpisodes"', '"getSeasonDetailById"']:
+    posicion = html.find(palabra)
+
+    print("\n", palabra)
+
+    if posicion == -1:
+        print("No encontrado en el HTML.")
+    else:
+        print(html[posicion:posicion + 700])
 
 print("\nDIAGNÓSTICO TERMINADO")
