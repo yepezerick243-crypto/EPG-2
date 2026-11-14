@@ -1,106 +1,90 @@
 
 import requests
 import re
-import json
-from bs4 import BeautifulSoup
 
-URL = "https://tv.apple.com/fr/show/two-and-a-half-men/umc.cmc.4syd3ylis0va9bpj1y923v20g?l=en"
+BASE = "https://tv.apple.com"
+URL = BASE + "/fr/show/two-and-a-half-men/umc.cmc.4syd3ylis0va9bpj1y923v20g?l=en"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0",
     "Accept-Language": "en-US,en;q=0.9"
 }
 
-def buscar_contexto(texto, patrones, limite=5):
-    encontrados = 0
+def mostrar_coincidencias(texto, palabra, limite=5):
+    posiciones = [
+        m.start() for m in re.finditer(palabra, texto, re.I)
+    ]
 
-    for patron in patrones:
-        for coincidencia in re.finditer(patron, texto, re.I):
-            inicio = max(0, coincidencia.start() - 250)
-            fin = min(len(texto), coincidencia.end() + 500)
+    print(f"\n'{palabra}': {len(posiciones)} coincidencias")
 
-            print("\n" + "-" * 60)
-            print(texto[inicio:fin])
-            encontrados += 1
-
-            if encontrados >= limite:
-                return
-
-    if encontrados == 0:
-        print("No se encontraron coincidencias.")
+    for posicion in posiciones[:limite]:
+        inicio = max(0, posicion - 180)
+        fin = min(len(texto), posicion + 350)
+        print("-" * 50)
+        print(texto[inicio:fin])
 
 def main():
     print("=" * 60)
-    print("DIAGNÓSTICO DE APPLE TV")
+    print("INVESTIGACIÓN DE EPISODIOS - APPLE TV")
     print("=" * 60)
 
     try:
-        respuesta = requests.get(
-            URL,
+        respuesta = requests.get(URL, headers=HEADERS, timeout=30)
+        respuesta.raise_for_status()
+
+        html = respuesta.text
+
+        # Buscar el archivo JavaScript principal
+        coincidencia = re.search(
+            r'<script[^>]+src="([^"]*main[^"]*\.js[^"]*)"',
+            html
+        )
+
+        if not coincidencia:
+            print("No se encontró el JavaScript principal.")
+            return
+
+        js_url = coincidencia.group(1)
+
+        if js_url.startswith("/"):
+            js_url = BASE + js_url
+        elif not js_url.startswith("http"):
+            js_url = BASE + "/" + js_url
+
+        print("\nArchivo JavaScript:")
+        print(js_url)
+
+        js_respuesta = requests.get(
+            js_url,
             headers=HEADERS,
             timeout=30
         )
+        js_respuesta.raise_for_status()
 
-        print("Estado HTTP:", respuesta.status_code)
-        print("Bytes recibidos:", len(respuesta.content))
+        js = js_respuesta.text
 
-        respuesta.raise_for_status()
+        print("Tamaño JavaScript:", len(js), "bytes")
 
-        respuesta.encoding = respuesta.apparent_encoding
-        html = respuesta.text
+        print("\nBUSCANDO INFORMACIÓN EN JAVASCRIPT")
 
-        soup = BeautifulSoup(html, "html.parser")
-
-        print("\n1. TÍTULO")
-        print(soup.title.get_text(strip=True) if soup.title else "No encontrado")
-
-        print("\n2. METADATOS")
-        for meta in soup.find_all("meta"):
-            nombre = meta.get("property") or meta.get("name")
-            contenido = meta.get("content")
-
-            if nombre and contenido:
-                if any(x in nombre.lower() for x in [
-                    "title", "description", "episode", "season"
-                ]):
-                    print(nombre, "=", contenido)
-
-        print("\n3. DATOS JSON-LD")
-        json_ld = soup.find_all(
-            "script",
-            type="application/ld+json"
-        )
-
-        if json_ld:
-            for script in json_ld:
-                print((script.string or script.get_text())[:5000])
-        else:
-            print("No se encontró JSON-LD.")
-
-        print("\n4. SCRIPTS DE LA PÁGINA")
-        for script in soup.find_all("script", src=True):
-            print(script.get("src"))
-
-        print("\n5. BUSCANDO TEMPORADAS Y EPISODIOS")
-
-        patrones = [
-            r"season",
-            r"episode",
-            r"Two and a Half Men",
-            r"episodeNumber",
-            r"seasonNumber",
-            r"tvSeason",
-            r"tvEpisode",
-            r"adamId"
+        palabras = [
+            "episode",
+            "season",
+            "tvEpisode",
+            "episodeNumber",
+            "seasonNumber",
+            "graphql",
+            "catalog",
+            "playback"
         ]
 
-        buscar_contexto(html, patrones, limite=12)
+        for palabra in palabras:
+            mostrar_coincidencias(js, palabra, limite=3)
 
-        print("\n6. RESULTADO")
-        print("Diagnóstico terminado.")
+        print("\nINVESTIGACIÓN TERMINADA.")
 
     except Exception as error:
-        print("ERROR:", repr(error))
+        print("\nERROR:", repr(error))
 
 if __name__ == "__main__":
     main()
