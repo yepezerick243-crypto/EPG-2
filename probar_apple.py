@@ -1,4 +1,3 @@
-
 import requests
 import re
 
@@ -8,32 +7,27 @@ r = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=40)
 r.raise_for_status()
 js = r.text
 
-print("=" * 65)
-print("INVESTIGACIÓN DE SOLICITUDES UTS")
-print("=" * 65)
+print("=" * 60)
+print("DEFINICIONES DE PARÁMETROS APPLE TV")
+print("=" * 60)
 
-patrones = [
-    "getShowEpisodes",
-    "getSeasonDetailById",
-    "getShowDetailById",
-    "contentEpisodes",
-    "requiredParamsMap",
-    "setCommonParams",
-    "createApiRequest",
-    "getTokenHeaders"
-]
+for nombre, patrones in {
+    "Sp": [r"\bSp\s*=", r"\bSp\s*:"],
+    "C9": [r"\bC9\s*=", r"\bC9\s*:"],
+    "dH": [r"\bdH\s*="],
+    "LT": [r"\bLT\s*="],
+}.items():
 
-for patron in patrones:
-    posiciones = [m.start() for m in re.finditer(re.escape(patron), js)]
-    print(f"\n\n========== {patron} ==========")
+    print(f"\n========== {nombre} ==========")
+    posiciones = set()
+
+    for patron in patrones:
+        posiciones.update(m.start() for m in re.finditer(patron, js))
+
     print("Coincidencias:", len(posiciones))
 
-    for pos in posiciones[:3]:
-        inicio = max(0, pos - 1200)
-        fin = min(len(js), pos + 2200)
+    for posicion in sorted(posiciones)[:5]:
         print("\n--- CONTEXTO ---")
-        print(js[inicio:fin])
+        print(js[max(0, posicion-500):posicion+1000])
 
-print("\n" + "=" * 65)
-print("FIN DEL ANÁLISIS")
-print("=" * 65)
+print("\nFIN DEL ANÁLISIS")
