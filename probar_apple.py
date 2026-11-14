@@ -11,22 +11,27 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9"
 }
 
+def buscar_contexto(texto, patrones, limite=5):
+    encontrados = 0
 
-def convertir_episodio(codigo):
-    coincidencia = re.search(r"S(\d+)\s*E(\d+)", codigo, re.I)
+    for patron in patrones:
+        for coincidencia in re.finditer(patron, texto, re.I):
+            inicio = max(0, coincidencia.start() - 250)
+            fin = min(len(texto), coincidencia.end() + 500)
 
-    if coincidencia:
-        temporada = coincidencia.group(1)
-        episodio = coincidencia.group(2)
-        return f"Temporada {temporada} Episodio {episodio}"
+            print("\n" + "-" * 60)
+            print(texto[inicio:fin])
+            encontrados += 1
 
-    return None
+            if encontrados >= limite:
+                return
 
+    if encontrados == 0:
+        print("No se encontraron coincidencias.")
 
-def buscar_datos():
+def main():
     print("=" * 60)
-    print("PRUEBA DE APPLE TV")
-    print("TWO AND A HALF MEN")
+    print("DIAGNÓSTICO DE APPLE TV")
     print("=" * 60)
 
     try:
@@ -37,65 +42,65 @@ def buscar_datos():
         )
 
         print("Estado HTTP:", respuesta.status_code)
-        print("Tamaño recibido:", len(respuesta.content), "bytes")
+        print("Bytes recibidos:", len(respuesta.content))
 
         respuesta.raise_for_status()
 
-        soup = BeautifulSoup(respuesta.text, "html.parser")
+        respuesta.encoding = respuesta.apparent_encoding
+        html = respuesta.text
 
-        print("\nTÍTULO DE LA PÁGINA:")
-        print(
-            soup.title.get_text(strip=True)
-            if soup.title else "No encontrado"
+        soup = BeautifulSoup(html, "html.parser")
+
+        print("\n1. TÍTULO")
+        print(soup.title.get_text(strip=True) if soup.title else "No encontrado")
+
+        print("\n2. METADATOS")
+        for meta in soup.find_all("meta"):
+            nombre = meta.get("property") or meta.get("name")
+            contenido = meta.get("content")
+
+            if nombre and contenido:
+                if any(x in nombre.lower() for x in [
+                    "title", "description", "episode", "season"
+                ]):
+                    print(nombre, "=", contenido)
+
+        print("\n3. DATOS JSON-LD")
+        json_ld = soup.find_all(
+            "script",
+            type="application/ld+json"
         )
 
-        print("\nBUSCANDO INFORMACIÓN DE EPISODIOS...")
-
-        encontrados = set()
-
-        # Buscar códigos de episodios en el HTML
-        for coincidencia in re.findall(
-            r"S\d{1,2}E\d{1,3}",
-            respuesta.text,
-            re.I
-        ):
-            formato = convertir_episodio(coincidencia)
-            if formato:
-                encontrados.add(formato)
-
-        # Buscar nombres y temporadas dentro de los datos JSON
-        for script in soup.find_all("script"):
-            contenido = script.string or script.get_text()
-
-            for coincidencia in re.findall(
-                r"S\d{1,2}E\d{1,3}",
-                contenido,
-                re.I
-            ):
-                formato = convertir_episodio(coincidencia)
-                if formato:
-                    encontrados.add(formato)
-
-        if encontrados:
-            print("\nEPISODIOS ENCONTRADOS:")
-            for episodio in sorted(
-                encontrados,
-                key=lambda x: tuple(map(int, re.findall(r"\d+", x)))
-            ):
-                print(episodio)
+        if json_ld:
+            for script in json_ld:
+                print((script.string or script.get_text())[:5000])
         else:
-            print("No se encontraron códigos de episodios en el HTML.")
+            print("No se encontró JSON-LD.")
 
-        print("\nPRUEBA TERMINADA.")
+        print("\n4. SCRIPTS DE LA PÁGINA")
+        for script in soup.find_all("script", src=True):
+            print(script.get("src"))
 
-    except requests.RequestException as error:
-        print("\nERROR DE CONEXIÓN:")
-        print(error)
+        print("\n5. BUSCANDO TEMPORADAS Y EPISODIOS")
+
+        patrones = [
+            r"season",
+            r"episode",
+            r"Two and a Half Men",
+            r"episodeNumber",
+            r"seasonNumber",
+            r"tvSeason",
+            r"tvEpisode",
+            r"adamId"
+        ]
+
+        buscar_contexto(html, patrones, limite=12)
+
+        print("\n6. RESULTADO")
+        print("Diagnóstico terminado.")
 
     except Exception as error:
-        print("\nERROR:")
-        print(repr(error))
-
+        print("ERROR:", repr(error))
 
 if __name__ == "__main__":
-    buscar_datos()
+    main()
