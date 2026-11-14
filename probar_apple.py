@@ -10,36 +10,50 @@ r = requests.get(
     timeout=40
 )
 r.raise_for_status()
-
 js = r.text
 
 print("=" * 65)
-print("ANÁLISIS DE CONFIGURACIÓN APPLE TV")
+print("DEFINICIONES DE PARÁMETROS APPLE TV")
 print("=" * 65)
 
-patrones = [
-    r"\bSp\s*=",
-    r"\bSi\s*=",
-    r"function\s+Si\s*\(",
-    r"const\s+Si\s*=",
-    r"let\s+Si\s*=",
-    r"requiredParamsMap",
-    r"configurations",
-    r"developerToken"
-]
+for nombre in ["Sp", "C9", "dH", "LT"]:
+    print(f"\n\n========== {nombre} ==========")
 
-for patron in patrones:
-    coincidencias = list(
-        re.finditer(patron, js)
-    )
+    if nombre == "Sp":
+        patrones = [
+            r"\bSp\s*=",
+            r"\bSp\s*:",
+            r"\bSp\b"
+        ]
+    elif nombre == "C9":
+        patrones = [
+            r"\bC9\s*=",
+            r"\bC9\s*:"
+        ]
+    elif nombre == "dH":
+        patrones = [
+            r"\bdH\s*="
+        ]
+    else:
+        patrones = [
+            r"\bLT\s*="
+        ]
 
-    print(f"\n{patron}: {len(coincidencias)} coincidencias")
+    posiciones = set()
 
-    for coincidencia in coincidencias[:3]:
-        inicio = max(0, coincidencia.start() - 500)
-        fin = min(len(js), coincidencia.start() + 1800)
+    for patron in patrones:
+        for m in re.finditer(patron, js):
+            posiciones.add(m.start())
 
+    print("Coincidencias:", len(posiciones))
+
+    for posicion in sorted(posiciones)[:8]:
+        inicio = max(0, posicion - 900)
+        fin = min(len(js), posicion + 1800)
+
+        print("\n--- CONTEXTO ---")
         print(js[inicio:fin])
-        print("\n" + "-" * 60)
 
-print("\nANÁLISIS TERMINADO")
+print("\n" + "=" * 65)
+print("FIN DEL ANÁLISIS")
+print("=" * 65)
