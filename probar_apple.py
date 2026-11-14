@@ -2,58 +2,107 @@
 import requests
 import json
 
-URL = "https://tv.apple.com/fr/show/two-and-a-half-men/umc.cmc.4syd3ylis0va9bpj1y923v20g?l=en"
+SHOW_ID = "umc.cmc.4syd3ylis0va9bpj1y923v20g"
+
+SEASON_ID = "umc.cmc.3oy3zhi4rvr8zqu2jwcyli4up"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
-    "Accept-Language": "en-US,en;q=0.9"
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Origin": "https://tv.apple.com",
+    "Referer": "https://tv.apple.com/"
 }
 
-respuesta = requests.get(URL, headers=HEADERS, timeout=30)
-respuesta.raise_for_status()
+PARAMS = {
+    "l": "en",
+    "sf": "143442",
+    "locale": "en-US"
+}
 
-html = respuesta.text
+BASE = "https://uts-api.itunes.apple.com"
+
+PRUEBAS = {
+    "EPISODIOS V2": (
+        f"{BASE}/uts/v2/content/{SEASON_ID}/episodes"
+    ),
+    "DETALLE TEMPORADA V3": (
+        f"{BASE}/uts/v3/shows/{SHOW_ID}/{SEASON_ID}"
+    )
+}
+
+sesion = requests.Session()
+sesion.headers.update(HEADERS)
 
 print("=" * 65)
-print("IDENTIFICADORES DE TEMPORADAS - APPLE TV")
+print("PRUEBA DE API - APPLE TV")
 print("=" * 65)
 
-posicion = html.find('"seasons":')
-
-if posicion == -1:
-    print("No se encontró la lista de temporadas.")
-else:
-    inicio = html.find("[", posicion)
+for nombre, url in PRUEBAS.items():
+    print(f"\n\n{'=' * 65}")
+    print(nombre)
+    print("=" * 65)
 
     try:
-        temporadas, fin = json.JSONDecoder().raw_decode(
-            html[inicio:]
+        respuesta = sesion.get(
+            url,
+            params=PARAMS,
+            timeout=40
         )
 
-        print("Temporadas encontradas:", len(temporadas))
+        print("URL:", respuesta.url)
+        print("HTTP:", respuesta.status_code)
+        print("Tipo:", respuesta.headers.get("Content-Type"))
 
-        for temporada in temporadas:
-            print(
-                f"Temporada {temporada.get('seasonNumber')}: "
-                f"{temporada.get('id')} | "
-                f"Episodios: {temporada.get('episodeCount')}"
-            )
+        if respuesta.status_code == 200:
+            try:
+                datos = respuesta.json()
+
+                nombre_archivo = (
+                    "respuesta_episodios.json"
+                    if "EPISODIOS" in nombre
+                    else "respuesta_temporada.json"
+                )
+
+                with open(
+                    nombre_archivo,
+                    "w",
+                    encoding="utf-8"
+                ) as archivo:
+                    json.dump(
+                        datos,
+                        archivo,
+                        ensure_ascii=False,
+                        indent=2
+                    )
+
+                print("JSON recibido correctamente.")
+                print("Archivo guardado:", nombre_archivo)
+
+                if isinstance(datos, dict):
+                    print("Claves principales:")
+                    print(list(datos.keys()))
+
+                print("\nPrimeros 5000 caracteres:")
+                print(
+                    json.dumps(
+                        datos,
+                        ensure_ascii=False,
+                        indent=2
+                    )[:5000]
+                )
+
+            except ValueError:
+                print("La respuesta no es JSON:")
+                print(respuesta.text[:2000])
+
+        else:
+            print("Respuesta del servidor:")
+            print(respuesta.text[:2000])
 
     except Exception as error:
-        print("Error leyendo temporadas:", error)
+        print("ERROR:", error)
 
 print("\n" + "=" * 65)
-print("CONFIGURACIÓN DE LA API DE EPISODIOS")
+print("PRUEBAS TERMINADAS")
 print("=" * 65)
-
-for palabra in ['"contentEpisodes"', '"getSeasonDetailById"']:
-    posicion = html.find(palabra)
-
-    print("\n", palabra)
-
-    if posicion == -1:
-        print("No encontrado en el HTML.")
-    else:
-        print(html[posicion:posicion + 700])
-
-print("\nDIAGNÓSTICO TERMINADO")
