@@ -2,55 +2,33 @@
 import requests
 import re
 
-URL = "https://tv.apple.com/assets/main~Bel1jRMkHC.js"
+URL = "https://tv.apple.com/assets/CommerceModalContainer~DzQAEzo7fs.js"
 
-r = requests.get(
-    URL,
-    headers={"User-Agent": "Mozilla/5.0"},
-    timeout=40
-)
+r = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=40)
 r.raise_for_status()
 js = r.text
 
 print("=" * 65)
-print("DEFINICIONES DE PARÁMETROS APPLE TV")
+print("INVESTIGACIÓN DEL TOKEN DE APPLE TV")
 print("=" * 65)
+print("Tamaño del archivo:", len(js))
 
-for nombre in ["Sp", "C9", "dH", "LT"]:
-    print(f"\n\n========== {nombre} ==========")
+patrones = [
+    r"\bSp\s*=",
+    r"\bSp\s*:",
+    r"developerToken",
+    r"media-user-token",
+    r"uts/v3/configurations"
+]
 
-    if nombre == "Sp":
-        patrones = [
-            r"\bSp\s*=",
-            r"\bSp\s*:",
-            r"\bSp\b"
-        ]
-    elif nombre == "C9":
-        patrones = [
-            r"\bC9\s*=",
-            r"\bC9\s*:"
-        ]
-    elif nombre == "dH":
-        patrones = [
-            r"\bdH\s*="
-        ]
-    else:
-        patrones = [
-            r"\bLT\s*="
-        ]
-
-    posiciones = set()
-
-    for patron in patrones:
-        for m in re.finditer(patron, js):
-            posiciones.add(m.start())
-
+for patron in patrones:
+    posiciones = [m.start() for m in re.finditer(patron, js, re.I)]
+    print(f"\n\nPATRÓN: {patron}")
     print("Coincidencias:", len(posiciones))
 
-    for posicion in sorted(posiciones)[:8]:
-        inicio = max(0, posicion - 900)
-        fin = min(len(js), posicion + 1800)
-
+    for pos in posiciones[:5]:
+        inicio = max(0, pos - 700)
+        fin = min(len(js), pos + 1300)
         print("\n--- CONTEXTO ---")
         print(js[inicio:fin])
 
