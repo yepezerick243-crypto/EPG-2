@@ -2,14 +2,14 @@
 <tv generator-info-name="EPG Disney Nickelodeon">
 <channel id="DisneyChannelLatinAmerica.ar@Panregional">
 <display-name>Disney Channel Latin America (1080p)</display-name>
-<icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/2025_Disney_Channel_logo.svg"/>
+<icon src="https://commons.wikimedia.org/wiki/Special:FilePath/2025_Disney_Channel_logo.svg?width=512"/>
 </channel>
 <channel id="NickelodeonLatinAmerica.us@Panregional">
 <display-name>Nickelodeon Latin America (1080p)</display-name>
 </channel>
 <channel id="DisneyChannelLatinAmerica.ar@Center">
 <display-name>Disney Channel Latin America Center (1080p)</display-name>
-<icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/2025_Disney_Channel_logo.svg"/>
+<icon src="https://commons.wikimedia.org/wiki/Special:FilePath/2025_Disney_Channel_logo.svg?width=512"/>
 </channel>
 <programme start="20261101013000 -0500" stop="20261101020000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
 <title lang="es">Jessie</title>
