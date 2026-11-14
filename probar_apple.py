@@ -1,108 +1,84 @@
 
 import requests
-import json
+import re
 
-SHOW_ID = "umc.cmc.4syd3ylis0va9bpj1y923v20g"
-
-SEASON_ID = "umc.cmc.3oy3zhi4rvr8zqu2jwcyli4up"
+URL = "https://tv.apple.com/fr/show/two-and-a-half-men/umc.cmc.4syd3ylis0va9bpj1y923v20g?l=en"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Origin": "https://tv.apple.com",
-    "Referer": "https://tv.apple.com/"
+    "Accept-Language": "en-US,en;q=0.9"
 }
 
-PARAMS = {
-    "l": "en",
-    "sf": "143442",
-    "locale": "en-US"
-}
-
-BASE = "https://uts-api.itunes.apple.com"
-
-PRUEBAS = {
-    "EPISODIOS V2": (
-        f"{BASE}/uts/v2/content/{SEASON_ID}/episodes"
-    ),
-    "DETALLE TEMPORADA V3": (
-        f"{BASE}/uts/v3/shows/{SHOW_ID}/{SEASON_ID}"
-    )
-}
-
-sesion = requests.Session()
-sesion.headers.update(HEADERS)
-
 print("=" * 65)
-print("PRUEBA DE API - APPLE TV")
+print("ANÁLISIS DE SOLICITUDES API V3")
 print("=" * 65)
 
-for nombre, url in PRUEBAS.items():
-    print(f"\n\n{'=' * 65}")
-    print(nombre)
-    print("=" * 65)
+respuesta = requests.get(
+    URL,
+    headers=HEADERS,
+    timeout=40
+)
+respuesta.raise_for_status()
 
-    try:
-        respuesta = sesion.get(
-            url,
-            params=PARAMS,
-            timeout=40
-        )
+html = respuesta.text
 
-        print("URL:", respuesta.url)
-        print("HTTP:", respuesta.status_code)
-        print("Tipo:", respuesta.headers.get("Content-Type"))
+# Buscar archivos JavaScript utilizados por Apple TV
+scripts = re.findall(
+    r'<script[^>]+src=["\']([^"\']+\.js[^"\']*)',
+    html
+)
 
-        if respuesta.status_code == 200:
-            try:
-                datos = respuesta.json()
+print("\nArchivos JavaScript encontrados:", len(scripts))
 
-                nombre_archivo = (
-                    "respuesta_episodios.json"
-                    if "EPISODIOS" in nombre
-                    else "respuesta_temporada.json"
-                )
+for script_url in scripts:
+    if script_url.startswith("/"):
+        script_url = "https://tv.apple.com" + script_url
+    elif script_url.startswith("//"):
+        script_url = "https:" + script_url
 
-                with open(
-                    nombre_archivo,
-                    "w",
-                    encoding="utf-8"
-                ) as archivo:
-                    json.dump(
-                        datos,
-                        archivo,
-                        ensure_ascii=False,
-                        indent=2
-                    )
+    if "main~" not in script_url:
+        continue
 
-                print("JSON recibido correctamente.")
-                print("Archivo guardado:", nombre_archivo)
+    print("\nDescargando:", script_url)
 
-                if isinstance(datos, dict):
-                    print("Claves principales:")
-                    print(list(datos.keys()))
+    js = requests.get(
+        script_url,
+        headers=HEADERS,
+        timeout=40
+    ).text
 
-                print("\nPrimeros 5000 caracteres:")
-                print(
-                    json.dumps(
-                        datos,
-                        ensure_ascii=False,
-                        indent=2
-                    )[:5000]
-                )
+    print("Tamaño:", len(js))
 
-            except ValueError:
-                print("La respuesta no es JSON:")
-                print(respuesta.text[:2000])
+    patrones = [
+        "getSeasonDetailById",
+        "getSeasonMetadataById",
+        "contentEpisodes",
+        "caller=web",
+        "caller",
+        "utsk",
+        "X-Apple-Store-Front",
+        "seasonId"
+    ]
 
-        else:
-            print("Respuesta del servidor:")
-            print(respuesta.text[:2000])
+    for patron in patrones:
+        posiciones = [
+            m.start()
+            for m in re.finditer(
+                re.escape(patron),
+                js,
+                re.IGNORECASE
+            )
+        ]
 
-    except Exception as error:
-        print("ERROR:", error)
+        print(f"\n{patron}: {len(posiciones)} coincidencias")
 
-print("\n" + "=" * 65)
-print("PRUEBAS TERMINADAS")
-print("=" * 65)
+        for posicion in posiciones[:2]:
+            inicio = max(0, posicion - 700)
+            fin = min(len(js), posicion + 1300)
+
+            print(js[inicio:fin])
+            print("\n" + "-" * 50)
+
+    break
+
+print("\nANÁLISIS TERMINADO")
