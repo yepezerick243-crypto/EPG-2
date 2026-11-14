@@ -2,33 +2,35 @@
 import requests
 import re
 
-URL = "https://tv.apple.com/assets/CommerceModalContainer~DzQAEzo7fs.js"
+URL = "https://tv.apple.com/assets/main~Bel1jRMkHC.js"
 
 r = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=40)
 r.raise_for_status()
 js = r.text
 
 print("=" * 65)
-print("INVESTIGACIÓN DEL TOKEN DE APPLE TV")
+print("INVESTIGACIÓN DE SOLICITUDES UTS")
 print("=" * 65)
-print("Tamaño del archivo:", len(js))
 
 patrones = [
-    r"\bSp\s*=",
-    r"\bSp\s*:",
-    r"developerToken",
-    r"media-user-token",
-    r"uts/v3/configurations"
+    "getShowEpisodes",
+    "getSeasonDetailById",
+    "getShowDetailById",
+    "contentEpisodes",
+    "requiredParamsMap",
+    "setCommonParams",
+    "createApiRequest",
+    "getTokenHeaders"
 ]
 
 for patron in patrones:
-    posiciones = [m.start() for m in re.finditer(patron, js, re.I)]
-    print(f"\n\nPATRÓN: {patron}")
+    posiciones = [m.start() for m in re.finditer(re.escape(patron), js)]
+    print(f"\n\n========== {patron} ==========")
     print("Coincidencias:", len(posiciones))
 
-    for pos in posiciones[:5]:
-        inicio = max(0, pos - 700)
-        fin = min(len(js), pos + 1300)
+    for pos in posiciones[:3]:
+        inicio = max(0, pos - 1200)
+        fin = min(len(js), pos + 2200)
         print("\n--- CONTEXTO ---")
         print(js[inicio:fin])
 
