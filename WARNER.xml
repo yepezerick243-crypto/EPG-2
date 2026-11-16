@@ -2,7 +2,7 @@
 <tv generator-info-name="WARNER EPG">
   <channel id="WC.co">
     <display-name lang="es">Warner Channel</display-name>
-    <icon src="https://es.wikipedia.org/wiki/Archivo:Warner_Channel_2026.svg?width=512"/>
+<icon src="https://es.wikipedia.org/wiki/Archivo:Warner_Channel_2026.svg"/>
   </channel>
   <programme start="20261104100900 -0500" stop="20261104103100 -0500" channel="WC.co">
     <title lang="en">The Big Bang Theory</title>
