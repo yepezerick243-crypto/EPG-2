@@ -1377,7 +1377,7 @@
     <sub-title>Temporada 7 Episodio 5 - For the Sake of the Child</sub-title>
     <episode-num system="onscreen">Temporada 7 Episodio 5</episode-num>
   </programme>
-  <programme start="20261113072800 -0500" stop="20261113075100 -0500" channel="WC.co">
+  <programme start="20261113072800 -0500" stop="20261113080800 -0500" channel="WC.co">
     <title lang="en">Two and a Half Men</title>
     <sub-title>Temporada 7 Episodio 6 - Give Me Your Thumb</sub-title>
     <episode-num system="onscreen">Temporada 7 Episodio 6</episode-num>
@@ -1464,7 +1464,7 @@
 </programme>
 <programme start="20261114034500 -0500" stop="20261114044000 -0500" channel="WC.co">
 <title lang="es">The Pitt</title>
-<desc lang="es">700 A.M.</desc>
+<desc lang="es">7:00 A.M.</desc>
 </programme>
 <programme start="20261114044000 -0500" stop="20261114045400 -0500" channel="WC.co">
 <title lang="es">Hollywood One on One</title>
@@ -1612,10 +1612,10 @@
 <title lang="es">Harry Potter y el Misterio del Príncipe</title>
 <desc lang="es">Voldemort está tomando el mundo humano como en el mundo mágico, Harry Potter sospecha que los peligros pueden llegar a Hogwarts.</desc>
 </programme>
-<programme start="20261115160400 -0500" stop="20261115163900 -0500" channel="WC.co">
+<programme start="20261115160400 -0500" stop="20261115203900 -0500" channel="WC.co">
 <title lang="es">Harry Potter y las reliquias de la muerte - Parte 1</title>
 </programme>
-<programme start="20261115163900 -0500" stop="20261115210100 -0500" channel="WC.co">
+<programme start="20261115203900 -0500" stop="20261115210100 -0500" channel="WC.co">
 <title lang="es">Harry Potter y las reliquias de la muerte - Parte 2</title>
 </programme>
 <programme start="20261115210100 -0500" stop="20261115230500 -0500" channel="WC.co">
@@ -1674,8 +1674,7 @@
 <desc lang="es">9:00 A.M</desc>
 </programme>
 <programme start="20261116042000 -0500" stop="20261116050000 -0500" channel="WC.co">
-<title lang="es">Cobra Kai</title>
-<desc lang="es">Bad Eggs</desc>
+<title lang="es">Cobra Kai Bad Eggs</title>
 </programme>
 <programme start="20261116050000 -0500" stop="20261116053900 -0500" channel="WC.co">
 <title lang="es">Hollywood one on one</title>
@@ -2027,7 +2026,7 @@
 </programme>
 <programme start="20261118210000 -0500" stop="20261118225300 -0500" channel="WC.co">
 <title lang="es">La momia: La tumba del emperador dragón</title>
-<desc lang="es">Rick O"Connell deberá enfrentarse esta vez al resucitado emperador Han, en un cuento épico que empieza en las tumbas de la antigua China y acaba en las heladas cimas del Himalaya.</desc>
+<desc lang="es">Rick O’Connell deberá enfrentarse esta vez al resucitado emperador Han, en un cuento épico que empieza en las tumbas de la antigua China y acaba en las heladas cimas del Himalaya.</desc>
 </programme>
 <programme start="20261118225300 -0500" stop="20261118231200 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
@@ -2149,9 +2148,13 @@
 <title lang="es">Geo-Tormenta</title>
 <desc lang="es">Tras un fallo en cadena de la mayor parte de los satélites meteorológicos, un diseñador de satélites deberá viajar al espacio junto a su hermano, con quien hace años que no se habla, para salvar al planeta de una terrible tormenta.</desc>
 </programme>
-<programme start="20261119164000 -0500" stop="20261119205800 -0500" channel="WC.co">
+<programme start="20261119164000 -0500" stop="20261119185400 -0500" channel="WC.co">
 <title lang="es">Hellboy II: El ejército dorado</title>
 <desc lang="es">Cuando se rompe la antigua tregua entre los seres humanos y los primeros hijos de la Tierra, el infierno se apodera del mundo. Solo Hellboy puede detener al oscuro líder Nuada y salvar al mundo de la aniquilación.</desc>
+</programme>
+<programme start="20261119185400 -0500" stop="20261119205800 -0500" channel="WC.co">
+<title lang="es">La momia: La tumba del emperador dragón</title>
+<desc lang="es">Rick O’Connell deberá enfrentarse esta vez al resucitado emperador Han, en un cuento épico que empieza en las tumbas de la antigua China y acaba en las heladas cimas del Himalaya.</desc>
 </programme>
 <programme start="20261119205800 -0500" stop="20261119224300 -0500" channel="WC.co">
 <title lang="es">Jack y Jill</title>
@@ -2263,9 +2266,13 @@
 <title lang="es">Cobra Kai</title>
 <desc lang="es">Muy lejos de casa</desc>
 </programme>
-<programme start="20261120093200 -0500" stop="20261120132100 -0500" channel="WC.co">
+<programme start="20261120093200 -0500" stop="20261120113100 -0500" channel="WC.co">
 <title lang="es">Cenicienta</title>
 <desc lang="es">Cenicienta es un musical moderno, con un lado atrevido, del clásico cuento de hadas. La ambiciosa protagonista tiene sueños y con la ayuda de su fabulosa Hada Madrina, persevera para cumplirlos.</desc>
+</programme>
+<programme start="20261120113100 -0500" stop="20261120132100 -0500" channel="WC.co">
+<title lang="es">El último hombre</title>
+<desc lang="es">John Smith es un pistolero sin moral que llega a un pueblo de Texas. Este lugar tiene un ambiente pesado ya que, en él, dos bandas rivales se intentan apoderar del pueblo al que este ha llegado.</desc>
 </programme>
 <programme start="20261120132100 -0500" stop="20261120152700 -0500" channel="WC.co">
 <title lang="es">Hellboy II: El ejército dorado</title>
@@ -2291,13 +2298,9 @@
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La contaminación de la colaboración</desc>
 </programme>
-<programme start="20261120231100 -0500" stop="20261120233100 -0500" channel="WC.co">
+<programme start="20261120231100 -0500" stop="20261120233500 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La regeneración de Protón</desc>
-</programme>
-<programme start="20261120233100 -0500" stop="20261120233500 -0500" channel="WC.co">
-<title lang="es">El último hombre</title>
-<desc lang="es">John Smith es un pistolero sin moral que llega a un pueblo de Texas. Este lugar tiene un ambiente pesado ya que, en él, dos bandas rivales se intentan apoderar del pueblo al que este ha llegado.</desc>
 </programme>
 <programme start="20261120233500 -0500" stop="20261120235600 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
@@ -2347,129 +2350,131 @@
 <title lang="es">Cobra Kai</title>
 <desc lang="es">All Valley</desc>
 </programme>
-<programme start="20261121042800 -0500" stop="20261121061100 -0500" channel="WC.co">
+<programme start="20261121042800 -0500" stop="20261121050000 -0500" channel="WC.co">
 <title lang="es">Cobra Kai</title>
 <desc lang="es">Muda</desc>
 </programme>
-<programme start="20261121061100 -0500" stop="20261121062900 -0500" channel="WC.co">
+<programme start="20261121050000 -0500" stop="20261121051600 -0500" channel="WC.co">
+<title lang="es">Hollywood One on One</title>
+</programme>
+<programme start="20261121051600 -0500" stop="20261121053800 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La reverberación de la celebración</desc>
 </programme>
-<programme start="20261121062900 -0500" stop="20261121065200 -0500" channel="WC.co">
+<programme start="20261121053800 -0500" stop="20261121060100 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La métrica matrimonial</desc>
 </programme>
-<programme start="20261121065200 -0500" stop="20261121071400 -0500" channel="WC.co">
+<programme start="20261121060100 -0500" stop="20261121062500 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La oscilación de la soledad</desc>
 </programme>
-<programme start="20261121071400 -0500" stop="20261121073400 -0500" channel="WC.co">
+<programme start="20261121062500 -0500" stop="20261121064700 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La triangulación de la separación</desc>
 </programme>
-<programme start="20261121073400 -0500" stop="20261121075700 -0500" channel="WC.co">
+<programme start="20261121064700 -0500" stop="20261121071000 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La correlación de la novelización</desc>
 </programme>
-<programme start="20261121075700 -0500" stop="20261121081700 -0500" channel="WC.co">
+<programme start="20261121071000 -0500" stop="20261121073300 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La nomenclatura neonatal</desc>
 </programme>
-<programme start="20261121081700 -0500" stop="20261121083700 -0500" channel="WC.co">
+<programme start="20261121073300 -0500" stop="20261121075600 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">I Can't Afford Hyenas</desc>
 </programme>
-<programme start="20261121083700 -0500" stop="20261121090000 -0500" channel="WC.co">
+<programme start="20261121075600 -0500" stop="20261121081900 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">Round One to the Hot Crazy Chick</desc>
 </programme>
-<programme start="20261121090000 -0500" stop="20261121092300 -0500" channel="WC.co">
+<programme start="20261121081900 -0500" stop="20261121084300 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">That Was Saliva, Alan</desc>
 </programme>
-<programme start="20261121092300 -0500" stop="20261121094200 -0500" channel="WC.co">
+<programme start="20261121084300 -0500" stop="20261121090600 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">Ate the Hamburgers, Wearing the Hats</desc>
 </programme>
-<programme start="20261121094200 -0500" stop="20261121100400 -0500" channel="WC.co">
+<programme start="20261121090600 -0500" stop="20261121092900 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">An Old Flame With a New Wick</desc>
 </programme>
-<programme start="20261121100400 -0500" stop="20261121102600 -0500" channel="WC.co">
+<programme start="20261121092900 -0500" stop="20261121095100 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">I Remember the Coatroom, I Just Don't Remember You</desc>
 </programme>
-<programme start="20261121102600 -0500" stop="20261121121200 -0500" channel="WC.co">
+<programme start="20261121095100 -0500" stop="20261121114000 -0500" channel="WC.co">
 <title lang="es">How the Grinch Stole Christmas</title>
 <desc lang="es">Cuando el Grinch, un ogro que odia la Navidad, decide robarse los regalos, conoce a una niña que tampoco siente el espíritu navideño. Ambos tienen muchas cosas en común y juntos van a descubrirlas.</desc>
 </programme>
-<programme start="20261121121200 -0500" stop="20261121135200 -0500" channel="WC.co">
-<title lang="es">La herencia del Sr. Deeds</title>
-<desc lang="es">Para el conocido propietario de Deeds Pizza la vida es fácil en el pequeño restaurante del pueblo, hasta que el empresario Chuck Cedar trae la noticia de que está a punto de amasar un tipo de pasta diferente.</desc>
+<programme start="20261121114000 -0500" stop="20261121132100 -0500" channel="WC.co">
+<title lang="es">La herencia del Sr. Deeds Para el conocido propietario de Deeds Pizza la vida es fácil en el pequeño restaurante del pueblo, hasta que el empresario Chuck Cedar trae la noticia de que está a punto de amasar un tipo de pasta diferente.</title>
 </programme>
-<programme start="20261121135200 -0500" stop="20261121152800 -0500" channel="WC.co">
+<programme start="20261121132100 -0500" stop="20261121150000 -0500" channel="WC.co">
 <title lang="es">Jack y Jill</title>
 <desc lang="es">Jack es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Como si fuera poco, la visita de pocos días se alarga más de lo previsto, y los hermanos intentarán limar asperezas.</desc>
 </programme>
-<programme start="20261121152800 -0500" stop="20261121171400 -0500" channel="WC.co">
+<programme start="20261121150000 -0500" stop="20261121165300 -0500" channel="WC.co">
 <title lang="es">Son como niños</title>
 <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
 </programme>
-<programme start="20261121171400 -0500" stop="20261121185800 -0500" channel="WC.co">
+<programme start="20261121165300 -0500" stop="20261121184500 -0500" channel="WC.co">
 <title lang="es">Dicen por ahí...</title>
 <desc lang="es">Sarah no está segura de casarse, su carrera se desploma y, además, descubrirá a través de rumores que su familia inspiró un libro y una película que revela la verdadera identidad de su padre.</desc>
 </programme>
-<programme start="20261121185800 -0500" stop="20261121210000 -0500" channel="WC.co">
+<programme start="20261121184500 -0500" stop="20261121205900 -0500" channel="WC.co">
 <title lang="es">Sólo para parejas</title>
 <desc lang="es">Cuatro parejas van de vacaciones a un resort en una isla tropical. Una de ellas está allí para trabajar en su matrimonio, las otras están para divertirse. Sin embargo, pronto descubren que la asistencia a la terapia conyugal es obligatoria.</desc>
 </programme>
-<programme start="20261121210000 -0500" stop="20261121224600 -0500" channel="WC.co">
+<programme start="20261121205900 -0500" stop="20261121225800 -0500" channel="WC.co">
 <title lang="es">Vacaciones</title>
 <desc lang="es">Con la esperanza de reconstruir los vínculos familiares, Rusty Griswold decide dar una sorpresa a su familia, proponiéndoles viajar a través del país hasta llegar al parque de atracciones, Walley World. Pero no todo sale como se esperaba.</desc>
 </programme>
-<programme start="20261121224600 -0500" stop="20261122010400 -0500" channel="WC.co">
+<programme start="20261121225800 -0500" stop="20261122011800 -0500" channel="WC.co">
 <title lang="es">Blue Beetle</title>
 <desc lang="es">Mientras busca su lugar en el mundo, Jaime Reyes encuentra biotecnología antigua que le otorga poderes impredecibles, cambiando su destino al convertirse en el superhéroe Blue Beetle.</desc>
 </programme>
-<programme start="20261122010400 -0500" stop="20261122012500 -0500" channel="WC.co">
+<programme start="20261122011800 -0500" stop="20261122014000 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La reverberación de la celebración</desc>
 </programme>
-<programme start="20261122012500 -0500" stop="20261122014600 -0500" channel="WC.co">
+<programme start="20261122014000 -0500" stop="20261122020100 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La métrica matrimonial</desc>
 </programme>
-<programme start="20261122014600 -0500" stop="20261122020700 -0500" channel="WC.co">
+<programme start="20261122020100 -0500" stop="20261122022400 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La oscilación de la soledad</desc>
 </programme>
-<programme start="20261122020700 -0500" stop="20261122022800 -0500" channel="WC.co">
+<programme start="20261122022400 -0500" stop="20261122024500 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La triangulación de la separación</desc>
 </programme>
-<programme start="20261122022800 -0500" stop="20261122025100 -0500" channel="WC.co">
+<programme start="20261122024500 -0500" stop="20261122030800 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La correlación de la novelización</desc>
 </programme>
-<programme start="20261122025100 -0500" stop="20261122030900 -0500" channel="WC.co">
+<programme start="20261122030800 -0500" stop="20261122032900 -0500" channel="WC.co">
 <title lang="es">The Big Bang Theory</title>
 <desc lang="es">La nomenclatura neonatal</desc>
 </programme>
-<programme start="20261122030900 -0500" stop="20261122033200 -0500" channel="WC.co">
+<programme start="20261122032900 -0500" stop="20261122035100 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
-<desc lang="es">Can't Afford Hyenas</desc>
+<desc lang="es">I Can't Afford Hyenas</desc>
 </programme>
-<programme start="20261122033200 -0500" stop="20261122035300 -0500" channel="WC.co">
+<programme start="20261122035100 -0500" stop="20261122041300 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">Round One to the Hot Crazy Chick</desc>
 </programme>
-<programme start="20261122035300 -0500" stop="20261122041500 -0500" channel="WC.co">
+<programme start="20261122041300 -0500" stop="20261122043600 -0500" channel="WC.co">
 <title lang="es">Two and a Half Men</title>
 <desc lang="es">That Was Saliva, Alan</desc>
 </programme>
-<programme start="20261122041500 -0500" stop="20261122050000 -0500" channel="WC.co">
-<title lang="es">The Pitt</title>
-<desc lang="es">3:00 P.M.</desc>
+<programme start="20261122043600 -0500" stop="20261122050000 -0500" channel="WC.co">
+<title lang="es">Miracle Workers</title>
+<desc lang="es">John Christ</desc>
 </programme>
 <programme start="20261122050000 -0500" stop="20261122061400 -0500" channel="WC.co">
 <title lang="es">Cobra Kai</title>
@@ -2515,8 +2520,116 @@
 <title lang="es">Harry Potter y el cáliz de fuego</title>
 <desc lang="es">En su cuarto año de estudios en Hogwarts, Harry vivirá muchas aventuras. Deberá competir en un peligroso torneo, y también tendrá que enfrentar a su némesis, el malvado Lord Voldemort, quien quiere acabar con Harry de una vez por todas.</desc>
 </programme>
-<programme start="20261122183600 -0500" stop="20261122205400 -0500" channel="WC.co">
+<programme start="20261122183600 -0500" stop="20261122210000 -0500" channel="WC.co">
 <title lang="es">Harry Potter y la Orden del Fénix</title>
 <desc lang="es">Con su advertencia acerca del regreso de Lord Voldemort siendo ridiculizada, Harry y Dumbledore se convierten en el objetivo de las autoridades mágicas mientras que una autoritaria burócrata lentamente se apodera del mando en Hogwarts.</desc>
+</programme>
+<programme start="20261122210000 -0500" stop="20261122233000 -0500" channel="WC.co">
+<title lang="es">Aquaman</title>
+<desc lang="es">Cuenta la historia del origen de Arthur Curry, mitad humano y mitad atlante, quien emprende la aventura de su vida; una que no solo lo obligará a enfrentarse a quien realmente es, sino que también lo ayudará a descubrir si es merecedero del trono.</desc>
+</programme>
+<programme start="20261122233000 -0500" stop="20261123012500 -0500" channel="WC.co">
+<title lang="es">El conjuro</title>
+<desc lang="es">Narra cómo los mundialmente reconocidos investigadores de fenómenos paranormales Ed y Lorraine Warren son llamados para ayudar a una familia aterrorizada por una presencia oscura en una granja alejada de todo. Basada en una historia real.</desc>
+</programme>
+<programme start="20261123012500 -0500" stop="20261123014600 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">La reserva del Ateneo</desc>
+</programme>
+<programme start="20261123014600 -0500" stop="20261123020700 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">La excitación por Bill Gates</desc>
+</programme>
+<programme start="20261123020700 -0500" stop="20261123022900 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">La disociación del inquilino</desc>
+</programme>
+<programme start="20261123022900 -0500" stop="20261123025200 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">El potencial de la reclusión</desc>
+</programme>
+<programme start="20261123025200 -0500" stop="20261123031200 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">La polarización del cometa</desc>
+</programme>
+<programme start="20261123031200 -0500" stop="20261123033100 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">La insuficiencia monetaria</desc>
+</programme>
+<programme start="20261123033100 -0500" stop="20261123035400 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">Hey, I Can Pee Outside in the Dark</desc>
+</programme>
+<programme start="20261123035400 -0500" stop="20261123041600 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">No Sniffing, No Wowing</desc>
+</programme>
+<programme start="20261123041600 -0500" stop="20261123050000 -0500" channel="WC.co">
+<title lang="es">The Pitt</title>
+<desc lang="es">4:00 P.M.</desc>
+</programme>
+<programme start="20261123050000 -0500" stop="20261123060000 -0500" channel="WC.co">
+<title lang="es">Cobra Kai</title>
+<desc lang="es">Hielo y fuego</desc>
+</programme>
+<programme start="20261123060000 -0500" stop="20261123073800 -0500" channel="WC.co">
+<title lang="es">Tiempo en contra</title>
+<desc lang="es">Brent Magna, un piloto de coches de carreras, tiene que afrontar una difícil misión cuando su esposa es secuestrada. Solo cuenta con la ayuda de una joven hacker, y su única esperanza es seguir las órdenes de una voz misteriosa.</desc>
+</programme>
+<programme start="20261123073800 -0500" stop="20261123080200 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">El regalo de bodas</desc>
+</programme>
+<programme start="20261123080200 -0500" stop="20261123082500 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">El cálculo de reproducción</desc>
+</programme>
+<programme start="20261123082500 -0500" stop="20261123084500 -0500" channel="WC.co">
+<title lang="es">The Big Bang Theory</title>
+<desc lang="es">Las turbulencias de Tam</desc>
+</programme>
+<programme start="20261123084500 -0500" stop="20261123090700 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">Enjoy Those Garlic Balls</desc>
+</programme>
+<programme start="20261123090700 -0500" stop="20261123093000 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">A Bag Full of Jawea</desc>
+</programme>
+<programme start="20261123093000 -0500" stop="20261123095400 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">Go Get Mommy's Bra</desc>
+</programme>
+<programme start="20261123095400 -0500" stop="20261123101800 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">Bad News From the Clinic</desc>
+</programme>
+<programme start="20261123101800 -0500" stop="20261123103900 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">The Price of Healthy Gums Is Eternal Vigilance</desc>
+</programme>
+<programme start="20261123103900 -0500" stop="20261123110300 -0500" channel="WC.co">
+<title lang="es">Two and a Half Men</title>
+<desc lang="es">A Kosher Slaughterhouse Out in Fontana</desc>
+</programme>
+<programme start="20261123110300 -0500" stop="20261123114200 -0500" channel="WC.co">
+<title lang="es">Cobra Kai</title>
+<desc lang="es">Topo</desc>
+</programme>
+<programme start="20261123114200 -0500" stop="20261123135500 -0500" channel="WC.co">
+<title lang="es">Blue Beetle</title>
+<desc lang="es">Mientras busca su lugar en el mundo, Jaime Reyes encuentra biotecnología antigua que le otorga poderes impredecibles, cambiando su destino al convertirse en el superhéroe Blue Beetle.</desc>
+</programme>
+<programme start="20261123135500 -0500" stop="20261123162600 -0500" channel="WC.co">
+<title lang="es">Aquaman</title>
+<desc lang="es">Cuenta la historia del origen de Arthur Curry, mitad humano y mitad atlante, quien emprende la aventura de su vida; una que no solo lo obligará a enfrentarse a quien realmente es, sino que también lo ayudará a descubrir si es merecedero del trono.</desc>
+</programme>
+<programme start="20261123162600 -0500" stop="20261123182000 -0500" channel="WC.co">
+<title lang="es">Sing, ¡ven y canta!</title>
+<desc lang="es">Buster Moon es un koala que está al frente del que alguna vez fuera uno de los teatros más importantes de la ciudad. Él busca revivir la gloria del recinto a través del más grande concurso de canto del mundo.</desc>
+</programme>
+<programme start="20261123182000 -0500" stop="20261123205800 -0500" channel="WC.co">
+<title lang="es">Harry Potter y el cáliz de fuego</title>
+<desc lang="es">En su cuarto año de estudios en Hogwarts, Harry vivirá muchas aventuras. Deberá competir en un peligroso torneo, y también tendrá que enfrentar a su némesis, el malvado Lord Voldemort, quien quiere acabar con Harry de una vez por todas.</desc>
 </programme>
 </tv>
